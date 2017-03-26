@@ -84,59 +84,59 @@
 "83","ipt401","unknown;N/A","testing",0
 "84","ipt401","unknown;N/A","testing",0
 "85","ipt401","unknown;N/A","testing",0
-"86","ipt401","unknown;N/A","testing",0
-"87","ipt401","testpasstiles;ImageP","testing",0
-"88","ipt401","testpasstiles;ImageP","testing",0
-"89","ipt401","testpasstiles;ImageP","testing",0
+"86","ipt401","unknown;N/A","testing",0.01
+"87","ipt401","testpasstiles;ImageP","testing",1.74
+"88","ipt401","testpasstiles;ImageP","testing",1.74
+"89","ipt401","testpasstiles;ImageP","testing",1.74
 "90","ipt401","unknown;ImagePasstil","Successful Login",1.74
-"91","ipt401","testpasstiles;ImageP","testing",0
-"92","ipt401","testpasstiles;ImageP","testing",0
-"93","ipt401","testpasstiles;ImageP","testing",0
+"91","ipt401","testpasstiles;ImageP","testing",1.75
+"92","ipt401","testpasstiles;ImageP","testing",1.75
+"93","ipt401","testpasstiles;ImageP","testing",1.75
 "94","ipt401","unknown;ImagePasstil","Successful Login",1.75
-"95","ipt401","testpasstiles;ImageP","testing",0
-"96","ipt401","testpasstiles;ImageP","testing",0
-"97","ipt401","testpasstiles;ImageP","testing",0
+"95","ipt401","testpasstiles;ImageP","testing",1.75
+"96","ipt401","testpasstiles;ImageP","testing",1.75
+"97","ipt401","testpasstiles;ImageP","testing",1.75
 "98","ipt401","unknown;ImagePasstil","Successful Login",1.75
-"99","ipt401","unknown;N/A","testing",0
-"100","ipt401","unknown;N/A","testing",0
-"101","ipt401","unknown;N/A","testing",0
-"102","ipt401","testpasstiles;ImageP","testing",0
-"103","ipt401","testpasstiles;ImageP","testing",0
-"104","ipt401","testpasstiles;ImageP","testing",0
+"99","ipt401","unknown;N/A","testing",2.95
+"100","ipt401","unknown;N/A","testing",2.95
+"101","ipt401","unknown;N/A","testing",3.07
+"102","ipt401","testpasstiles;ImageP","testing",3.07
+"103","ipt401","testpasstiles;ImageP","testing",3.07
+"104","ipt401","testpasstiles;ImageP","testing",3.07
 "105","ipt401","unknown;ImagePasstil","Successful Login",3.07
-"106","ipt401","testpasstiles;ImageP","testing",0
-"107","ipt401","testpasstiles;ImageP","testing",0
-"108","ipt401","testpasstiles;ImageP","testing",0
+"106","ipt401","testpasstiles;ImageP","testing",3.07
+"107","ipt401","testpasstiles;ImageP","testing",3.07
+"108","ipt401","testpasstiles;ImageP","testing",3.07
 "109","ipt401","unknown;ImagePasstil","Successful Login",3.07
-"110","ipt401","testpasstiles;ImageP","testing",0
-"111","ipt401","testpasstiles;ImageP","testing",0
-"112","ipt401","testpasstiles;ImageP","testing",0
+"110","ipt401","testpasstiles;ImageP","testing",3.07
+"111","ipt401","testpasstiles;ImageP","testing",3.07
+"112","ipt401","testpasstiles;ImageP","testing",3.07
 "113","ipt401","unknown;ImagePasstil","Successful Login",3.07
-"114","ipt401","unknown;N/A","testing",0
-"115","ipt401","unknown;N/A","testing",0
-"116","ipt401","unknown;N/A","testing",0
-"117","ipt401","testpasstiles;ImageP","testing",0
-"118","ipt401","testpasstiles;ImageP","testing",0
-"119","ipt401","testpasstiles;ImageP","testing",0
+"114","ipt401","unknown;N/A","testing",3.07
+"115","ipt401","unknown;N/A","testing",4.75
+"116","ipt401","unknown;N/A","testing",4.75
+"117","ipt401","testpasstiles;ImageP","testing",7.08
+"118","ipt401","testpasstiles;ImageP","testing",7.08
+"119","ipt401","testpasstiles;ImageP","testing",7.08
 "120","ipt401","unknown;ImagePasstil","Successful Login",7.08
-"121","ipt401","testpasstiles;ImageP","testing",0
-"122","ipt401","testpasstiles;ImageP","testing",0
-"123","ipt401","testpasstiles;ImageP","testing",0
+"121","ipt401","testpasstiles;ImageP","testing",7.08
+"122","ipt401","testpasstiles;ImageP","testing",7.08
+"123","ipt401","testpasstiles;ImageP","testing",7.08
 "124","ipt401","unknown;ImagePasstil","Successful Login",7.08
-"125","ipt401","testpasstiles;ImageP","testing",0
-"126","ipt401","testpasstiles;ImageP","testing",0
-"127","ipt401","testpasstiles;ImageP","testing",0
+"125","ipt401","testpasstiles;ImageP","testing",7.08
+"126","ipt401","testpasstiles;ImageP","testing",7.08
+"127","ipt401","testpasstiles;ImageP","testing",7.08
 "128","ipt401","unknown;ImagePasstil","Successful Login",7.08
-"129","ipt401","unknown;N/A","testing",0
-"130","ipt401","unknown;N/A","testing",0
-"131","ipt401","unknown;N/A","testing",0
-"132","ipt401","unknown;N/A","testing",0
-"133","ipt401","unknown;N/A","testing",0
-"134","ipt401","unknown;N/A","testing",0
-"135","ipt401","unknown;N/A","testing",0
-"136","ipt401","unknown;N/A","testing",0
-"137","ipt401","unknown;N/A","testing",0
-"138","ipt402","unknown;N/A","testing",0
+"129","ipt401","unknown;N/A","testing",7.09
+"130","ipt401","unknown;N/A","testing",7.09
+"131","ipt401","unknown;N/A","testing",7.82
+"132","ipt401","unknown;N/A","testing",7.82
+"133","ipt401","unknown;N/A","testing",9.12
+"134","ipt401","unknown;N/A","testing",10.07
+"135","ipt401","unknown;N/A","testing",10.96
+"136","ipt401","unknown;N/A","testing",12.49
+"137","ipt401","unknown;N/A","testing",12.49
+"138","ipt402","unknown;N/A","testing",-0.02
 "139","ipt402","testpasstiles;ImageP","Created Password",0
 "140","ipt402","testpasstiles;ImageP","testing",0
 "141","ipt402","testpasstiles;ImageP","testing",0
@@ -258,129 +258,129 @@
 "257","ipt402","testpasstiles;ImageP","testing",0
 "258","ipt402","testpasstiles;ImageP","testing",0
 "259","ipt402","unknown;ImagePasstil","Successful Login",0
-"260","ipt402","testpasstiles;ImageP","testing",0
-"261","ipt402","testpasstiles;ImageP","testing",0
-"262","ipt402","testpasstiles;ImageP","testing",0
+"260","ipt402","testpasstiles;ImageP","testing",0.01
+"261","ipt402","testpasstiles;ImageP","testing",0.01
+"262","ipt402","testpasstiles;ImageP","testing",0.01
 "263","ipt402","unknown;ImagePasstil","Successful Login",0.01
-"264","ipt402","unknown;N/A","testing",0
-"265","ipt402","unknown;N/A","testing",0
-"266","ipt402","unknown;N/A","testing",0
-"267","ipt402","unknown;N/A","testing",0
-"268","ipt402","unknown;N/A","testing",0
-"269","ipt402","unknown;N/A","testing",0
-"270","ipt402","unknown;N/A","testing",0
-"271","ipt402","unknown;N/A","testing",0
-"272","ipt402","unknown;N/A","testing",0
-"273","ipt402","unknown;N/A","testing",0
-"274","ipt402","unknown;N/A","testing",0
-"275","ipt402","unknown;N/A","testing",0
-"276","ipt402","unknown;N/A","testing",0
-"277","ipt402","unknown;N/A","testing",0
-"278","ipt402","unknown;N/A","testing",0
-"279","ipt402","unknown;N/A","testing",0
-"280","ipt402","unknown;N/A","testing",0
-"281","ipt402","unknown;N/A","testing",0
-"282","ipt402","unknown;N/A","testing",0
-"283","ipt402","unknown;N/A","testing",0
-"284","ipt402","unknown;N/A","testing",0
-"285","ipt402","unknown;N/A","testing",0
-"286","ipt402","unknown;N/A","testing",0
-"287","ipt402","unknown;N/A","testing",0
-"288","ipt402","unknown;N/A","testing",0
-"289","ipt402","unknown;N/A","testing",0
-"290","ipt402","unknown;N/A","testing",0
-"291","ipt402","unknown;N/A","testing",0
-"292","ipt402","unknown;N/A","testing",0
-"293","ipt402","unknown;N/A","testing",0
-"294","ipt402","unknown;N/A","testing",0
-"295","ipt402","unknown;N/A","testing",0
-"296","ipt402","unknown;N/A","testing",0
-"297","ipt402","unknown;N/A","testing",0
-"298","ipt402","unknown;N/A","testing",0
-"299","ipt402","unknown;N/A","testing",0
-"300","ipt402","unknown;N/A","testing",0
-"301","ipt402","testpasstiles;ImageP","testing",0
-"302","ipt402","testpasstiles;ImageP","testing",0
-"303","ipt402","testpasstiles;ImageP","testing",0
+"264","ipt402","unknown;N/A","testing",0.01
+"265","ipt402","unknown;N/A","testing",0.01
+"266","ipt402","unknown;N/A","testing",0.01
+"267","ipt402","unknown;N/A","testing",0.98
+"268","ipt402","unknown;N/A","testing",0.98
+"269","ipt402","unknown;N/A","testing",0.98
+"270","ipt402","unknown;N/A","testing",0.98
+"271","ipt402","unknown;N/A","testing",1.1
+"272","ipt402","unknown;N/A","testing",1.1
+"273","ipt402","unknown;N/A","testing",1.1
+"274","ipt402","unknown;N/A","testing",1.1
+"275","ipt402","unknown;N/A","testing",1.1
+"276","ipt402","unknown;N/A","testing",1.11
+"277","ipt402","unknown;N/A","testing",1.11
+"278","ipt402","unknown;N/A","testing",1.11
+"279","ipt402","unknown;N/A","testing",1.11
+"280","ipt402","unknown;N/A","testing",1.11
+"281","ipt402","unknown;N/A","testing",1.11
+"282","ipt402","unknown;N/A","testing",1.14
+"283","ipt402","unknown;N/A","testing",1.14
+"284","ipt402","unknown;N/A","testing",1.14
+"285","ipt402","unknown;N/A","testing",1.14
+"286","ipt402","unknown;N/A","testing",1.14
+"287","ipt402","unknown;N/A","testing",1.14
+"288","ipt402","unknown;N/A","testing",1.14
+"289","ipt402","unknown;N/A","testing",1.14
+"290","ipt402","unknown;N/A","testing",1.14
+"291","ipt402","unknown;N/A","testing",1.14
+"292","ipt402","unknown;N/A","testing",1.14
+"293","ipt402","unknown;N/A","testing",1.14
+"294","ipt402","unknown;N/A","testing",1.78
+"295","ipt402","unknown;N/A","testing",1.93
+"296","ipt402","unknown;N/A","testing",3.18
+"297","ipt402","unknown;N/A","testing",3.18
+"298","ipt402","unknown;N/A","testing",3.18
+"299","ipt402","unknown;N/A","testing",3.18
+"300","ipt402","unknown;N/A","testing",3.18
+"301","ipt402","testpasstiles;ImageP","testing",3.71
+"302","ipt402","testpasstiles;ImageP","testing",3.71
+"303","ipt402","testpasstiles;ImageP","testing",3.71
 "304","ipt402","unknown;ImagePasstil","Successful Login",3.71
-"305","ipt402","testpasstiles;ImageP","testing",0
-"306","ipt402","testpasstiles;ImageP","testing",0
-"307","ipt402","testpasstiles;ImageP","testing",0
+"305","ipt402","testpasstiles;ImageP","testing",3.71
+"306","ipt402","testpasstiles;ImageP","testing",3.71
+"307","ipt402","testpasstiles;ImageP","testing",3.71
 "308","ipt402","unknown;ImagePasstil","Successful Login",3.71
-"309","ipt402","testpasstiles;ImageP","testing",0
-"310","ipt402","testpasstiles;ImageP","testing",0
-"311","ipt402","testpasstiles;ImageP","testing",0
+"309","ipt402","testpasstiles;ImageP","testing",3.71
+"310","ipt402","testpasstiles;ImageP","testing",3.71
+"311","ipt402","testpasstiles;ImageP","testing",3.71
 "312","ipt402","unknown;ImagePasstil","Successful Login",3.71
-"313","ipt402","testpasstiles;ImageP","testing",0
-"314","ipt402","testpasstiles;ImageP","testing",0
-"315","ipt402","testpasstiles;ImageP","testing",0
+"313","ipt402","testpasstiles;ImageP","testing",3.71
+"314","ipt402","testpasstiles;ImageP","testing",3.71
+"315","ipt402","testpasstiles;ImageP","testing",3.71
 "316","ipt402","unknown;ImagePasstil","Successful Login",3.71
-"317","ipt402","unknown;N/A","testing",0
-"318","ipt402","unknown;N/A","testing",0
-"319","ipt402","unknown;N/A","testing",0
-"320","ipt402","unknown;N/A","testing",0
-"321","ipt402","unknown;N/A","testing",0
-"322","ipt402","unknown;N/A","testing",0
-"323","ipt402","unknown;N/A","testing",0
-"324","ipt402","unknown;N/A","testing",0
-"325","ipt402","unknown;N/A","testing",0
-"326","ipt402","unknown;N/A","testing",0
-"327","ipt402","unknown;N/A","testing",0
-"328","ipt402","unknown;N/A","testing",0
-"329","ipt402","unknown;N/A","testing",0
-"330","ipt402","unknown;N/A","testing",0
-"331","ipt402","unknown;N/A","testing",0
-"332","ipt402","unknown;N/A","testing",0
-"333","ipt402","unknown;N/A","testing",0
-"334","ipt402","unknown;N/A","testing",0
-"335","ipt402","unknown;N/A","testing",0
-"336","ipt402","unknown;N/A","testing",0
-"337","ipt402","unknown;N/A","testing",0
-"338","ipt402","unknown;N/A","testing",0
-"339","ipt402","testpasstiles;ImageP","testing",0
-"340","ipt402","testpasstiles;ImageP","testing",0
-"341","ipt402","testpasstiles;ImageP","testing",0
+"317","ipt402","unknown;N/A","testing",3.72
+"318","ipt402","unknown;N/A","testing",3.82
+"319","ipt402","unknown;N/A","testing",3.82
+"320","ipt402","unknown;N/A","testing",3.82
+"321","ipt402","unknown;N/A","testing",3.82
+"322","ipt402","unknown;N/A","testing",3.82
+"323","ipt402","unknown;N/A","testing",3.82
+"324","ipt402","unknown;N/A","testing",3.82
+"325","ipt402","unknown;N/A","testing",3.82
+"326","ipt402","unknown;N/A","testing",3.82
+"327","ipt402","unknown;N/A","testing",3.82
+"328","ipt402","unknown;N/A","testing",3.82
+"329","ipt402","unknown;N/A","testing",3.82
+"330","ipt402","unknown;N/A","testing",3.82
+"331","ipt402","unknown;N/A","testing",3.82
+"332","ipt402","unknown;N/A","testing",3.82
+"333","ipt402","unknown;N/A","testing",3.82
+"334","ipt402","unknown;N/A","testing",3.83
+"335","ipt402","unknown;N/A","testing",3.83
+"336","ipt402","unknown;N/A","testing",4.05
+"337","ipt402","unknown;N/A","testing",4.05
+"338","ipt402","unknown;N/A","testing",5.09
+"339","ipt402","testpasstiles;ImageP","testing",6.5
+"340","ipt402","testpasstiles;ImageP","testing",6.5
+"341","ipt402","testpasstiles;ImageP","testing",6.5
 "342","ipt402","unknown;ImagePasstil","Successful Login",6.5
-"343","ipt402","testpasstiles;ImageP","testing",0
-"344","ipt402","testpasstiles;ImageP","testing",0
-"345","ipt402","testpasstiles;ImageP","testing",0
+"343","ipt402","testpasstiles;ImageP","testing",6.5
+"344","ipt402","testpasstiles;ImageP","testing",6.5
+"345","ipt402","testpasstiles;ImageP","testing",6.5
 "346","ipt402","unknown;ImagePasstil","Successful Login",6.5
-"347","ipt402","testpasstiles;ImageP","testing",0
-"348","ipt402","testpasstiles;ImageP","testing",0
-"349","ipt402","testpasstiles;ImageP","testing",0
+"347","ipt402","testpasstiles;ImageP","testing",6.51
+"348","ipt402","testpasstiles;ImageP","testing",6.51
+"349","ipt402","testpasstiles;ImageP","testing",6.51
 "350","ipt402","unknown;ImagePasstil","Successful Login",6.51
-"351","ipt402","unknown;N/A","testing",0
-"352","ipt402","unknown;N/A","testing",0
-"353","ipt402","unknown;N/A","testing",0
-"354","ipt402","unknown;N/A","testing",0
-"355","ipt402","unknown;N/A","testing",0
-"356","ipt402","unknown;N/A","testing",0
-"357","ipt402","unknown;N/A","testing",0
-"358","ipt402","unknown;N/A","testing",0
-"359","ipt402","unknown;N/A","testing",0
-"360","ipt402","unknown;N/A","testing",0
-"361","ipt402","unknown;N/A","testing",0
-"362","ipt402","unknown;N/A","testing",0
-"363","ipt402","unknown;N/A","testing",0
-"364","ipt402","testpasstiles;ImageP","testing",0
-"365","ipt402","testpasstiles;ImageP","testing",0
-"366","ipt402","testpasstiles;ImageP","testing",0
+"351","ipt402","unknown;N/A","testing",6.51
+"352","ipt402","unknown;N/A","testing",7.25
+"353","ipt402","unknown;N/A","testing",7.26
+"354","ipt402","unknown;N/A","testing",7.58
+"355","ipt402","unknown;N/A","testing",7.58
+"356","ipt402","unknown;N/A","testing",7.84
+"357","ipt402","unknown;N/A","testing",7.88
+"358","ipt402","unknown;N/A","testing",7.88
+"359","ipt402","unknown;N/A","testing",7.88
+"360","ipt402","unknown;N/A","testing",7.88
+"361","ipt402","unknown;N/A","testing",7.88
+"362","ipt402","unknown;N/A","testing",7.88
+"363","ipt402","unknown;N/A","testing",7.92
+"364","ipt402","testpasstiles;ImageP","testing",7.96
+"365","ipt402","testpasstiles;ImageP","testing",7.96
+"366","ipt402","testpasstiles;ImageP","testing",7.96
 "367","ipt402","unknown;ImagePasstil","Successful Login",7.96
-"368","ipt402","testpasstiles;ImageP","testing",0
-"369","ipt402","testpasstiles;ImageP","testing",0
-"370","ipt402","testpasstiles;ImageP","testing",0
+"368","ipt402","testpasstiles;ImageP","testing",7.96
+"369","ipt402","testpasstiles;ImageP","testing",7.96
+"370","ipt402","testpasstiles;ImageP","testing",7.96
 "371","ipt402","unknown;ImagePasstil","Successful Login",7.96
-"372","ipt402","testpasstiles;ImageP","testing",0
-"373","ipt402","testpasstiles;ImageP","testing",0
-"374","ipt402","testpasstiles;ImageP","testing",0
+"372","ipt402","testpasstiles;ImageP","testing",7.96
+"373","ipt402","testpasstiles;ImageP","testing",7.96
+"374","ipt402","testpasstiles;ImageP","testing",7.96
 "375","ipt402","unknown;ImagePasstil","Successful Login",7.96
-"376","ipt402","unknown;N/A","testing",0
-"377","ipt402","unknown;N/A","testing",0
-"378","ipt402","unknown;N/A","testing",0
-"379","ipt402","unknown;N/A","testing",0
-"380","ipt402","unknown;N/A","testing",0
-"381","ipt402","unknown;N/A","testing",0
-"382","ipt402","unknown;N/A","testing",0
+"376","ipt402","unknown;N/A","testing",7.96
+"377","ipt402","unknown;N/A","testing",8
+"378","ipt402","unknown;N/A","testing",8
+"379","ipt402","unknown;N/A","testing",8
+"380","ipt402","unknown;N/A","testing",8
+"381","ipt402","unknown;N/A","testing",8
+"382","ipt402","unknown;N/A","testing",8
 "383","ipt403","unknown;N/A","testing",0
 "384","ipt403","testpasstiles;ImageP","Created Password",0
 "385","ipt403","testpasstiles;ImageP","testing",0
@@ -407,11 +407,11 @@
 "406","ipt403","unknown;ImagePasstil","Failed Login",0
 "407","ipt403","testpasstiles;ImageP","testing",0
 "408","ipt403","testpasstiles;ImageP","testing",0
-"409","ipt403","testpasstiles;ImageP","testing",0
-"410","ipt403","testpasstiles;ImageP","testing",0
-"411","ipt403","testpasstiles;ImageP","testing",0
-"412","ipt403","testpasstiles;ImageP","testing",0
-"413","ipt403","testpasstiles;ImageP","testing",0
+"409","ipt403","testpasstiles;ImageP","testing",0.01
+"410","ipt403","testpasstiles;ImageP","testing",0.01
+"411","ipt403","testpasstiles;ImageP","testing",0.01
+"412","ipt403","testpasstiles;ImageP","testing",0.01
+"413","ipt403","testpasstiles;ImageP","testing",0.01
 "414","ipt403","unknown;ImagePasstil","Failed Login",0.01
 "415","ipt403","testpasstiles;ImageP","Created Password",0
 "416","ipt403","testpasstiles;ImageP","testing",0
@@ -495,69 +495,69 @@
 "494","ipt403","unknown;N/A","testing",0
 "495","ipt403","unknown;N/A","testing",0
 "496","ipt403","unknown;N/A","testing",0
-"497","ipt403","unknown;N/A","testing",0
-"498","ipt403","testpasstiles;ImageP","testing",0
-"499","ipt403","testpasstiles;ImageP","testing",0
-"500","ipt403","testpasstiles;ImageP","testing",0
+"497","ipt403","unknown;N/A","testing",0.01
+"498","ipt403","testpasstiles;ImageP","testing",1.01
+"499","ipt403","testpasstiles;ImageP","testing",1.01
+"500","ipt403","testpasstiles;ImageP","testing",1.01
 "501","ipt403","unknown;ImagePasstil","Successful Login",1.01
-"502","ipt403","testpasstiles;ImageP","testing",0
-"503","ipt403","testpasstiles;ImageP","testing",0
-"504","ipt403","testpasstiles;ImageP","testing",0
+"502","ipt403","testpasstiles;ImageP","testing",1.01
+"503","ipt403","testpasstiles;ImageP","testing",1.01
+"504","ipt403","testpasstiles;ImageP","testing",1.01
 "505","ipt403","unknown;ImagePasstil","Successful Login",1.01
-"506","ipt403","testpasstiles;ImageP","testing",0
-"507","ipt403","testpasstiles;ImageP","testing",0
-"508","ipt403","testpasstiles;ImageP","testing",0
+"506","ipt403","testpasstiles;ImageP","testing",1.01
+"507","ipt403","testpasstiles;ImageP","testing",1.01
+"508","ipt403","testpasstiles;ImageP","testing",1.01
 "509","ipt403","unknown;ImagePasstil","Successful Login",1.01
-"510","ipt403","unknown;N/A","testing",0
-"511","ipt403","unknown;N/A","testing",0
-"512","ipt403","testpasstiles;ImageP","testing",0
-"513","ipt403","testpasstiles;ImageP","testing",0
-"514","ipt403","testpasstiles;ImageP","testing",0
+"510","ipt403","unknown;N/A","testing",1.01
+"511","ipt403","unknown;N/A","testing",1.12
+"512","ipt403","testpasstiles;ImageP","testing",3.03
+"513","ipt403","testpasstiles;ImageP","testing",3.03
+"514","ipt403","testpasstiles;ImageP","testing",3.03
 "515","ipt403","unknown;ImagePasstil","Failed Login",3.03
-"516","ipt403","testpasstiles;ImageP","testing",0
-"517","ipt403","testpasstiles;ImageP","testing",0
-"518","ipt403","testpasstiles;ImageP","testing",0
+"516","ipt403","testpasstiles;ImageP","testing",3.03
+"517","ipt403","testpasstiles;ImageP","testing",3.03
+"518","ipt403","testpasstiles;ImageP","testing",3.03
 "519","ipt403","unknown;ImagePasstil","Successful Login",3.03
-"520","ipt403","testpasstiles;ImageP","testing",0
-"521","ipt403","testpasstiles;ImageP","testing",0
-"522","ipt403","testpasstiles;ImageP","testing",0
+"520","ipt403","testpasstiles;ImageP","testing",3.03
+"521","ipt403","testpasstiles;ImageP","testing",3.03
+"522","ipt403","testpasstiles;ImageP","testing",3.03
 "523","ipt403","unknown;ImagePasstil","Failed Login",3.03
-"524","ipt403","testpasstiles;ImageP","testing",0
-"525","ipt403","testpasstiles;ImageP","testing",0
-"526","ipt403","testpasstiles;ImageP","testing",0
+"524","ipt403","testpasstiles;ImageP","testing",3.03
+"525","ipt403","testpasstiles;ImageP","testing",3.03
+"526","ipt403","testpasstiles;ImageP","testing",3.03
 "527","ipt403","unknown;ImagePasstil","Successful Login",3.03
-"528","ipt403","testpasstiles;ImageP","testing",0
-"529","ipt403","testpasstiles;ImageP","testing",0
-"530","ipt403","testpasstiles;ImageP","testing",0
+"528","ipt403","testpasstiles;ImageP","testing",3.03
+"529","ipt403","testpasstiles;ImageP","testing",3.03
+"530","ipt403","testpasstiles;ImageP","testing",3.03
 "531","ipt403","unknown;ImagePasstil","Successful Login",3.03
-"532","ipt403","unknown;N/A","testing",0
-"533","ipt403","testpasstiles;ImageP","testing",0
-"534","ipt403","testpasstiles;ImageP","testing",0
-"535","ipt403","testpasstiles;ImageP","testing",0
+"532","ipt403","unknown;N/A","testing",3.06
+"533","ipt403","testpasstiles;ImageP","testing",6.01
+"534","ipt403","testpasstiles;ImageP","testing",6.01
+"535","ipt403","testpasstiles;ImageP","testing",6.01
 "536","ipt403","unknown;ImagePasstil","Successful Login",6.01
-"537","ipt403","testpasstiles;ImageP","testing",0
-"538","ipt403","testpasstiles;ImageP","testing",0
-"539","ipt403","testpasstiles;ImageP","testing",0
+"537","ipt403","testpasstiles;ImageP","testing",6.01
+"538","ipt403","testpasstiles;ImageP","testing",6.01
+"539","ipt403","testpasstiles;ImageP","testing",6.01
 "540","ipt403","unknown;ImagePasstil","Successful Login",6.01
-"541","ipt403","testpasstiles;ImageP","testing",0
-"542","ipt403","testpasstiles;ImageP","testing",0
-"543","ipt403","testpasstiles;ImageP","testing",0
+"541","ipt403","testpasstiles;ImageP","testing",6.01
+"542","ipt403","testpasstiles;ImageP","testing",6.01
+"543","ipt403","testpasstiles;ImageP","testing",6.01
 "544","ipt403","unknown;ImagePasstil","Successful Login",6.01
-"545","ipt403","unknown;N/A","testing",0
-"546","ipt403","testpasstiles;ImageP","testing",0
-"547","ipt403","testpasstiles;ImageP","testing",0
-"548","ipt403","testpasstiles;ImageP","testing",0
+"545","ipt403","unknown;N/A","testing",6.01
+"546","ipt403","testpasstiles;ImageP","testing",7.52
+"547","ipt403","testpasstiles;ImageP","testing",7.52
+"548","ipt403","testpasstiles;ImageP","testing",7.52
 "549","ipt403","unknown;ImagePasstil","Successful Login",7.52
-"550","ipt403","testpasstiles;ImageP","testing",0
-"551","ipt403","testpasstiles;ImageP","testing",0
-"552","ipt403","testpasstiles;ImageP","testing",0
+"550","ipt403","testpasstiles;ImageP","testing",7.52
+"551","ipt403","testpasstiles;ImageP","testing",7.52
+"552","ipt403","testpasstiles;ImageP","testing",7.52
 "553","ipt403","unknown;ImagePasstil","Successful Login",7.52
-"554","ipt403","testpasstiles;ImageP","testing",0
-"555","ipt403","testpasstiles;ImageP","testing",0
-"556","ipt403","testpasstiles;ImageP","testing",0
+"554","ipt403","testpasstiles;ImageP","testing",7.52
+"555","ipt403","testpasstiles;ImageP","testing",7.52
+"556","ipt403","testpasstiles;ImageP","testing",7.52
 "557","ipt403","unknown;ImagePasstil","Successful Login",7.52
-"558","ipt403","unknown;N/A","testing",0
-"559","ipt404","unknown;N/A","testing",0
+"558","ipt403","unknown;N/A","testing",7.52
+"559","ipt404","unknown;N/A","testing",-0.02
 "560","ipt404","testpasstiles;ImageP","Created Password",0
 "561","ipt404","testpasstiles;ImageP","testing",0
 "562","ipt404","testpasstiles;ImageP","testing",0
@@ -634,39 +634,39 @@
 "633","ipt404","testpasstiles;ImageP","testing",0
 "634","ipt404","testpasstiles;ImageP","testing",0
 "635","ipt404","unknown;ImagePasstil","Successful Login",0
-"636","ipt404","unknown;N/A","testing",0
-"637","ipt404","unknown;N/A","testing",0
-"638","ipt404","testpasstiles;ImageP","testing",0
-"639","ipt404","testpasstiles;ImageP","testing",0
-"640","ipt404","testpasstiles;ImageP","testing",0
+"636","ipt404","unknown;N/A","testing",0.01
+"637","ipt404","unknown;N/A","testing",0.01
+"638","ipt404","testpasstiles;ImageP","testing",0.54
+"639","ipt404","testpasstiles;ImageP","testing",0.54
+"640","ipt404","testpasstiles;ImageP","testing",0.54
 "641","ipt404","unknown;ImagePasstil","Successful Login",0.54
-"642","ipt404","testpasstiles;ImageP","testing",0
-"643","ipt404","testpasstiles;ImageP","testing",0
-"644","ipt404","testpasstiles;ImageP","testing",0
+"642","ipt404","testpasstiles;ImageP","testing",0.54
+"643","ipt404","testpasstiles;ImageP","testing",0.54
+"644","ipt404","testpasstiles;ImageP","testing",0.54
 "645","ipt404","unknown;ImagePasstil","Successful Login",0.54
-"646","ipt404","testpasstiles;ImageP","testing",0
-"647","ipt404","unknown;N/A","testing",0
-"648","ipt404","testpasstiles;ImageP","testing",0
-"649","ipt404","testpasstiles;ImageP","testing",0
-"650","ipt404","testpasstiles;ImageP","testing",0
+"646","ipt404","testpasstiles;ImageP","testing",0.62
+"647","ipt404","unknown;N/A","testing",1.1
+"648","ipt404","testpasstiles;ImageP","testing",1.53
+"649","ipt404","testpasstiles;ImageP","testing",1.53
+"650","ipt404","testpasstiles;ImageP","testing",1.53
 "651","ipt404","unknown;ImagePasstil","Failed Login",1.53
-"652","ipt404","testpasstiles;ImageP","testing",0
-"653","ipt404","testpasstiles;ImageP","testing",0
-"654","ipt404","testpasstiles;ImageP","testing",0
-"655","ipt404","testpasstiles;ImageP","testing",0
-"656","ipt404","testpasstiles;ImageP","testing",0
+"652","ipt404","testpasstiles;ImageP","testing",1.53
+"653","ipt404","testpasstiles;ImageP","testing",1.53
+"654","ipt404","testpasstiles;ImageP","testing",1.53
+"655","ipt404","testpasstiles;ImageP","testing",1.53
+"656","ipt404","testpasstiles;ImageP","testing",1.53
 "657","ipt404","unknown;ImagePasstil","Successful Login",1.53
-"658","ipt404","testpasstiles;ImageP","testing",0
-"659","ipt404","testpasstiles;ImageP","testing",0
-"660","ipt404","testpasstiles;ImageP","testing",0
-"661","ipt404","testpasstiles;ImageP","testing",0
-"662","ipt404","testpasstiles;ImageP","testing",0
-"663","ipt404","testpasstiles;ImageP","testing",0
-"664","ipt404","testpasstiles;ImageP","testing",0
+"658","ipt404","testpasstiles;ImageP","testing",1.53
+"659","ipt404","testpasstiles;ImageP","testing",1.53
+"660","ipt404","testpasstiles;ImageP","testing",1.53
+"661","ipt404","testpasstiles;ImageP","testing",1.53
+"662","ipt404","testpasstiles;ImageP","testing",1.53
+"663","ipt404","testpasstiles;ImageP","testing",1.53
+"664","ipt404","testpasstiles;ImageP","testing",1.53
 "665","ipt404","unknown;ImagePasstil","Failed Login",1.53
-"666","ipt404","testpasstiles;ImageP","testing",0
-"667","ipt404","testpasstiles;ImageP","testing",0
-"668","ipt404","testpasstiles;ImageP","testing",0
+"666","ipt404","testpasstiles;ImageP","testing",1.54
+"667","ipt404","testpasstiles;ImageP","testing",1.54
+"668","ipt404","testpasstiles;ImageP","testing",1.54
 "669","ipt404","unknown;ImagePasstil","Failed Login",1.54
 "670","ipt404","testpasstiles;ImageP","Created Password",0
 "671","ipt404","testpasstiles;ImageP","Created Password",0
@@ -713,26 +713,26 @@
 "712","ipt404","testpasstiles;ImageP","testing",0
 "713","ipt404","unknown;ImagePasstil","Successful Login",0
 "714","ipt404","unknown;N/A","testing",0
-"715","ipt404","testpasstiles;ImageP","testing",0
-"716","ipt404","testpasstiles;ImageP","testing",0
-"717","ipt404","testpasstiles;ImageP","testing",0
+"715","ipt404","testpasstiles;ImageP","testing",1.51
+"716","ipt404","testpasstiles;ImageP","testing",1.51
+"717","ipt404","testpasstiles;ImageP","testing",1.51
 "718","ipt404","unknown;ImagePasstil","Failed Login",1.51
-"719","ipt404","testpasstiles;ImageP","testing",0
-"720","ipt404","testpasstiles;ImageP","testing",0
-"721","ipt404","testpasstiles;ImageP","testing",0
+"719","ipt404","testpasstiles;ImageP","testing",1.51
+"720","ipt404","testpasstiles;ImageP","testing",1.51
+"721","ipt404","testpasstiles;ImageP","testing",1.51
 "722","ipt404","unknown;ImagePasstil","Failed Login",1.51
-"723","ipt404","testpasstiles;ImageP","testing",0
-"724","ipt404","testpasstiles;ImageP","testing",0
-"725","ipt404","testpasstiles;ImageP","testing",0
+"723","ipt404","testpasstiles;ImageP","testing",1.51
+"724","ipt404","testpasstiles;ImageP","testing",1.51
+"725","ipt404","testpasstiles;ImageP","testing",1.51
 "726","ipt404","unknown;ImagePasstil","Successful Login",1.51
-"727","ipt404","testpasstiles;ImageP","testing",0
-"728","ipt404","testpasstiles;ImageP","testing",0
-"729","ipt404","testpasstiles;ImageP","testing",0
-"730","ipt404","testpasstiles;ImageP","testing",0
+"727","ipt404","testpasstiles;ImageP","testing",1.51
+"728","ipt404","testpasstiles;ImageP","testing",1.51
+"729","ipt404","testpasstiles;ImageP","testing",1.51
+"730","ipt404","testpasstiles;ImageP","testing",1.51
 "731","ipt404","unknown;ImagePasstil","Failed Login",1.51
-"732","ipt404","testpasstiles;ImageP","testing",0
-"733","ipt404","testpasstiles;ImageP","testing",0
-"734","ipt404","testpasstiles;ImageP","testing",0
+"732","ipt404","testpasstiles;ImageP","testing",1.51
+"733","ipt404","testpasstiles;ImageP","testing",1.51
+"734","ipt404","testpasstiles;ImageP","testing",1.51
 "735","ipt404","unknown;ImagePasstil","Successful Login",1.51
 "736","ipt404","testpasstiles;ImageP","Created Password",0
 "737","ipt404","testpasstiles;ImageP","testing",0
@@ -785,37 +785,37 @@
 "784","ipt404","unknown;N/A","testing",0
 "785","ipt404","unknown;N/A","testing",0
 "786","ipt404","unknown;N/A","testing",0
-"787","ipt404","unknown;N/A","testing",0
-"788","ipt404","unknown;N/A","testing",0
-"789","ipt404","unknown;N/A","testing",0
-"790","ipt404","testpasstiles;ImageP","testing",0
-"791","ipt404","testpasstiles;ImageP","testing",0
-"792","ipt404","testpasstiles;ImageP","testing",0
+"787","ipt404","unknown;N/A","testing",0.01
+"788","ipt404","unknown;N/A","testing",0.01
+"789","ipt404","unknown;N/A","testing",0.01
+"790","ipt404","testpasstiles;ImageP","testing",2.99
+"791","ipt404","testpasstiles;ImageP","testing",2.99
+"792","ipt404","testpasstiles;ImageP","testing",2.99
 "793","ipt404","unknown;ImagePasstil","Successful Login",2.99
-"794","ipt404","testpasstiles;ImageP","testing",0
-"795","ipt404","testpasstiles;ImageP","testing",0
-"796","ipt404","testpasstiles;ImageP","testing",0
+"794","ipt404","testpasstiles;ImageP","testing",2.99
+"795","ipt404","testpasstiles;ImageP","testing",2.99
+"796","ipt404","testpasstiles;ImageP","testing",2.99
 "797","ipt404","unknown;ImagePasstil","Successful Login",2.99
-"798","ipt404","testpasstiles;ImageP","testing",0
-"799","ipt404","testpasstiles;ImageP","testing",0
-"800","ipt404","testpasstiles;ImageP","testing",0
+"798","ipt404","testpasstiles;ImageP","testing",2.99
+"799","ipt404","testpasstiles;ImageP","testing",2.99
+"800","ipt404","testpasstiles;ImageP","testing",2.99
 "801","ipt404","unknown;ImagePasstil","Successful Login",2.99
-"802","ipt404","unknown;N/A","testing",0
-"803","ipt404","unknown;N/A","testing",0
-"804","ipt404","testpasstiles;ImageP","testing",0
-"805","ipt404","testpasstiles;ImageP","testing",0
-"806","ipt404","testpasstiles;ImageP","testing",0
+"802","ipt404","unknown;N/A","testing",2.99
+"803","ipt404","unknown;N/A","testing",2.99
+"804","ipt404","testpasstiles;ImageP","testing",4.29
+"805","ipt404","testpasstiles;ImageP","testing",4.29
+"806","ipt404","testpasstiles;ImageP","testing",4.29
 "807","ipt404","unknown;ImagePasstil","Successful Login",4.29
-"808","ipt404","testpasstiles;ImageP","testing",0
-"809","ipt404","testpasstiles;ImageP","testing",0
-"810","ipt404","testpasstiles;ImageP","testing",0
+"808","ipt404","testpasstiles;ImageP","testing",4.29
+"809","ipt404","testpasstiles;ImageP","testing",4.29
+"810","ipt404","testpasstiles;ImageP","testing",4.29
 "811","ipt404","unknown;ImagePasstil","Successful Login",4.29
-"812","ipt404","testpasstiles;ImageP","testing",0
-"813","ipt404","testpasstiles;ImageP","testing",0
-"814","ipt404","testpasstiles;ImageP","testing",0
+"812","ipt404","testpasstiles;ImageP","testing",4.29
+"813","ipt404","testpasstiles;ImageP","testing",4.29
+"814","ipt404","testpasstiles;ImageP","testing",4.29
 "815","ipt404","unknown;ImagePasstil","Successful Login",4.29
-"816","ipt404","unknown;N/A","testing",0
-"817","ipt406","unknown;N/A","testing",0
+"816","ipt404","unknown;N/A","testing",4.3
+"817","ipt406","unknown;N/A","testing",-3.05
 "818","ipt406","testpasstiles;ImageP","Created Password",0
 "819","ipt406","testpasstiles;ImageP","testing",0
 "820","ipt406","testpasstiles;ImageP","testing",0
@@ -899,70 +899,70 @@
 "898","ipt406","testpasstiles;ImageP","testing",0
 "899","ipt406","testpasstiles;ImageP","testing",0
 "900","ipt406","unknown;ImagePasstil","Successful Login",0
-"901","ipt406","unknown;N/A","testing",0
-"902","ipt406","testpasstiles;ImageP","testing",0
-"903","ipt406","testpasstiles;ImageP","testing",0
-"904","ipt406","testpasstiles;ImageP","testing",0
+"901","ipt406","unknown;N/A","testing",0.01
+"902","ipt406","testpasstiles;ImageP","testing",1.01
+"903","ipt406","testpasstiles;ImageP","testing",1.01
+"904","ipt406","testpasstiles;ImageP","testing",1.01
 "905","ipt406","unknown;ImagePasstil","Successful Login",1.01
-"906","ipt406","testpasstiles;ImageP","testing",0
-"907","ipt406","testpasstiles;ImageP","testing",0
-"908","ipt406","testpasstiles;ImageP","testing",0
+"906","ipt406","testpasstiles;ImageP","testing",1.01
+"907","ipt406","testpasstiles;ImageP","testing",1.01
+"908","ipt406","testpasstiles;ImageP","testing",1.01
 "909","ipt406","unknown;ImagePasstil","Successful Login",1.01
-"910","ipt406","testpasstiles;ImageP","testing",0
-"911","ipt406","testpasstiles;ImageP","testing",0
-"912","ipt406","testpasstiles;ImageP","testing",0
+"910","ipt406","testpasstiles;ImageP","testing",1.01
+"911","ipt406","testpasstiles;ImageP","testing",1.01
+"912","ipt406","testpasstiles;ImageP","testing",1.01
 "913","ipt406","unknown;ImagePasstil","Successful Login",1.01
-"914","ipt406","unknown;N/A","testing",0
-"915","ipt406","testpasstiles;ImageP","testing",0
-"916","ipt406","testpasstiles;ImageP","testing",0
-"917","ipt406","testpasstiles;ImageP","testing",0
+"914","ipt406","unknown;N/A","testing",1.02
+"915","ipt406","testpasstiles;ImageP","testing",3.01
+"916","ipt406","testpasstiles;ImageP","testing",3.01
+"917","ipt406","testpasstiles;ImageP","testing",3.01
 "918","ipt406","unknown;ImagePasstil","Successful Login",3.01
-"919","ipt406","testpasstiles;ImageP","testing",0
-"920","ipt406","testpasstiles;ImageP","testing",0
-"921","ipt406","testpasstiles;ImageP","testing",0
+"919","ipt406","testpasstiles;ImageP","testing",3.01
+"920","ipt406","testpasstiles;ImageP","testing",3.01
+"921","ipt406","testpasstiles;ImageP","testing",3.01
 "922","ipt406","unknown;ImagePasstil","Successful Login",3.01
-"923","ipt406","testpasstiles;ImageP","testing",0
-"924","ipt406","testpasstiles;ImageP","testing",0
-"925","ipt406","testpasstiles;ImageP","testing",0
+"923","ipt406","testpasstiles;ImageP","testing",3.01
+"924","ipt406","testpasstiles;ImageP","testing",3.01
+"925","ipt406","testpasstiles;ImageP","testing",3.01
 "926","ipt406","unknown;ImagePasstil","Failed Login",3.01
-"927","ipt406","testpasstiles;ImageP","testing",0
-"928","ipt406","testpasstiles;ImageP","testing",0
-"929","ipt406","testpasstiles;ImageP","testing",0
+"927","ipt406","testpasstiles;ImageP","testing",3.01
+"928","ipt406","testpasstiles;ImageP","testing",3.01
+"929","ipt406","testpasstiles;ImageP","testing",3.01
 "930","ipt406","unknown;ImagePasstil","Successful Login",3.01
-"931","ipt406","unknown;N/A","testing",0
-"932","ipt406","testpasstiles;ImageP","testing",0
-"933","ipt406","testpasstiles;ImageP","testing",0
-"934","ipt406","testpasstiles;ImageP","testing",0
+"931","ipt406","unknown;N/A","testing",3.04
+"932","ipt406","testpasstiles;ImageP","testing",6.01
+"933","ipt406","testpasstiles;ImageP","testing",6.01
+"934","ipt406","testpasstiles;ImageP","testing",6.01
 "935","ipt406","unknown;ImagePasstil","Successful Login",6.01
-"936","ipt406","testpasstiles;ImageP","testing",0
-"937","ipt406","testpasstiles;ImageP","testing",0
-"938","ipt406","testpasstiles;ImageP","testing",0
+"936","ipt406","testpasstiles;ImageP","testing",6.01
+"937","ipt406","testpasstiles;ImageP","testing",6.01
+"938","ipt406","testpasstiles;ImageP","testing",6.01
 "939","ipt406","unknown;ImagePasstil","Successful Login",6.01
-"940","ipt406","testpasstiles;ImageP","testing",0
-"941","ipt406","testpasstiles;ImageP","testing",0
-"942","ipt406","testpasstiles;ImageP","testing",0
+"940","ipt406","testpasstiles;ImageP","testing",6.01
+"941","ipt406","testpasstiles;ImageP","testing",6.02
+"942","ipt406","testpasstiles;ImageP","testing",6.02
 "943","ipt406","unknown;ImagePasstil","Failed Login",6.02
-"944","ipt406","testpasstiles;ImageP","testing",0
-"945","ipt406","testpasstiles;ImageP","testing",0
-"946","ipt406","testpasstiles;ImageP","testing",0
+"944","ipt406","testpasstiles;ImageP","testing",6.02
+"945","ipt406","testpasstiles;ImageP","testing",6.02
+"946","ipt406","testpasstiles;ImageP","testing",6.02
 "947","ipt406","unknown;ImagePasstil","Failed Login",6.02
-"948","ipt406","testpasstiles;ImageP","testing",0
-"949","ipt406","testpasstiles;ImageP","testing",0
-"950","ipt406","testpasstiles;ImageP","testing",0
-"951","ipt406","testpasstiles;ImageP","testing",0
-"952","ipt406","testpasstiles;ImageP","testing",0
+"948","ipt406","testpasstiles;ImageP","testing",6.02
+"949","ipt406","testpasstiles;ImageP","testing",6.02
+"950","ipt406","testpasstiles;ImageP","testing",6.02
+"951","ipt406","testpasstiles;ImageP","testing",6.02
+"952","ipt406","testpasstiles;ImageP","testing",6.02
 "953","ipt406","unknown;ImagePasstil","Failed Login",6.02
-"954","ipt406","testpasstiles;ImageP","testing",0
-"955","ipt406","testpasstiles;ImageP","testing",0
-"956","ipt406","testpasstiles;ImageP","testing",0
+"954","ipt406","testpasstiles;ImageP","testing",6.02
+"955","ipt406","testpasstiles;ImageP","testing",6.02
+"956","ipt406","testpasstiles;ImageP","testing",6.02
 "957","ipt406","unknown;ImagePasstil","Failed Login",6.02
-"958","ipt406","testpasstiles;ImageP","testing",0
-"959","ipt406","testpasstiles;ImageP","testing",0
-"960","ipt406","testpasstiles;ImageP","testing",0
+"958","ipt406","testpasstiles;ImageP","testing",6.02
+"959","ipt406","testpasstiles;ImageP","testing",6.02
+"960","ipt406","testpasstiles;ImageP","testing",6.02
 "961","ipt406","unknown;ImagePasstil","Failed Login",6.02
-"962","ipt406","testpasstiles;ImageP","testing",0
-"963","ipt406","testpasstiles;ImageP","testing",0
-"964","ipt406","testpasstiles;ImageP","testing",0
+"962","ipt406","testpasstiles;ImageP","testing",6.02
+"963","ipt406","testpasstiles;ImageP","testing",6.02
+"964","ipt406","testpasstiles;ImageP","testing",6.02
 "965","ipt406","unknown;ImagePasstil","Failed Login",6.02
 "966","ipt406","testpasstiles;ImageP","Created Password",0
 "967","ipt406","testpasstiles;ImageP","testing",0
@@ -983,20 +983,20 @@
 "982","ipt406","testpasstiles;ImageP","testing",0
 "983","ipt406","unknown;ImagePasstil","Successful Login",0
 "984","ipt406","unknown;N/A","testing",0
-"985","ipt406","testpasstiles;ImageP","testing",0
-"986","ipt406","testpasstiles;ImageP","testing",0
-"987","ipt406","testpasstiles;ImageP","testing",0
+"985","ipt406","testpasstiles;ImageP","testing",1.09
+"986","ipt406","testpasstiles;ImageP","testing",1.09
+"987","ipt406","testpasstiles;ImageP","testing",1.09
 "988","ipt406","unknown;ImagePasstil","Successful Login",1.09
-"989","ipt406","testpasstiles;ImageP","testing",0
-"990","ipt406","testpasstiles;ImageP","testing",0
-"991","ipt406","testpasstiles;ImageP","testing",0
+"989","ipt406","testpasstiles;ImageP","testing",1.09
+"990","ipt406","testpasstiles;ImageP","testing",1.09
+"991","ipt406","testpasstiles;ImageP","testing",1.09
 "992","ipt406","unknown;ImagePasstil","Successful Login",1.09
-"993","ipt406","testpasstiles;ImageP","testing",0
-"994","ipt406","testpasstiles;ImageP","testing",0
-"995","ipt406","testpasstiles;ImageP","testing",0
+"993","ipt406","testpasstiles;ImageP","testing",1.1
+"994","ipt406","testpasstiles;ImageP","testing",1.1
+"995","ipt406","testpasstiles;ImageP","testing",1.1
 "996","ipt406","unknown;ImagePasstil","Successful Login",1.1
-"997","ipt406","unknown;N/A","testing",0
-"998","ipt411","unknown;N/A","testing",0
+"997","ipt406","unknown;N/A","testing",1.1
+"998","ipt411","unknown;N/A","testing",-5.98
 "999","ipt411","testpasstiles;ImageP","Created Password",0
 "1000","ipt411","testpasstiles;ImageP","testing",0
 "1001","ipt411","testpasstiles;ImageP","testing",0
@@ -1057,78 +1057,78 @@
 "1056","ipt411","testpasstiles;ImageP","testing",0
 "1057","ipt411","testpasstiles;ImageP","testing",0
 "1058","ipt411","unknown;ImagePasstil","Successful Login",0
-"1059","ipt411","unknown;N/A","testing",0
-"1060","ipt411","testpasstiles;ImageP","testing",0
-"1061","ipt411","testpasstiles;ImageP","testing",0
-"1062","ipt411","testpasstiles;ImageP","testing",0
-"1063","ipt411","testpasstiles;ImageP","testing",0
+"1059","ipt411","unknown;N/A","testing",0.01
+"1060","ipt411","testpasstiles;ImageP","testing",1.99
+"1061","ipt411","testpasstiles;ImageP","testing",1.99
+"1062","ipt411","testpasstiles;ImageP","testing",2
+"1063","ipt411","testpasstiles;ImageP","testing",2
 "1064","ipt411","unknown;ImagePasstil","Failed Login",2
-"1065","ipt411","testpasstiles;ImageP","testing",0
-"1066","ipt411","testpasstiles;ImageP","testing",0
-"1067","ipt411","testpasstiles;ImageP","testing",0
+"1065","ipt411","testpasstiles;ImageP","testing",2
+"1066","ipt411","testpasstiles;ImageP","testing",2
+"1067","ipt411","testpasstiles;ImageP","testing",2
 "1068","ipt411","unknown;ImagePasstil","Successful Login",2
-"1069","ipt411","testpasstiles;ImageP","testing",0
-"1070","ipt411","testpasstiles;ImageP","testing",0
-"1071","ipt411","testpasstiles;ImageP","testing",0
+"1069","ipt411","testpasstiles;ImageP","testing",2
+"1070","ipt411","testpasstiles;ImageP","testing",2
+"1071","ipt411","testpasstiles;ImageP","testing",2
 "1072","ipt411","unknown;ImagePasstil","Successful Login",2
-"1073","ipt411","testpasstiles;ImageP","testing",0
-"1074","ipt411","testpasstiles;ImageP","testing",0
-"1075","ipt411","testpasstiles;ImageP","testing",0
+"1073","ipt411","testpasstiles;ImageP","testing",2
+"1074","ipt411","testpasstiles;ImageP","testing",2
+"1075","ipt411","testpasstiles;ImageP","testing",2
 "1076","ipt411","unknown;ImagePasstil","Successful Login",2
-"1077","ipt411","unknown;N/A","testing",0
-"1078","ipt411","unknown;N/A","testing",0
-"1079","ipt411","testpasstiles;ImageP","testing",0
-"1080","ipt411","testpasstiles;ImageP","testing",0
-"1081","ipt411","testpasstiles;ImageP","testing",0
+"1077","ipt411","unknown;N/A","testing",2
+"1078","ipt411","unknown;N/A","testing",2
+"1079","ipt411","testpasstiles;ImageP","testing",3.97
+"1080","ipt411","testpasstiles;ImageP","testing",3.97
+"1081","ipt411","testpasstiles;ImageP","testing",3.97
 "1082","ipt411","unknown;ImagePasstil","Failed Login",3.97
-"1083","ipt411","testpasstiles;ImageP","testing",0
-"1084","ipt411","testpasstiles;ImageP","testing",0
-"1085","ipt411","testpasstiles;ImageP","testing",0
+"1083","ipt411","testpasstiles;ImageP","testing",3.97
+"1084","ipt411","testpasstiles;ImageP","testing",3.97
+"1085","ipt411","testpasstiles;ImageP","testing",3.97
 "1086","ipt411","unknown;ImagePasstil","Failed Login",3.97
-"1087","ipt411","testpasstiles;ImageP","testing",0
-"1088","ipt411","testpasstiles;ImageP","testing",0
-"1089","ipt411","testpasstiles;ImageP","testing",0
+"1087","ipt411","testpasstiles;ImageP","testing",3.97
+"1088","ipt411","testpasstiles;ImageP","testing",3.97
+"1089","ipt411","testpasstiles;ImageP","testing",3.97
 "1090","ipt411","unknown;ImagePasstil","Failed Login",3.97
-"1091","ipt411","testpasstiles;ImageP","testing",0
-"1092","ipt411","testpasstiles;ImageP","testing",0
-"1093","ipt411","testpasstiles;ImageP","testing",0
+"1091","ipt411","testpasstiles;ImageP","testing",3.97
+"1092","ipt411","testpasstiles;ImageP","testing",3.97
+"1093","ipt411","testpasstiles;ImageP","testing",3.97
 "1094","ipt411","unknown;ImagePasstil","Successful Login",3.97
-"1095","ipt411","testpasstiles;ImageP","testing",0
-"1096","ipt411","testpasstiles;ImageP","testing",0
-"1097","ipt411","testpasstiles;ImageP","testing",0
+"1095","ipt411","testpasstiles;ImageP","testing",3.97
+"1096","ipt411","testpasstiles;ImageP","testing",3.97
+"1097","ipt411","testpasstiles;ImageP","testing",3.97
 "1098","ipt411","unknown;ImagePasstil","Successful Login",3.97
-"1099","ipt411","testpasstiles;ImageP","testing",0
-"1100","ipt411","testpasstiles;ImageP","testing",0
-"1101","ipt411","testpasstiles;ImageP","testing",0
+"1099","ipt411","testpasstiles;ImageP","testing",3.98
+"1100","ipt411","testpasstiles;ImageP","testing",3.98
+"1101","ipt411","testpasstiles;ImageP","testing",3.98
 "1102","ipt411","unknown;ImagePasstil","Successful Login",3.98
-"1103","ipt411","unknown;N/A","testing",0
-"1104","ipt411","testpasstiles;ImageP","testing",0
-"1105","ipt411","testpasstiles;ImageP","testing",0
-"1106","ipt411","testpasstiles;ImageP","testing",0
+"1103","ipt411","unknown;N/A","testing",3.98
+"1104","ipt411","testpasstiles;ImageP","testing",6.96
+"1105","ipt411","testpasstiles;ImageP","testing",6.96
+"1106","ipt411","testpasstiles;ImageP","testing",6.96
 "1107","ipt411","unknown;ImagePasstil","Successful Login",6.96
-"1108","ipt411","testpasstiles;ImageP","testing",0
-"1109","ipt411","testpasstiles;ImageP","testing",0
-"1110","ipt411","testpasstiles;ImageP","testing",0
+"1108","ipt411","testpasstiles;ImageP","testing",6.97
+"1109","ipt411","testpasstiles;ImageP","testing",6.97
+"1110","ipt411","testpasstiles;ImageP","testing",6.97
 "1111","ipt411","unknown;ImagePasstil","Successful Login",6.97
-"1112","ipt411","testpasstiles;ImageP","testing",0
-"1113","ipt411","testpasstiles;ImageP","testing",0
-"1114","ipt411","testpasstiles;ImageP","testing",0
+"1112","ipt411","testpasstiles;ImageP","testing",6.97
+"1113","ipt411","testpasstiles;ImageP","testing",6.97
+"1114","ipt411","testpasstiles;ImageP","testing",6.97
 "1115","ipt411","unknown;ImagePasstil","Successful Login",6.97
-"1116","ipt411","unknown;N/A","testing",0
-"1117","ipt411","testpasstiles;ImageP","testing",0
-"1118","ipt411","testpasstiles;ImageP","testing",0
-"1119","ipt411","testpasstiles;ImageP","testing",0
+"1116","ipt411","unknown;N/A","testing",6.97
+"1117","ipt411","testpasstiles;ImageP","testing",7.87
+"1118","ipt411","testpasstiles;ImageP","testing",7.87
+"1119","ipt411","testpasstiles;ImageP","testing",7.87
 "1120","ipt411","unknown;ImagePasstil","Successful Login",7.87
-"1121","ipt411","testpasstiles;ImageP","testing",0
-"1122","ipt411","testpasstiles;ImageP","testing",0
-"1123","ipt411","testpasstiles;ImageP","testing",0
+"1121","ipt411","testpasstiles;ImageP","testing",7.87
+"1122","ipt411","testpasstiles;ImageP","testing",7.87
+"1123","ipt411","testpasstiles;ImageP","testing",7.87
 "1124","ipt411","unknown;ImagePasstil","Successful Login",7.87
-"1125","ipt411","testpasstiles;ImageP","testing",0
-"1126","ipt411","testpasstiles;ImageP","testing",0
-"1127","ipt411","testpasstiles;ImageP","testing",0
+"1125","ipt411","testpasstiles;ImageP","testing",7.87
+"1126","ipt411","testpasstiles;ImageP","testing",7.87
+"1127","ipt411","testpasstiles;ImageP","testing",7.87
 "1128","ipt411","unknown;ImagePasstil","Successful Login",7.87
-"1129","ipt411","unknown;N/A","testing",0
-"1130","ipt413","unknown;N/A","testing",0
+"1129","ipt411","unknown;N/A","testing",7.88
+"1130","ipt413","unknown;N/A","testing",0.01
 "1131","ipt413","testpasstiles;ImageP","Created Password",0
 "1132","ipt413","testpasstiles;ImageP","testing",0
 "1133","ipt413","testpasstiles;ImageP","testing",0
@@ -1361,20 +1361,20 @@
 "1360","ipt413","testpasstiles;ImageP","testing",0
 "1361","ipt413","unknown;ImagePasstil","Successful Login",0
 "1362","ipt413","unknown;ImagePasstil","Failed Login",0.01
-"1363","ipt413","testpasstiles;ImageP","testing",0
-"1364","ipt413","testpasstiles;ImageP","testing",0
-"1365","ipt413","testpasstiles;ImageP","testing",0
-"1366","ipt413","testpasstiles;ImageP","testing",0
+"1363","ipt413","testpasstiles;ImageP","testing",0.01
+"1364","ipt413","testpasstiles;ImageP","testing",0.01
+"1365","ipt413","testpasstiles;ImageP","testing",0.01
+"1366","ipt413","testpasstiles;ImageP","testing",0.01
 "1367","ipt413","unknown;ImagePasstil","Successful Login",0.01
-"1368","ipt413","unknown;N/A","testing",0
-"1369","ipt413","unknown;N/A","testing",0
-"1370","ipt413","testpasstiles;ImageP","testing",0
-"1371","ipt413","testpasstiles;ImageP","testing",0
-"1372","ipt413","testpasstiles;ImageP","testing",0
+"1368","ipt413","unknown;N/A","testing",0.02
+"1369","ipt413","unknown;N/A","testing",0.02
+"1370","ipt413","testpasstiles;ImageP","testing",1.72
+"1371","ipt413","testpasstiles;ImageP","testing",1.72
+"1372","ipt413","testpasstiles;ImageP","testing",1.72
 "1373","ipt413","unknown;ImagePasstil","Failed Login",1.72
-"1374","ipt413","testpasstiles;ImageP","testing",0
-"1375","ipt413","testpasstiles;ImageP","testing",0
-"1376","ipt413","testpasstiles;ImageP","testing",0
+"1374","ipt413","testpasstiles;ImageP","testing",1.72
+"1375","ipt413","testpasstiles;ImageP","testing",1.72
+"1376","ipt413","testpasstiles;ImageP","testing",1.72
 "1377","ipt413","unknown;ImagePasstil","Failed Login",1.72
 "1378","ipt413","testpasstiles;ImageP","Created Password",0
 "1379","ipt413","testpasstiles;ImageP","testing",0
@@ -1392,96 +1392,96 @@
 "1391","ipt413","testpasstiles;ImageP","testing",0
 "1392","ipt413","testpasstiles;ImageP","testing",0
 "1393","ipt413","unknown;ImagePasstil","Successful Login",0
-"1394","ipt413","testpasstiles;ImageP","testing",0
-"1395","ipt413","testpasstiles;ImageP","testing",0
-"1396","ipt413","testpasstiles;ImageP","testing",0
+"1394","ipt413","testpasstiles;ImageP","testing",0.02
+"1395","ipt413","testpasstiles;ImageP","testing",0.02
+"1396","ipt413","testpasstiles;ImageP","testing",0.02
 "1397","ipt413","unknown;ImagePasstil","Successful Login",0.02
-"1398","ipt413","testpasstiles;ImageP","testing",0
-"1399","ipt413","testpasstiles;ImageP","testing",0
-"1400","ipt413","testpasstiles;ImageP","testing",0
+"1398","ipt413","testpasstiles;ImageP","testing",0.02
+"1399","ipt413","testpasstiles;ImageP","testing",0.02
+"1400","ipt413","testpasstiles;ImageP","testing",0.02
 "1401","ipt413","unknown;ImagePasstil","Successful Login",0.02
-"1402","ipt413","testpasstiles;ImageP","testing",0
-"1403","ipt413","testpasstiles;ImageP","testing",0
-"1404","ipt413","testpasstiles;ImageP","testing",0
+"1402","ipt413","testpasstiles;ImageP","testing",0.02
+"1403","ipt413","testpasstiles;ImageP","testing",0.03
+"1404","ipt413","testpasstiles;ImageP","testing",0.03
 "1405","ipt413","unknown;ImagePasstil","Successful Login",0.03
-"1406","ipt413","testpasstiles;ImageP","testing",0
-"1407","ipt413","testpasstiles;ImageP","testing",0
-"1408","ipt413","testpasstiles;ImageP","testing",0
+"1406","ipt413","testpasstiles;ImageP","testing",0.03
+"1407","ipt413","testpasstiles;ImageP","testing",0.03
+"1408","ipt413","testpasstiles;ImageP","testing",0.03
 "1409","ipt413","unknown;ImagePasstil","Successful Login",0.03
-"1410","ipt413","unknown;N/A","testing",0
-"1411","ipt413","unknown;N/A","testing",0
-"1412","ipt413","testpasstiles;ImageP","testing",0
-"1413","ipt413","testpasstiles;ImageP","testing",0
-"1414","ipt413","testpasstiles;ImageP","testing",0
+"1410","ipt413","unknown;N/A","testing",0.03
+"1411","ipt413","unknown;N/A","testing",0.03
+"1412","ipt413","testpasstiles;ImageP","testing",2.2
+"1413","ipt413","testpasstiles;ImageP","testing",2.2
+"1414","ipt413","testpasstiles;ImageP","testing",2.2
 "1415","ipt413","unknown;ImagePasstil","Failed Login",2.2
-"1416","ipt413","testpasstiles;ImageP","testing",0
-"1417","ipt413","testpasstiles;ImageP","testing",0
-"1418","ipt413","testpasstiles;ImageP","testing",0
+"1416","ipt413","testpasstiles;ImageP","testing",2.2
+"1417","ipt413","testpasstiles;ImageP","testing",2.2
+"1418","ipt413","testpasstiles;ImageP","testing",2.2
 "1419","ipt413","unknown;ImagePasstil","Failed Login",2.2
-"1420","ipt413","testpasstiles;ImageP","testing",0
-"1421","ipt413","testpasstiles;ImageP","testing",0
-"1422","ipt413","testpasstiles;ImageP","testing",0
-"1423","ipt413","testpasstiles;ImageP","testing",0
-"1424","ipt413","testpasstiles;ImageP","testing",0
-"1425","ipt413","testpasstiles;ImageP","testing",0
-"1426","ipt413","testpasstiles;ImageP","testing",0
-"1427","ipt413","testpasstiles;ImageP","testing",0
+"1420","ipt413","testpasstiles;ImageP","testing",2.2
+"1421","ipt413","testpasstiles;ImageP","testing",2.2
+"1422","ipt413","testpasstiles;ImageP","testing",2.21
+"1423","ipt413","testpasstiles;ImageP","testing",2.21
+"1424","ipt413","testpasstiles;ImageP","testing",2.21
+"1425","ipt413","testpasstiles;ImageP","testing",2.21
+"1426","ipt413","testpasstiles;ImageP","testing",2.21
+"1427","ipt413","testpasstiles;ImageP","testing",2.21
 "1428","ipt413","unknown;ImagePasstil","Successful Login",2.21
-"1429","ipt413","testpasstiles;ImageP","testing",0
-"1430","ipt413","testpasstiles;ImageP","testing",0
-"1431","ipt413","testpasstiles;ImageP","testing",0
-"1432","ipt413","testpasstiles;ImageP","testing",0
-"1433","ipt413","testpasstiles;ImageP","testing",0
-"1434","ipt413","testpasstiles;ImageP","testing",0
+"1429","ipt413","testpasstiles;ImageP","testing",2.22
+"1430","ipt413","testpasstiles;ImageP","testing",2.22
+"1431","ipt413","testpasstiles;ImageP","testing",2.22
+"1432","ipt413","testpasstiles;ImageP","testing",2.22
+"1433","ipt413","testpasstiles;ImageP","testing",2.22
+"1434","ipt413","testpasstiles;ImageP","testing",2.22
 "1435","ipt413","unknown;ImagePasstil","Successful Login",2.22
-"1436","ipt413","testpasstiles;ImageP","testing",0
-"1437","ipt413","testpasstiles;ImageP","testing",0
-"1438","ipt413","testpasstiles;ImageP","testing",0
-"1439","ipt413","testpasstiles;ImageP","testing",0
+"1436","ipt413","testpasstiles;ImageP","testing",2.22
+"1437","ipt413","testpasstiles;ImageP","testing",2.22
+"1438","ipt413","testpasstiles;ImageP","testing",2.22
+"1439","ipt413","testpasstiles;ImageP","testing",2.22
 "1440","ipt413","unknown;ImagePasstil","Successful Login",2.22
-"1441","ipt413","testpasstiles;ImageP","testing",0
-"1442","ipt413","testpasstiles;ImageP","testing",0
-"1443","ipt413","testpasstiles;ImageP","testing",0
+"1441","ipt413","testpasstiles;ImageP","testing",2.23
+"1442","ipt413","testpasstiles;ImageP","testing",2.23
+"1443","ipt413","testpasstiles;ImageP","testing",2.23
 "1444","ipt413","unknown;ImagePasstil","Successful Login",2.23
-"1445","ipt413","unknown;N/A","testing",0
-"1446","ipt413","unknown;N/A","testing",0
-"1447","ipt413","unknown;N/A","testing",0
-"1448","ipt413","unknown;N/A","testing",0
-"1449","ipt413","unknown;N/A","testing",0
-"1450","ipt413","testpasstiles;ImageP","testing",0
-"1451","ipt413","testpasstiles;ImageP","testing",0
-"1452","ipt413","testpasstiles;ImageP","testing",0
+"1445","ipt413","unknown;N/A","testing",2.23
+"1446","ipt413","unknown;N/A","testing",2.23
+"1447","ipt413","unknown;N/A","testing",2.23
+"1448","ipt413","unknown;N/A","testing",2.23
+"1449","ipt413","unknown;N/A","testing",2.23
+"1450","ipt413","testpasstiles;ImageP","testing",5.24
+"1451","ipt413","testpasstiles;ImageP","testing",5.24
+"1452","ipt413","testpasstiles;ImageP","testing",5.24
 "1453","ipt413","unknown;ImagePasstil","Successful Login",5.24
-"1454","ipt413","testpasstiles;ImageP","testing",0
-"1455","ipt413","testpasstiles;ImageP","testing",0
-"1456","ipt413","testpasstiles;ImageP","testing",0
-"1457","ipt413","testpasstiles;ImageP","testing",0
+"1454","ipt413","testpasstiles;ImageP","testing",5.25
+"1455","ipt413","testpasstiles;ImageP","testing",5.25
+"1456","ipt413","testpasstiles;ImageP","testing",5.25
+"1457","ipt413","testpasstiles;ImageP","testing",5.25
 "1458","ipt413","unknown;ImagePasstil","Successful Login",5.25
-"1459","ipt413","testpasstiles;ImageP","testing",0
-"1460","ipt413","testpasstiles;ImageP","testing",0
-"1461","ipt413","testpasstiles;ImageP","testing",0
+"1459","ipt413","testpasstiles;ImageP","testing",5.26
+"1460","ipt413","testpasstiles;ImageP","testing",5.26
+"1461","ipt413","testpasstiles;ImageP","testing",5.26
 "1462","ipt413","unknown;ImagePasstil","Successful Login",5.26
-"1463","ipt413","unknown;N/A","testing",0
-"1464","ipt413","unknown;N/A","testing",0
-"1465","ipt413","unknown;N/A","testing",0
-"1466","ipt413","unknown;N/A","testing",0
-"1467","ipt413","testpasstiles;ImageP","testing",0
-"1468","ipt413","testpasstiles;ImageP","testing",0
-"1469","ipt413","testpasstiles;ImageP","testing",0
+"1463","ipt413","unknown;N/A","testing",5.26
+"1464","ipt413","unknown;N/A","testing",5.26
+"1465","ipt413","unknown;N/A","testing",5.26
+"1466","ipt413","unknown;N/A","testing",5.26
+"1467","ipt413","testpasstiles;ImageP","testing",5.3
+"1468","ipt413","testpasstiles;ImageP","testing",5.3
+"1469","ipt413","testpasstiles;ImageP","testing",5.3
 "1470","ipt413","unknown;ImagePasstil","Successful Login",5.3
-"1471","ipt413","testpasstiles;ImageP","testing",0
-"1472","ipt413","testpasstiles;ImageP","testing",0
-"1473","ipt413","testpasstiles;ImageP","testing",0
+"1471","ipt413","testpasstiles;ImageP","testing",5.3
+"1472","ipt413","testpasstiles;ImageP","testing",5.3
+"1473","ipt413","testpasstiles;ImageP","testing",5.3
 "1474","ipt413","unknown;ImagePasstil","Successful Login",5.3
-"1475","ipt413","testpasstiles;ImageP","testing",0
-"1476","ipt413","testpasstiles;ImageP","testing",0
-"1477","ipt413","testpasstiles;ImageP","testing",0
-"1478","ipt413","testpasstiles;ImageP","testing",0
-"1479","ipt413","testpasstiles;ImageP","testing",0
+"1475","ipt413","testpasstiles;ImageP","testing",5.31
+"1476","ipt413","testpasstiles;ImageP","testing",5.31
+"1477","ipt413","testpasstiles;ImageP","testing",5.31
+"1478","ipt413","testpasstiles;ImageP","testing",5.31
+"1479","ipt413","testpasstiles;ImageP","testing",5.31
 "1480","ipt413","unknown;ImagePasstil","Successful Login",5.31
-"1481","ipt413","unknown;N/A","testing",0
-"1482","ipt413","unknown;N/A","testing",0
-"1483","ipt414","unknown;N/A","testing",0
+"1481","ipt413","unknown;N/A","testing",5.32
+"1482","ipt413","unknown;N/A","testing",5.32
+"1483","ipt414","unknown;N/A","testing",-1.76
 "1484","ipt414","testpasstiles;ImageP","Created Password",0
 "1485","ipt414","testpasstiles;ImageP","testing",0
 "1486","ipt414","testpasstiles;ImageP","testing",0
@@ -1577,10 +1577,10 @@
 "1576","ipt414","testpasstiles;ImageP","testing",0
 "1577","ipt414","unknown;ImagePasstil","Successful Login",0
 "1578","ipt414","unknown;N/A","testing",0
-"1579","ipt414","testpasstiles;ImageP","testing",0
-"1580","ipt414","testpasstiles;ImageP","testing",0
-"1581","ipt414","testpasstiles;ImageP","testing",0
-"1582","ipt414","testpasstiles;ImageP","testing",0
+"1579","ipt414","testpasstiles;ImageP","testing",2.08
+"1580","ipt414","testpasstiles;ImageP","testing",2.08
+"1581","ipt414","testpasstiles;ImageP","testing",2.08
+"1582","ipt414","testpasstiles;ImageP","testing",2.08
 "1583","ipt414","testpasstiles;ImageP","Created Password",0
 "1584","ipt414","testpasstiles;ImageP","testing",0
 "1585","ipt414","testpasstiles;ImageP","testing",0
@@ -1666,27 +1666,27 @@
 "1665","ipt414","testpasstiles;ImageP","testing",0
 "1666","ipt414","unknown;ImagePasstil","Successful Login",0
 "1667","ipt414","unknown;N/A","testing",0
-"1668","ipt414","testpasstiles;ImageP","testing",0
-"1669","ipt414","testpasstiles;ImageP","testing",0
-"1670","ipt414","testpasstiles;ImageP","testing",0
+"1668","ipt414","testpasstiles;ImageP","testing",1.06
+"1669","ipt414","testpasstiles;ImageP","testing",1.06
+"1670","ipt414","testpasstiles;ImageP","testing",1.06
 "1671","ipt414","unknown;ImagePasstil","Successful Login",1.06
-"1672","ipt414","testpasstiles;ImageP","testing",0
-"1673","ipt414","testpasstiles;ImageP","testing",0
-"1674","ipt414","testpasstiles;ImageP","testing",0
+"1672","ipt414","testpasstiles;ImageP","testing",1.06
+"1673","ipt414","testpasstiles;ImageP","testing",1.06
+"1674","ipt414","testpasstiles;ImageP","testing",1.06
 "1675","ipt414","unknown;ImagePasstil","Failed Login",1.06
-"1676","ipt414","testpasstiles;ImageP","testing",0
-"1677","ipt414","testpasstiles;ImageP","testing",0
-"1678","ipt414","testpasstiles;ImageP","testing",0
+"1676","ipt414","testpasstiles;ImageP","testing",1.06
+"1677","ipt414","testpasstiles;ImageP","testing",1.06
+"1678","ipt414","testpasstiles;ImageP","testing",1.06
 "1679","ipt414","unknown;ImagePasstil","Successful Login",1.06
-"1680","ipt414","testpasstiles;ImageP","testing",0
-"1681","ipt414","testpasstiles;ImageP","testing",0
-"1682","ipt414","testpasstiles;ImageP","testing",0
+"1680","ipt414","testpasstiles;ImageP","testing",1.06
+"1681","ipt414","testpasstiles;ImageP","testing",1.06
+"1682","ipt414","testpasstiles;ImageP","testing",1.06
 "1683","ipt414","unknown;ImagePasstil","Successful Login",1.06
-"1684","ipt414","unknown;N/A","testing",0
-"1685","ipt414","testpasstiles;ImageP","testing",0
-"1686","ipt414","testpasstiles;ImageP","testing",0
-"1687","ipt414","testpasstiles;ImageP","testing",0
-"1688","ipt414","testpasstiles;ImageP","testing",0
+"1684","ipt414","unknown;N/A","testing",1.06
+"1685","ipt414","testpasstiles;ImageP","testing",4.95
+"1686","ipt414","testpasstiles;ImageP","testing",4.95
+"1687","ipt414","testpasstiles;ImageP","testing",4.95
+"1688","ipt414","testpasstiles;ImageP","testing",4.95
 "1689","ipt414","unknown;ImagePasstil","Successful Login",4.95
 "1690","ipt414","testpasstiles;ImageP","Created Password",0
 "1691","ipt414","testpasstiles;ImageP","testing",0
@@ -1742,29 +1742,29 @@
 "1741","ipt414","testpasstiles;ImageP","testing",0
 "1742","ipt414","unknown;ImagePasstil","Successful Login",0
 "1743","ipt414","unknown;N/A","testing",0
-"1744","ipt414","testpasstiles;ImageP","testing",0
-"1745","ipt414","testpasstiles;ImageP","testing",0
-"1746","ipt414","testpasstiles;ImageP","testing",0
+"1744","ipt414","testpasstiles;ImageP","testing",0.04
+"1745","ipt414","testpasstiles;ImageP","testing",0.04
+"1746","ipt414","testpasstiles;ImageP","testing",0.04
 "1747","ipt414","unknown;ImagePasstil","Failed Login",0.04
-"1748","ipt414","testpasstiles;ImageP","testing",0
-"1749","ipt414","testpasstiles;ImageP","testing",0
-"1750","ipt414","testpasstiles;ImageP","testing",0
+"1748","ipt414","testpasstiles;ImageP","testing",0.04
+"1749","ipt414","testpasstiles;ImageP","testing",0.04
+"1750","ipt414","testpasstiles;ImageP","testing",0.04
 "1751","ipt414","unknown;ImagePasstil","Successful Login",0.04
-"1752","ipt414","testpasstiles;ImageP","testing",0
-"1753","ipt414","testpasstiles;ImageP","testing",0
-"1754","ipt414","testpasstiles;ImageP","testing",0
+"1752","ipt414","testpasstiles;ImageP","testing",0.04
+"1753","ipt414","testpasstiles;ImageP","testing",0.04
+"1754","ipt414","testpasstiles;ImageP","testing",0.04
 "1755","ipt414","unknown;ImagePasstil","Successful Login",0.04
-"1756","ipt414","testpasstiles;ImageP","testing",0
-"1757","ipt414","testpasstiles;ImageP","testing",0
-"1758","ipt414","testpasstiles;ImageP","testing",0
+"1756","ipt414","testpasstiles;ImageP","testing",0.04
+"1757","ipt414","testpasstiles;ImageP","testing",0.04
+"1758","ipt414","testpasstiles;ImageP","testing",0.04
 "1759","ipt414","unknown;ImagePasstil","Failed Login",0.04
-"1760","ipt414","testpasstiles;ImageP","testing",0
-"1761","ipt414","testpasstiles;ImageP","testing",0
-"1762","ipt414","testpasstiles;ImageP","testing",0
+"1760","ipt414","testpasstiles;ImageP","testing",0.04
+"1761","ipt414","testpasstiles;ImageP","testing",0.04
+"1762","ipt414","testpasstiles;ImageP","testing",0.04
 "1763","ipt414","unknown;ImagePasstil","Successful Login",0.04
-"1764","ipt414","unknown;N/A","testing",0
-"1765","ipt414","unknown;N/A","testing",0
-"1766","ipt419","unknown;N/A","testing",0
+"1764","ipt414","unknown;N/A","testing",0.04
+"1765","ipt414","unknown;N/A","testing",0.05
+"1766","ipt419","unknown;N/A","testing",-6.97
 "1767","ipt419","testpasstiles;ImageP","Created Password",0
 "1768","ipt419","testpasstiles;ImageP","testing",0
 "1769","ipt419","testpasstiles;ImageP","testing",0
@@ -1883,26 +1883,26 @@
 "1882","ipt419","testpasstiles;ImageP","testing",0
 "1883","ipt419","unknown;ImagePasstil","Failed Login",0
 "1884","ipt419","testpasstiles;ImageP","testing",0
-"1885","ipt419","testpasstiles;ImageP","testing",0
-"1886","ipt419","testpasstiles;ImageP","testing",0
+"1885","ipt419","testpasstiles;ImageP","testing",0.01
+"1886","ipt419","testpasstiles;ImageP","testing",0.01
 "1887","ipt419","unknown;ImagePasstil","Successful Login",0.01
-"1888","ipt419","testpasstiles;ImageP","testing",0
-"1889","ipt419","testpasstiles;ImageP","testing",0
-"1890","ipt419","testpasstiles;ImageP","testing",0
+"1888","ipt419","testpasstiles;ImageP","testing",0.01
+"1889","ipt419","testpasstiles;ImageP","testing",0.01
+"1890","ipt419","testpasstiles;ImageP","testing",0.01
 "1891","ipt419","unknown;ImagePasstil","Successful Login",0.01
-"1892","ipt419","unknown;N/A","testing",0
-"1893","ipt419","testpasstiles;ImageP","testing",0
-"1894","ipt419","testpasstiles;ImageP","testing",0
-"1895","ipt419","testpasstiles;ImageP","testing",0
+"1892","ipt419","unknown;N/A","testing",0.01
+"1893","ipt419","testpasstiles;ImageP","testing",1.86
+"1894","ipt419","testpasstiles;ImageP","testing",1.86
+"1895","ipt419","testpasstiles;ImageP","testing",1.86
 "1896","ipt419","unknown;ImagePasstil","Failed Login",1.86
-"1897","ipt419","testpasstiles;ImageP","testing",0
-"1898","ipt419","testpasstiles;ImageP","testing",0
-"1899","ipt419","testpasstiles;ImageP","testing",0
+"1897","ipt419","testpasstiles;ImageP","testing",1.86
+"1898","ipt419","testpasstiles;ImageP","testing",1.86
+"1899","ipt419","testpasstiles;ImageP","testing",1.86
 "1900","ipt419","unknown;ImagePasstil","Successful Login",1.86
 "1901","ipt419","unknown;ImagePasstil","Failed Login",1.86
-"1902","ipt419","testpasstiles;ImageP","testing",0
-"1903","ipt419","testpasstiles;ImageP","testing",0
-"1904","ipt419","testpasstiles;ImageP","testing",0
+"1902","ipt419","testpasstiles;ImageP","testing",1.86
+"1903","ipt419","testpasstiles;ImageP","testing",1.86
+"1904","ipt419","testpasstiles;ImageP","testing",1.86
 "1905","ipt419","unknown;ImagePasstil","Successful Login",1.86
 "1906","ipt419","testpasstiles;ImageP","Created Password",0
 "1907","ipt419","testpasstiles;ImageP","testing",0
@@ -1929,41 +1929,41 @@
 "1928","ipt419","unknown;ImagePasstil","Successful Login",0
 "1929","ipt419","unknown;N/A","testing",0
 "1930","ipt419","unknown;N/A","testing",0
-"1931","ipt419","testpasstiles;ImageP","testing",0
-"1932","ipt419","testpasstiles;ImageP","testing",0
-"1933","ipt419","testpasstiles;ImageP","testing",0
-"1934","ipt419","testpasstiles;ImageP","testing",0
+"1931","ipt419","testpasstiles;ImageP","testing",3.1
+"1932","ipt419","testpasstiles;ImageP","testing",3.1
+"1933","ipt419","testpasstiles;ImageP","testing",3.1
+"1934","ipt419","testpasstiles;ImageP","testing",3.1
 "1935","ipt419","unknown;ImagePasstil","Successful Login",3.1
-"1936","ipt419","testpasstiles;ImageP","testing",0
-"1937","ipt419","testpasstiles;ImageP","testing",0
-"1938","ipt419","testpasstiles;ImageP","testing",0
+"1936","ipt419","testpasstiles;ImageP","testing",3.1
+"1937","ipt419","testpasstiles;ImageP","testing",3.1
+"1938","ipt419","testpasstiles;ImageP","testing",3.1
 "1939","ipt419","unknown;ImagePasstil","Successful Login",3.1
-"1940","ipt419","testpasstiles;ImageP","testing",0
-"1941","ipt419","testpasstiles;ImageP","testing",0
-"1942","ipt419","testpasstiles;ImageP","testing",0
+"1940","ipt419","testpasstiles;ImageP","testing",3.1
+"1941","ipt419","testpasstiles;ImageP","testing",3.1
+"1942","ipt419","testpasstiles;ImageP","testing",3.1
 "1943","ipt419","unknown;ImagePasstil","Successful Login",3.1
-"1944","ipt419","unknown;N/A","testing",0
+"1944","ipt419","unknown;N/A","testing",3.1
 "1945","ipt419","unknown;ImagePasstil","Failed Login",3.27
-"1946","ipt419","testpasstiles;ImageP","testing",0
-"1947","ipt419","testpasstiles;ImageP","testing",0
-"1948","ipt419","testpasstiles;ImageP","testing",0
+"1946","ipt419","testpasstiles;ImageP","testing",3.27
+"1947","ipt419","testpasstiles;ImageP","testing",3.27
+"1948","ipt419","testpasstiles;ImageP","testing",3.27
 "1949","ipt419","unknown;ImagePasstil","Successful Login",3.27
 "1950","ipt419","unknown;ImagePasstil","Failed Login",3.27
-"1951","ipt419","testpasstiles;ImageP","testing",0
-"1952","ipt419","testpasstiles;ImageP","testing",0
-"1953","ipt419","testpasstiles;ImageP","testing",0
+"1951","ipt419","testpasstiles;ImageP","testing",3.27
+"1952","ipt419","testpasstiles;ImageP","testing",3.27
+"1953","ipt419","testpasstiles;ImageP","testing",3.27
 "1954","ipt419","unknown;ImagePasstil","Successful Login",3.27
-"1955","ipt419","testpasstiles;ImageP","testing",0
-"1956","ipt419","testpasstiles;ImageP","testing",0
-"1957","ipt419","testpasstiles;ImageP","testing",0
+"1955","ipt419","testpasstiles;ImageP","testing",3.27
+"1956","ipt419","testpasstiles;ImageP","testing",3.27
+"1957","ipt419","testpasstiles;ImageP","testing",3.27
 "1958","ipt419","unknown;ImagePasstil","Successful Login",3.27
-"1959","ipt419","unknown;N/A","testing",0
-"1960","ipt419","unknown;N/A","testing",0
-"1961","ipt419","unknown;N/A","testing",0
-"1962","ipt419","unknown;N/A","testing",0
-"1963","ipt419","unknown;N/A","testing",0
-"1964","ipt419","unknown;N/A","testing",0
-"1965","ipt423","unknown;N/A","testing",0
+"1959","ipt419","unknown;N/A","testing",3.27
+"1960","ipt419","unknown;N/A","testing",3.27
+"1961","ipt419","unknown;N/A","testing",3.27
+"1962","ipt419","unknown;N/A","testing",3.27
+"1963","ipt419","unknown;N/A","testing",3.28
+"1964","ipt419","unknown;N/A","testing",3.28
+"1965","ipt423","unknown;N/A","testing",-3.62
 "1966","ipt423","testpasstiles;ImageP","Created Password",0
 "1967","ipt423","testpasstiles;ImageP","testing",0
 "1968","ipt423","testpasstiles;ImageP","testing",0
@@ -2031,9 +2031,9 @@
 "2030","ipt423","testpasstiles;ImageP","testing",0
 "2031","ipt423","testpasstiles;ImageP","testing",0
 "2032","ipt423","testpasstiles;ImageP","testing",0
-"2033","ipt423","testpasstiles;ImageP","testing",0
-"2034","ipt423","testpasstiles;ImageP","testing",0
-"2035","ipt423","testpasstiles;ImageP","testing",0
+"2033","ipt423","testpasstiles;ImageP","testing",0.01
+"2034","ipt423","testpasstiles;ImageP","testing",0.01
+"2035","ipt423","testpasstiles;ImageP","testing",0.01
 "2036","ipt423","unknown;ImagePasstil","Failed Login",0.01
 "2037","ipt423","testpasstiles;ImageP","Created Password",0
 "2038","ipt423","testpasstiles;ImageP","testing",0
@@ -2088,7 +2088,7 @@
 "2087","ipt423","testpasstiles;ImageP","testing",0
 "2088","ipt423","unknown;ImagePasstil","Successful Login",0
 "2089","ipt423","unknown;N/A","testing",0
-"2090","ipt423","testpasstiles;ImageP","testing",0
+"2090","ipt423","testpasstiles;ImageP","testing",2.15
 "2091","ipt423","testpasstiles;ImageP","Created Password",0
 "2092","ipt423","testpasstiles;ImageP","testing",0
 "2093","ipt423","testpasstiles;ImageP","testing",0
@@ -2175,47 +2175,47 @@
 "2174","ipt423","testpasstiles;ImageP","testing",0
 "2175","ipt423","unknown;ImagePasstil","Successful Login",0
 "2176","ipt423","unknown;N/A","testing",0
-"2177","ipt423","testpasstiles;ImageP","testing",0
-"2178","ipt423","testpasstiles;ImageP","testing",0
-"2179","ipt423","testpasstiles;ImageP","testing",0
+"2177","ipt423","testpasstiles;ImageP","testing",2.27
+"2178","ipt423","testpasstiles;ImageP","testing",2.27
+"2179","ipt423","testpasstiles;ImageP","testing",2.27
 "2180","ipt423","unknown;ImagePasstil","Successful Login",2.27
-"2181","ipt423","testpasstiles;ImageP","testing",0
-"2182","ipt423","testpasstiles;ImageP","testing",0
-"2183","ipt423","testpasstiles;ImageP","testing",0
+"2181","ipt423","testpasstiles;ImageP","testing",2.27
+"2182","ipt423","testpasstiles;ImageP","testing",2.27
+"2183","ipt423","testpasstiles;ImageP","testing",2.27
 "2184","ipt423","unknown;ImagePasstil","Successful Login",2.27
-"2185","ipt423","testpasstiles;ImageP","testing",0
-"2186","ipt423","testpasstiles;ImageP","testing",0
-"2187","ipt423","testpasstiles;ImageP","testing",0
+"2185","ipt423","testpasstiles;ImageP","testing",2.27
+"2186","ipt423","testpasstiles;ImageP","testing",2.27
+"2187","ipt423","testpasstiles;ImageP","testing",2.27
 "2188","ipt423","unknown;ImagePasstil","Successful Login",2.27
-"2189","ipt423","unknown;N/A","testing",0
-"2190","ipt423","testpasstiles;ImageP","testing",0
-"2191","ipt423","testpasstiles;ImageP","testing",0
-"2192","ipt423","testpasstiles;ImageP","testing",0
+"2189","ipt423","unknown;N/A","testing",2.27
+"2190","ipt423","testpasstiles;ImageP","testing",4.28
+"2191","ipt423","testpasstiles;ImageP","testing",4.28
+"2192","ipt423","testpasstiles;ImageP","testing",4.28
 "2193","ipt423","unknown;ImagePasstil","Successful Login",4.28
-"2194","ipt423","testpasstiles;ImageP","testing",0
-"2195","ipt423","testpasstiles;ImageP","testing",0
-"2196","ipt423","testpasstiles;ImageP","testing",0
+"2194","ipt423","testpasstiles;ImageP","testing",4.28
+"2195","ipt423","testpasstiles;ImageP","testing",4.28
+"2196","ipt423","testpasstiles;ImageP","testing",4.28
 "2197","ipt423","unknown;ImagePasstil","Successful Login",4.28
-"2198","ipt423","testpasstiles;ImageP","testing",0
-"2199","ipt423","testpasstiles;ImageP","testing",0
-"2200","ipt423","testpasstiles;ImageP","testing",0
+"2198","ipt423","testpasstiles;ImageP","testing",4.28
+"2199","ipt423","testpasstiles;ImageP","testing",4.28
+"2200","ipt423","testpasstiles;ImageP","testing",4.28
 "2201","ipt423","unknown;ImagePasstil","Successful Login",4.28
-"2202","ipt423","unknown;N/A","testing",0
-"2203","ipt423","testpasstiles;ImageP","testing",0
-"2204","ipt423","testpasstiles;ImageP","testing",0
-"2205","ipt423","testpasstiles;ImageP","testing",0
+"2202","ipt423","unknown;N/A","testing",4.3
+"2203","ipt423","testpasstiles;ImageP","testing",6.14
+"2204","ipt423","testpasstiles;ImageP","testing",6.14
+"2205","ipt423","testpasstiles;ImageP","testing",6.14
 "2206","ipt423","unknown;ImagePasstil","Successful Login",6.14
-"2207","ipt423","testpasstiles;ImageP","testing",0
-"2208","ipt423","testpasstiles;ImageP","testing",0
-"2209","ipt423","testpasstiles;ImageP","testing",0
+"2207","ipt423","testpasstiles;ImageP","testing",6.14
+"2208","ipt423","testpasstiles;ImageP","testing",6.14
+"2209","ipt423","testpasstiles;ImageP","testing",6.14
 "2210","ipt423","unknown;ImagePasstil","Successful Login",6.14
-"2211","ipt423","testpasstiles;ImageP","testing",0
-"2212","ipt423","testpasstiles;ImageP","testing",0
-"2213","ipt423","testpasstiles;ImageP","testing",0
+"2211","ipt423","testpasstiles;ImageP","testing",6.14
+"2212","ipt423","testpasstiles;ImageP","testing",6.14
+"2213","ipt423","testpasstiles;ImageP","testing",6.14
 "2214","ipt423","unknown;ImagePasstil","Successful Login",6.14
-"2215","ipt423","unknown;N/A","testing",0
-"2216","ipt423","unknown;N/A","testing",0
-"2217","ipt424","unknown;N/A","testing",0
+"2215","ipt423","unknown;N/A","testing",6.14
+"2216","ipt423","unknown;N/A","testing",6.14
+"2217","ipt424","unknown;N/A","testing",-2.89
 "2218","ipt424","testpasstiles;ImageP","Created Password",0
 "2219","ipt424","testpasstiles;ImageP","testing",0
 "2220","ipt424","testpasstiles;ImageP","testing",0
@@ -2312,84 +2312,84 @@
 "2311","ipt424","testpasstiles;ImageP","testing",0
 "2312","ipt424","testpasstiles;ImageP","testing",0
 "2313","ipt424","unknown;ImagePasstil","Successful Login",0
-"2314","ipt424","testpasstiles;ImageP","testing",0
-"2315","ipt424","testpasstiles;ImageP","testing",0
-"2316","ipt424","testpasstiles;ImageP","testing",0
+"2314","ipt424","testpasstiles;ImageP","testing",0.01
+"2315","ipt424","testpasstiles;ImageP","testing",0.01
+"2316","ipt424","testpasstiles;ImageP","testing",0.01
 "2317","ipt424","unknown;ImagePasstil","Successful Login",0.01
-"2318","ipt424","testpasstiles;ImageP","testing",0
-"2319","ipt424","testpasstiles;ImageP","testing",0
-"2320","ipt424","testpasstiles;ImageP","testing",0
+"2318","ipt424","testpasstiles;ImageP","testing",0.02
+"2319","ipt424","testpasstiles;ImageP","testing",0.02
+"2320","ipt424","testpasstiles;ImageP","testing",0.02
 "2321","ipt424","unknown;ImagePasstil","Successful Login",0.02
-"2322","ipt424","unknown;N/A","testing",0
-"2323","ipt424","unknown;N/A","testing",0
-"2324","ipt424","unknown;N/A","testing",0
-"2325","ipt424","testpasstiles;ImageP","testing",0
-"2326","ipt424","testpasstiles;ImageP","testing",0
-"2327","ipt424","testpasstiles;ImageP","testing",0
-"2328","ipt424","testpasstiles;ImageP","testing",0
+"2322","ipt424","unknown;N/A","testing",0.02
+"2323","ipt424","unknown;N/A","testing",0.03
+"2324","ipt424","unknown;N/A","testing",0.03
+"2325","ipt424","testpasstiles;ImageP","testing",1.22
+"2326","ipt424","testpasstiles;ImageP","testing",1.22
+"2327","ipt424","testpasstiles;ImageP","testing",1.23
+"2328","ipt424","testpasstiles;ImageP","testing",1.23
 "2329","ipt424","unknown;ImagePasstil","Successful Login",1.23
-"2330","ipt424","testpasstiles;ImageP","testing",0
-"2331","ipt424","testpasstiles;ImageP","testing",0
-"2332","ipt424","testpasstiles;ImageP","testing",0
+"2330","ipt424","testpasstiles;ImageP","testing",1.23
+"2331","ipt424","testpasstiles;ImageP","testing",1.23
+"2332","ipt424","testpasstiles;ImageP","testing",1.23
 "2333","ipt424","unknown;ImagePasstil","Successful Login",1.23
-"2334","ipt424","testpasstiles;ImageP","testing",0
-"2335","ipt424","testpasstiles;ImageP","testing",0
-"2336","ipt424","testpasstiles;ImageP","testing",0
+"2334","ipt424","testpasstiles;ImageP","testing",1.24
+"2335","ipt424","testpasstiles;ImageP","testing",1.24
+"2336","ipt424","testpasstiles;ImageP","testing",1.24
 "2337","ipt424","unknown;ImagePasstil","Successful Login",1.24
-"2338","ipt424","unknown;N/A","testing",0
-"2339","ipt424","unknown;N/A","testing",0
-"2340","ipt424","unknown;N/A","testing",0
-"2341","ipt424","testpasstiles;ImageP","testing",0
-"2342","ipt424","testpasstiles;ImageP","testing",0
-"2343","ipt424","testpasstiles;ImageP","testing",0
+"2338","ipt424","unknown;N/A","testing",1.25
+"2339","ipt424","unknown;N/A","testing",1.25
+"2340","ipt424","unknown;N/A","testing",1.25
+"2341","ipt424","testpasstiles;ImageP","testing",4.23
+"2342","ipt424","testpasstiles;ImageP","testing",4.23
+"2343","ipt424","testpasstiles;ImageP","testing",4.23
 "2344","ipt424","unknown;ImagePasstil","Successful Login",4.23
-"2345","ipt424","testpasstiles;ImageP","testing",0
-"2346","ipt424","testpasstiles;ImageP","testing",0
-"2347","ipt424","testpasstiles;ImageP","testing",0
+"2345","ipt424","testpasstiles;ImageP","testing",4.23
+"2346","ipt424","testpasstiles;ImageP","testing",4.23
+"2347","ipt424","testpasstiles;ImageP","testing",4.23
 "2348","ipt424","unknown;ImagePasstil","Successful Login",4.23
-"2349","ipt424","testpasstiles;ImageP","testing",0
-"2350","ipt424","testpasstiles;ImageP","testing",0
-"2351","ipt424","testpasstiles;ImageP","testing",0
+"2349","ipt424","testpasstiles;ImageP","testing",4.24
+"2350","ipt424","testpasstiles;ImageP","testing",4.24
+"2351","ipt424","testpasstiles;ImageP","testing",4.24
 "2352","ipt424","unknown;ImagePasstil","Successful Login",4.24
-"2353","ipt424","unknown;N/A","testing",0
-"2354","ipt424","unknown;N/A","testing",0
-"2355","ipt424","testpasstiles;ImageP","testing",0
-"2356","ipt424","testpasstiles;ImageP","testing",0
-"2357","ipt424","testpasstiles;ImageP","testing",0
+"2353","ipt424","unknown;N/A","testing",4.25
+"2354","ipt424","unknown;N/A","testing",4.25
+"2355","ipt424","testpasstiles;ImageP","testing",6.94
+"2356","ipt424","testpasstiles;ImageP","testing",6.95
+"2357","ipt424","testpasstiles;ImageP","testing",6.95
 "2358","ipt424","unknown;ImagePasstil","Successful Login",6.95
-"2359","ipt424","testpasstiles;ImageP","testing",0
-"2360","ipt424","testpasstiles;ImageP","testing",0
-"2361","ipt424","testpasstiles;ImageP","testing",0
+"2359","ipt424","testpasstiles;ImageP","testing",6.95
+"2360","ipt424","testpasstiles;ImageP","testing",6.95
+"2361","ipt424","testpasstiles;ImageP","testing",6.95
 "2362","ipt424","unknown;ImagePasstil","Failed Login",6.95
-"2363","ipt424","testpasstiles;ImageP","testing",0
-"2364","ipt424","testpasstiles;ImageP","testing",0
-"2365","ipt424","testpasstiles;ImageP","testing",0
+"2363","ipt424","testpasstiles;ImageP","testing",6.95
+"2364","ipt424","testpasstiles;ImageP","testing",6.95
+"2365","ipt424","testpasstiles;ImageP","testing",6.95
 "2366","ipt424","unknown;ImagePasstil","Failed Login",6.95
-"2367","ipt424","testpasstiles;ImageP","testing",0
-"2368","ipt424","testpasstiles;ImageP","testing",0
-"2369","ipt424","testpasstiles;ImageP","testing",0
+"2367","ipt424","testpasstiles;ImageP","testing",6.95
+"2368","ipt424","testpasstiles;ImageP","testing",6.95
+"2369","ipt424","testpasstiles;ImageP","testing",6.95
 "2370","ipt424","unknown;ImagePasstil","Successful Login",6.95
-"2371","ipt424","testpasstiles;ImageP","testing",0
-"2372","ipt424","testpasstiles;ImageP","testing",0
-"2373","ipt424","testpasstiles;ImageP","testing",0
+"2371","ipt424","testpasstiles;ImageP","testing",6.95
+"2372","ipt424","testpasstiles;ImageP","testing",6.95
+"2373","ipt424","testpasstiles;ImageP","testing",6.95
 "2374","ipt424","unknown;ImagePasstil","Successful Login",6.95
-"2375","ipt424","unknown;N/A","testing",0
-"2376","ipt424","unknown;N/A","testing",0
-"2377","ipt424","testpasstiles;ImageP","testing",0
-"2378","ipt424","testpasstiles;ImageP","testing",0
-"2379","ipt424","testpasstiles;ImageP","testing",0
+"2375","ipt424","unknown;N/A","testing",6.95
+"2376","ipt424","unknown;N/A","testing",6.95
+"2377","ipt424","testpasstiles;ImageP","testing",7.03
+"2378","ipt424","testpasstiles;ImageP","testing",7.03
+"2379","ipt424","testpasstiles;ImageP","testing",7.03
 "2380","ipt424","unknown;ImagePasstil","Successful Login",7.03
-"2381","ipt424","testpasstiles;ImageP","testing",0
-"2382","ipt424","testpasstiles;ImageP","testing",0
-"2383","ipt424","testpasstiles;ImageP","testing",0
+"2381","ipt424","testpasstiles;ImageP","testing",7.03
+"2382","ipt424","testpasstiles;ImageP","testing",7.03
+"2383","ipt424","testpasstiles;ImageP","testing",7.03
 "2384","ipt424","unknown;ImagePasstil","Successful Login",7.03
-"2385","ipt424","testpasstiles;ImageP","testing",0
-"2386","ipt424","testpasstiles;ImageP","testing",0
-"2387","ipt424","testpasstiles;ImageP","testing",0
+"2385","ipt424","testpasstiles;ImageP","testing",7.03
+"2386","ipt424","testpasstiles;ImageP","testing",7.03
+"2387","ipt424","testpasstiles;ImageP","testing",7.03
 "2388","ipt424","unknown;ImagePasstil","Successful Login",7.03
-"2389","ipt424","unknown;N/A","testing",0
-"2390","ipt424","unknown;N/A","testing",0
-"2391","ipt426","unknown;N/A","testing",0
+"2389","ipt424","unknown;N/A","testing",7.04
+"2390","ipt424","unknown;N/A","testing",7.04
+"2391","ipt426","unknown;N/A","testing",-0.42
 "2392","ipt426","testpasstiles;ImageP","Created Password",0
 "2393","ipt426","testpasstiles;ImageP","testing",0
 "2394","ipt426","testpasstiles;ImageP","testing",0
@@ -2454,16 +2454,16 @@
 "2453","ipt426","testpasstiles;ImageP","testing",0
 "2454","ipt426","unknown;ImagePasstil","Successful Login",0
 "2455","ipt426","unknown;N/A","testing",0
-"2456","ipt426","testpasstiles;ImageP","testing",0
-"2457","ipt426","testpasstiles;ImageP","testing",0
-"2458","ipt426","testpasstiles;ImageP","testing",0
-"2459","ipt426","testpasstiles;ImageP","testing",0
-"2460","ipt426","testpasstiles;ImageP","testing",0
-"2461","ipt426","testpasstiles;ImageP","testing",0
+"2456","ipt426","testpasstiles;ImageP","testing",1.36
+"2457","ipt426","testpasstiles;ImageP","testing",1.36
+"2458","ipt426","testpasstiles;ImageP","testing",1.36
+"2459","ipt426","testpasstiles;ImageP","testing",1.36
+"2460","ipt426","testpasstiles;ImageP","testing",1.37
+"2461","ipt426","testpasstiles;ImageP","testing",1.37
 "2462","ipt426","unknown;ImagePasstil","Failed Login",1.37
-"2463","ipt426","testpasstiles;ImageP","testing",0
-"2464","ipt426","testpasstiles;ImageP","testing",0
-"2465","ipt426","testpasstiles;ImageP","testing",0
+"2463","ipt426","testpasstiles;ImageP","testing",1.37
+"2464","ipt426","testpasstiles;ImageP","testing",1.37
+"2465","ipt426","testpasstiles;ImageP","testing",1.37
 "2466","ipt426","testpasstiles;ImageP","Created Password",0
 "2467","ipt426","testpasstiles;ImageP","testing",0
 "2468","ipt426","testpasstiles;ImageP","testing",0
@@ -2524,54 +2524,54 @@
 "2523","ipt426","testpasstiles;ImageP","testing",0
 "2524","ipt426","unknown;ImagePasstil","Successful Login",0
 "2525","ipt426","unknown;N/A","testing",0
-"2526","ipt426","unknown;N/A","testing",0
-"2527","ipt426","unknown;N/A","testing",0
-"2528","ipt426","unknown;N/A","testing",0
-"2529","ipt426","testpasstiles;ImageP","testing",0
-"2530","ipt426","testpasstiles;ImageP","testing",0
-"2531","ipt426","testpasstiles;ImageP","testing",0
+"2526","ipt426","unknown;N/A","testing",0.01
+"2527","ipt426","unknown;N/A","testing",0.01
+"2528","ipt426","unknown;N/A","testing",0.01
+"2529","ipt426","testpasstiles;ImageP","testing",2.03
+"2530","ipt426","testpasstiles;ImageP","testing",2.03
+"2531","ipt426","testpasstiles;ImageP","testing",2.03
 "2532","ipt426","unknown;ImagePasstil","Successful Login",2.03
-"2533","ipt426","testpasstiles;ImageP","testing",0
-"2534","ipt426","testpasstiles;ImageP","testing",0
-"2535","ipt426","testpasstiles;ImageP","testing",0
+"2533","ipt426","testpasstiles;ImageP","testing",2.03
+"2534","ipt426","testpasstiles;ImageP","testing",2.03
+"2535","ipt426","testpasstiles;ImageP","testing",2.03
 "2536","ipt426","unknown;ImagePasstil","Successful Login",2.03
-"2537","ipt426","testpasstiles;ImageP","testing",0
-"2538","ipt426","testpasstiles;ImageP","testing",0
-"2539","ipt426","testpasstiles;ImageP","testing",0
+"2537","ipt426","testpasstiles;ImageP","testing",2.03
+"2538","ipt426","testpasstiles;ImageP","testing",2.03
+"2539","ipt426","testpasstiles;ImageP","testing",2.03
 "2540","ipt426","unknown;ImagePasstil","Successful Login",2.03
-"2541","ipt426","unknown;N/A","testing",0
-"2542","ipt426","testpasstiles;ImageP","testing",0
-"2543","ipt426","testpasstiles;ImageP","testing",0
-"2544","ipt426","testpasstiles;ImageP","testing",0
+"2541","ipt426","unknown;N/A","testing",2.03
+"2542","ipt426","testpasstiles;ImageP","testing",4.98
+"2543","ipt426","testpasstiles;ImageP","testing",4.98
+"2544","ipt426","testpasstiles;ImageP","testing",4.98
 "2545","ipt426","unknown;ImagePasstil","Successful Login",4.98
-"2546","ipt426","testpasstiles;ImageP","testing",0
-"2547","ipt426","testpasstiles;ImageP","testing",0
-"2548","ipt426","testpasstiles;ImageP","testing",0
+"2546","ipt426","testpasstiles;ImageP","testing",4.99
+"2547","ipt426","testpasstiles;ImageP","testing",4.99
+"2548","ipt426","testpasstiles;ImageP","testing",4.99
 "2549","ipt426","unknown;ImagePasstil","Successful Login",4.99
-"2550","ipt426","testpasstiles;ImageP","testing",0
-"2551","ipt426","testpasstiles;ImageP","testing",0
-"2552","ipt426","testpasstiles;ImageP","testing",0
+"2550","ipt426","testpasstiles;ImageP","testing",4.99
+"2551","ipt426","testpasstiles;ImageP","testing",4.99
+"2552","ipt426","testpasstiles;ImageP","testing",4.99
 "2553","ipt426","unknown;ImagePasstil","Successful Login",4.99
-"2554","ipt426","unknown;N/A","testing",0
-"2555","ipt426","unknown;N/A","testing",0
-"2556","ipt426","testpasstiles;ImageP","testing",0
-"2557","ipt426","testpasstiles;ImageP","testing",0
-"2558","ipt426","testpasstiles;ImageP","testing",0
+"2554","ipt426","unknown;N/A","testing",4.99
+"2555","ipt426","unknown;N/A","testing",4.99
+"2556","ipt426","testpasstiles;ImageP","testing",6.05
+"2557","ipt426","testpasstiles;ImageP","testing",6.05
+"2558","ipt426","testpasstiles;ImageP","testing",6.05
 "2559","ipt426","unknown;ImagePasstil","Successful Login",6.05
-"2560","ipt426","testpasstiles;ImageP","testing",0
-"2561","ipt426","testpasstiles;ImageP","testing",0
-"2562","ipt426","testpasstiles;ImageP","testing",0
+"2560","ipt426","testpasstiles;ImageP","testing",6.05
+"2561","ipt426","testpasstiles;ImageP","testing",6.05
+"2562","ipt426","testpasstiles;ImageP","testing",6.05
 "2563","ipt426","unknown;ImagePasstil","Successful Login",6.05
-"2564","ipt426","testpasstiles;ImageP","testing",0
-"2565","ipt426","testpasstiles;ImageP","testing",0
-"2566","ipt426","testpasstiles;ImageP","testing",0
+"2564","ipt426","testpasstiles;ImageP","testing",6.05
+"2565","ipt426","testpasstiles;ImageP","testing",6.05
+"2566","ipt426","testpasstiles;ImageP","testing",6.05
 "2567","ipt426","unknown;ImagePasstil","Failed Login",6.05
-"2568","ipt426","testpasstiles;ImageP","testing",0
-"2569","ipt426","testpasstiles;ImageP","testing",0
-"2570","ipt426","testpasstiles;ImageP","testing",0
+"2568","ipt426","testpasstiles;ImageP","testing",6.05
+"2569","ipt426","testpasstiles;ImageP","testing",6.05
+"2570","ipt426","testpasstiles;ImageP","testing",6.05
 "2571","ipt426","unknown;ImagePasstil","Successful Login",6.05
-"2572","ipt426","unknown;N/A","testing",0
-"2573","ipt427","unknown;N/A","testing",0
+"2572","ipt426","unknown;N/A","testing",6.06
+"2573","ipt427","unknown;N/A","testing",-1.37
 "2574","ipt427","testpasstiles;ImageP","Created Password",0
 "2575","ipt427","testpasstiles;ImageP","testing",0
 "2576","ipt427","testpasstiles;ImageP","testing",0
@@ -2702,42 +2702,42 @@
 "2701","ipt427","testpasstiles;ImageP","testing",0
 "2702","ipt427","testpasstiles;ImageP","testing",0
 "2703","ipt427","testpasstiles;ImageP","testing",0
-"2704","ipt427","testpasstiles;ImageP","testing",0
-"2705","ipt427","testpasstiles;ImageP","testing",0
-"2706","ipt427","testpasstiles;ImageP","testing",0
+"2704","ipt427","testpasstiles;ImageP","testing",0.02
+"2705","ipt427","testpasstiles;ImageP","testing",0.02
+"2706","ipt427","testpasstiles;ImageP","testing",0.02
 "2707","ipt427","unknown;ImagePasstil","Successful Login",0.02
-"2708","ipt427","unknown;N/A","testing",0
-"2709","ipt427","testpasstiles;ImageP","testing",0
-"2710","ipt427","testpasstiles;ImageP","testing",0
-"2711","ipt427","testpasstiles;ImageP","testing",0
+"2708","ipt427","unknown;N/A","testing",0.02
+"2709","ipt427","testpasstiles;ImageP","testing",0.02
+"2710","ipt427","testpasstiles;ImageP","testing",0.02
+"2711","ipt427","testpasstiles;ImageP","testing",0.02
 "2712","ipt427","unknown;ImagePasstil","Successful Login",0.02
-"2713","ipt427","unknown;N/A","testing",0
-"2714","ipt427","testpasstiles;ImageP","testing",0
-"2715","ipt427","testpasstiles;ImageP","testing",0
-"2716","ipt427","testpasstiles;ImageP","testing",0
-"2717","ipt427","testpasstiles;ImageP","testing",0
+"2713","ipt427","unknown;N/A","testing",0.02
+"2714","ipt427","testpasstiles;ImageP","testing",0.03
+"2715","ipt427","testpasstiles;ImageP","testing",0.03
+"2716","ipt427","testpasstiles;ImageP","testing",0.03
+"2717","ipt427","testpasstiles;ImageP","testing",0.03
 "2718","ipt427","unknown;ImagePasstil","Successful Login",0.03
-"2719","ipt427","unknown;N/A","testing",0
-"2720","ipt427","testpasstiles;ImageP","testing",0
-"2721","ipt427","testpasstiles;ImageP","testing",0
-"2722","ipt427","testpasstiles;ImageP","testing",0
-"2723","ipt427","testpasstiles;ImageP","testing",0
+"2719","ipt427","unknown;N/A","testing",0.03
+"2720","ipt427","testpasstiles;ImageP","testing",4.98
+"2721","ipt427","testpasstiles;ImageP","testing",4.98
+"2722","ipt427","testpasstiles;ImageP","testing",4.98
+"2723","ipt427","testpasstiles;ImageP","testing",4.98
 "2724","ipt427","unknown;ImagePasstil","Failed Login",4.98
-"2725","ipt427","testpasstiles;ImageP","testing",0
-"2726","ipt427","testpasstiles;ImageP","testing",0
-"2727","ipt427","testpasstiles;ImageP","testing",0
+"2725","ipt427","testpasstiles;ImageP","testing",4.98
+"2726","ipt427","testpasstiles;ImageP","testing",4.98
+"2727","ipt427","testpasstiles;ImageP","testing",4.98
 "2728","ipt427","unknown;ImagePasstil","Failed Login",4.98
-"2729","ipt427","testpasstiles;ImageP","testing",0
-"2730","ipt427","testpasstiles;ImageP","testing",0
-"2731","ipt427","testpasstiles;ImageP","testing",0
-"2732","ipt427","testpasstiles;ImageP","testing",0
-"2733","ipt427","testpasstiles;ImageP","testing",0
+"2729","ipt427","testpasstiles;ImageP","testing",4.98
+"2730","ipt427","testpasstiles;ImageP","testing",4.98
+"2731","ipt427","testpasstiles;ImageP","testing",4.98
+"2732","ipt427","testpasstiles;ImageP","testing",4.98
+"2733","ipt427","testpasstiles;ImageP","testing",4.98
 "2734","ipt427","unknown;ImagePasstil","Failed Login",4.98
-"2735","ipt427","testpasstiles;ImageP","testing",0
-"2736","ipt427","testpasstiles;ImageP","testing",0
-"2737","ipt427","testpasstiles;ImageP","testing",0
-"2738","ipt427","testpasstiles;ImageP","testing",0
-"2739","ipt427","testpasstiles;ImageP","testing",0
+"2735","ipt427","testpasstiles;ImageP","testing",4.98
+"2736","ipt427","testpasstiles;ImageP","testing",4.99
+"2737","ipt427","testpasstiles;ImageP","testing",4.99
+"2738","ipt427","testpasstiles;ImageP","testing",4.99
+"2739","ipt427","testpasstiles;ImageP","testing",4.99
 "2740","ipt427","unknown;ImagePasstil","Failed Login",4.99
 "2741","ipt427","testpasstiles;ImageP","Created Password",0
 "2742","ipt427","testpasstiles;ImageP","testing",0
@@ -2803,46 +2803,46 @@
 "2802","ipt427","testpasstiles;ImageP","testing",0
 "2803","ipt427","testpasstiles;ImageP","testing",0
 "2804","ipt427","unknown;ImagePasstil","Successful Login",0
-"2805","ipt427","unknown;N/A","testing",0
-"2806","ipt427","testpasstiles;ImageP","testing",0
-"2807","ipt427","testpasstiles;ImageP","testing",0
-"2808","ipt427","testpasstiles;ImageP","testing",0
+"2805","ipt427","unknown;N/A","testing",0.01
+"2806","ipt427","testpasstiles;ImageP","testing",0.01
+"2807","ipt427","testpasstiles;ImageP","testing",0.01
+"2808","ipt427","testpasstiles;ImageP","testing",0.01
 "2809","ipt427","unknown;ImagePasstil","Successful Login",0.01
-"2810","ipt427","testpasstiles;ImageP","testing",0
-"2811","ipt427","testpasstiles;ImageP","testing",0
-"2812","ipt427","testpasstiles;ImageP","testing",0
+"2810","ipt427","testpasstiles;ImageP","testing",0.01
+"2811","ipt427","testpasstiles;ImageP","testing",0.01
+"2812","ipt427","testpasstiles;ImageP","testing",0.01
 "2813","ipt427","unknown;ImagePasstil","Successful Login",0.01
-"2814","ipt427","unknown;N/A","testing",0
-"2815","ipt427","testpasstiles;ImageP","testing",0
-"2816","ipt427","testpasstiles;ImageP","testing",0
-"2817","ipt427","testpasstiles;ImageP","testing",0
+"2814","ipt427","unknown;N/A","testing",0.01
+"2815","ipt427","testpasstiles;ImageP","testing",1.41
+"2816","ipt427","testpasstiles;ImageP","testing",1.41
+"2817","ipt427","testpasstiles;ImageP","testing",1.41
 "2818","ipt427","unknown;ImagePasstil","Successful Login",1.41
-"2819","ipt427","testpasstiles;ImageP","testing",0
-"2820","ipt427","testpasstiles;ImageP","testing",0
+"2819","ipt427","testpasstiles;ImageP","testing",1.41
+"2820","ipt427","testpasstiles;ImageP","testing",1.41
 "2821","ipt427","unknown;ImagePasstil","Successful Login",1.41
-"2822","ipt427","testpasstiles;ImageP","testing",0
-"2823","ipt427","testpasstiles;ImageP","testing",0
-"2824","ipt427","testpasstiles;ImageP","testing",0
+"2822","ipt427","testpasstiles;ImageP","testing",1.42
+"2823","ipt427","testpasstiles;ImageP","testing",1.42
+"2824","ipt427","testpasstiles;ImageP","testing",1.42
 "2825","ipt427","unknown;ImagePasstil","Successful Login",1.42
-"2826","ipt427","unknown;N/A","testing",0
-"2827","ipt427","unknown;N/A","testing",0
-"2828","ipt427","unknown;N/A","testing",0
-"2829","ipt427","testpasstiles;ImageP","testing",0
-"2830","ipt427","testpasstiles;ImageP","testing",0
-"2831","ipt427","testpasstiles;ImageP","testing",0
+"2826","ipt427","unknown;N/A","testing",1.42
+"2827","ipt427","unknown;N/A","testing",1.42
+"2828","ipt427","unknown;N/A","testing",1.42
+"2829","ipt427","testpasstiles;ImageP","testing",2.13
+"2830","ipt427","testpasstiles;ImageP","testing",2.13
+"2831","ipt427","testpasstiles;ImageP","testing",2.13
 "2832","ipt427","unknown;ImagePasstil","Successful Login",2.13
-"2833","ipt427","testpasstiles;ImageP","testing",0
-"2834","ipt427","testpasstiles;ImageP","testing",0
-"2835","ipt427","testpasstiles;ImageP","testing",0
+"2833","ipt427","testpasstiles;ImageP","testing",2.13
+"2834","ipt427","testpasstiles;ImageP","testing",2.13
+"2835","ipt427","testpasstiles;ImageP","testing",2.13
 "2836","ipt427","unknown;ImagePasstil","Successful Login",2.13
-"2837","ipt427","testpasstiles;ImageP","testing",0
-"2838","ipt427","testpasstiles;ImageP","testing",0
-"2839","ipt427","testpasstiles;ImageP","testing",0
+"2837","ipt427","testpasstiles;ImageP","testing",2.13
+"2838","ipt427","testpasstiles;ImageP","testing",2.13
+"2839","ipt427","testpasstiles;ImageP","testing",2.13
 "2840","ipt427","unknown;ImagePasstil","Successful Login",2.13
-"2841","ipt427","unknown;N/A","testing",0
-"2842","ipt427","unknown;N/A","testing",0
-"2843","ipt427","unknown;N/A","testing",0
-"2844","ipt431","unknown;N/A","testing",0
+"2841","ipt427","unknown;N/A","testing",2.13
+"2842","ipt427","unknown;N/A","testing",2.14
+"2843","ipt427","unknown;N/A","testing",2.14
+"2844","ipt431","unknown;N/A","testing",-4.88
 "2845","ipt431","testpasstiles;ImageP","Created Password",0
 "2846","ipt431","testpasstiles;ImageP","testing",0
 "2847","ipt431","testpasstiles;ImageP","testing",0
@@ -3005,14 +3005,14 @@
 "3004","ipt431","testpasstiles;ImageP","testing",0
 "3005","ipt431","testpasstiles;ImageP","testing",0
 "3006","ipt431","unknown;ImagePasstil","Failed Login",0
-"3007","ipt431","testpasstiles;ImageP","testing",0
-"3008","ipt431","testpasstiles;ImageP","testing",0
-"3009","ipt431","testpasstiles;ImageP","testing",0
-"3010","ipt431","testpasstiles;ImageP","testing",0
+"3007","ipt431","testpasstiles;ImageP","testing",0.01
+"3008","ipt431","testpasstiles;ImageP","testing",0.01
+"3009","ipt431","testpasstiles;ImageP","testing",0.01
+"3010","ipt431","testpasstiles;ImageP","testing",0.01
 "3011","ipt431","unknown;ImagePasstil","Failed Login",0.01
-"3012","ipt431","testpasstiles;ImageP","testing",0
-"3013","ipt431","testpasstiles;ImageP","testing",0
-"3014","ipt431","testpasstiles;ImageP","testing",0
+"3012","ipt431","testpasstiles;ImageP","testing",0.01
+"3013","ipt431","testpasstiles;ImageP","testing",0.01
+"3014","ipt431","testpasstiles;ImageP","testing",0.01
 "3015","ipt431","unknown;ImagePasstil","Failed Login",0.01
 "3016","ipt431","testpasstiles;ImageP","Created Password",0
 "3017","ipt431","testpasstiles;ImageP","testing",0
@@ -3154,42 +3154,42 @@
 "3153","ipt431","unknown;ImagePasstil","Successful Login",0
 "3154","ipt431","unknown;N/A","testing",0
 "3155","ipt431","unknown;N/A","testing",0
-"3156","ipt431","testpasstiles;ImageP","testing",0
-"3157","ipt431","testpasstiles;ImageP","testing",0
-"3158","ipt431","testpasstiles;ImageP","testing",0
+"3156","ipt431","testpasstiles;ImageP","testing",0.01
+"3157","ipt431","testpasstiles;ImageP","testing",0.01
+"3158","ipt431","testpasstiles;ImageP","testing",0.01
 "3159","ipt431","unknown;ImagePasstil","Failed Login",0.01
-"3160","ipt431","testpasstiles;ImageP","testing",0
-"3161","ipt431","testpasstiles;ImageP","testing",0
-"3162","ipt431","testpasstiles;ImageP","testing",0
+"3160","ipt431","testpasstiles;ImageP","testing",2.57
+"3161","ipt431","testpasstiles;ImageP","testing",2.57
+"3162","ipt431","testpasstiles;ImageP","testing",2.57
 "3163","ipt431","unknown;ImagePasstil","Successful Login",2.57
-"3164","ipt431","testpasstiles;ImageP","testing",0
-"3165","ipt431","testpasstiles;ImageP","testing",0
-"3166","ipt431","testpasstiles;ImageP","testing",0
+"3164","ipt431","testpasstiles;ImageP","testing",2.58
+"3165","ipt431","testpasstiles;ImageP","testing",2.58
+"3166","ipt431","testpasstiles;ImageP","testing",2.58
 "3167","ipt431","unknown;ImagePasstil","Successful Login",2.58
-"3168","ipt431","testpasstiles;ImageP","testing",0
-"3169","ipt431","testpasstiles;ImageP","testing",0
-"3170","ipt431","testpasstiles;ImageP","testing",0
+"3168","ipt431","testpasstiles;ImageP","testing",2.58
+"3169","ipt431","testpasstiles;ImageP","testing",2.58
+"3170","ipt431","testpasstiles;ImageP","testing",2.58
 "3171","ipt431","unknown;ImagePasstil","Successful Login",2.58
-"3172","ipt431","unknown;N/A","testing",0
-"3173","ipt431","unknown;N/A","testing",0
-"3174","ipt431","unknown;N/A","testing",0
-"3175","ipt431","unknown;N/A","testing",0
-"3176","ipt431","testpasstiles;ImageP","testing",0
-"3177","ipt431","testpasstiles;ImageP","testing",0
-"3178","ipt431","testpasstiles;ImageP","testing",0
+"3172","ipt431","unknown;N/A","testing",2.58
+"3173","ipt431","unknown;N/A","testing",2.58
+"3174","ipt431","unknown;N/A","testing",2.58
+"3175","ipt431","unknown;N/A","testing",2.58
+"3176","ipt431","testpasstiles;ImageP","testing",3.88
+"3177","ipt431","testpasstiles;ImageP","testing",3.89
+"3178","ipt431","testpasstiles;ImageP","testing",3.89
 "3179","ipt431","unknown;ImagePasstil","Successful Login",3.89
-"3180","ipt431","testpasstiles;ImageP","testing",0
-"3181","ipt431","testpasstiles;ImageP","testing",0
-"3182","ipt431","testpasstiles;ImageP","testing",0
+"3180","ipt431","testpasstiles;ImageP","testing",3.89
+"3181","ipt431","testpasstiles;ImageP","testing",3.89
+"3182","ipt431","testpasstiles;ImageP","testing",3.89
 "3183","ipt431","unknown;ImagePasstil","Successful Login",3.89
-"3184","ipt431","testpasstiles;ImageP","testing",0
-"3185","ipt431","testpasstiles;ImageP","testing",0
-"3186","ipt431","testpasstiles;ImageP","testing",0
+"3184","ipt431","testpasstiles;ImageP","testing",3.89
+"3185","ipt431","testpasstiles;ImageP","testing",3.89
+"3186","ipt431","testpasstiles;ImageP","testing",3.89
 "3187","ipt431","unknown;ImagePasstil","Successful Login",3.89
-"3188","ipt431","unknown;N/A","testing",0
-"3189","ipt431","unknown;N/A","testing",0
-"3190","ipt431","unknown;N/A","testing",0
-"3191","ipt432","unknown;N/A","testing",0
+"3188","ipt431","unknown;N/A","testing",3.89
+"3189","ipt431","unknown;N/A","testing",3.89
+"3190","ipt431","unknown;N/A","testing",3.9
+"3191","ipt432","unknown;N/A","testing",-3.42
 "3192","ipt432","testpasstiles;ImageP","Created Password",0
 "3193","ipt432","testpasstiles;ImageP","testing",0
 "3194","ipt432","testpasstiles;ImageP","testing",0
@@ -3317,53 +3317,53 @@
 "3316","ipt432","testpasstiles;ImageP","testing",0
 "3317","ipt432","unknown;ImagePasstil","Successful Login",0
 "3318","ipt432","unknown;N/A","testing",0
-"3319","ipt432","unknown;N/A","testing",0
-"3320","ipt432","testpasstiles;ImageP","testing",0
-"3321","ipt432","testpasstiles;ImageP","testing",0
-"3322","ipt432","testpasstiles;ImageP","testing",0
-"3323","ipt432","testpasstiles;ImageP","testing",0
+"3319","ipt432","unknown;N/A","testing",0.01
+"3320","ipt432","testpasstiles;ImageP","testing",2.96
+"3321","ipt432","testpasstiles;ImageP","testing",3.21
+"3322","ipt432","testpasstiles;ImageP","testing",3.21
+"3323","ipt432","testpasstiles;ImageP","testing",3.21
 "3324","ipt432","unknown;ImagePasstil","Successful Login",3.21
-"3325","ipt432","testpasstiles;ImageP","testing",0
-"3326","ipt432","testpasstiles;ImageP","testing",0
-"3327","ipt432","testpasstiles;ImageP","testing",0
+"3325","ipt432","testpasstiles;ImageP","testing",3.21
+"3326","ipt432","testpasstiles;ImageP","testing",3.21
+"3327","ipt432","testpasstiles;ImageP","testing",3.21
 "3328","ipt432","unknown;ImagePasstil","Successful Login",3.21
-"3329","ipt432","testpasstiles;ImageP","testing",0
-"3330","ipt432","testpasstiles;ImageP","testing",0
-"3331","ipt432","testpasstiles;ImageP","testing",0
+"3329","ipt432","testpasstiles;ImageP","testing",3.21
+"3330","ipt432","testpasstiles;ImageP","testing",3.21
+"3331","ipt432","testpasstiles;ImageP","testing",3.21
 "3332","ipt432","unknown;ImagePasstil","Successful Login",3.21
-"3333","ipt432","unknown;N/A","testing",0
-"3334","ipt432","unknown;N/A","testing",0
-"3335","ipt432","testpasstiles;ImageP","testing",0
-"3336","ipt432","testpasstiles;ImageP","testing",0
-"3337","ipt432","testpasstiles;ImageP","testing",0
+"3333","ipt432","unknown;N/A","testing",3.21
+"3334","ipt432","unknown;N/A","testing",3.21
+"3335","ipt432","testpasstiles;ImageP","testing",4.98
+"3336","ipt432","testpasstiles;ImageP","testing",4.98
+"3337","ipt432","testpasstiles;ImageP","testing",4.98
 "3338","ipt432","unknown;ImagePasstil","Successful Login",4.98
-"3339","ipt432","testpasstiles;ImageP","testing",0
-"3340","ipt432","testpasstiles;ImageP","testing",0
-"3341","ipt432","testpasstiles;ImageP","testing",0
+"3339","ipt432","testpasstiles;ImageP","testing",4.98
+"3340","ipt432","testpasstiles;ImageP","testing",4.98
+"3341","ipt432","testpasstiles;ImageP","testing",4.98
 "3342","ipt432","unknown;ImagePasstil","Successful Login",4.98
-"3343","ipt432","testpasstiles;ImageP","testing",0
-"3344","ipt432","testpasstiles;ImageP","testing",0
-"3345","ipt432","testpasstiles;ImageP","testing",0
+"3343","ipt432","testpasstiles;ImageP","testing",4.98
+"3344","ipt432","testpasstiles;ImageP","testing",4.98
+"3345","ipt432","testpasstiles;ImageP","testing",4.98
 "3346","ipt432","unknown;ImagePasstil","Successful Login",4.98
-"3347","ipt432","unknown;N/A","testing",0
-"3348","ipt432","testpasstiles;ImageP","testing",0
-"3349","ipt432","testpasstiles;ImageP","testing",0
-"3350","ipt432","testpasstiles;ImageP","testing",0
+"3347","ipt432","unknown;N/A","testing",4.98
+"3348","ipt432","testpasstiles;ImageP","testing",6.08
+"3349","ipt432","testpasstiles;ImageP","testing",6.08
+"3350","ipt432","testpasstiles;ImageP","testing",6.08
 "3351","ipt432","unknown;ImagePasstil","Successful Login",6.08
-"3352","ipt432","testpasstiles;ImageP","testing",0
-"3353","ipt432","testpasstiles;ImageP","testing",0
-"3354","ipt432","testpasstiles;ImageP","testing",0
+"3352","ipt432","testpasstiles;ImageP","testing",6.08
+"3353","ipt432","testpasstiles;ImageP","testing",6.08
+"3354","ipt432","testpasstiles;ImageP","testing",6.08
 "3355","ipt432","unknown;ImagePasstil","Failed Login",6.08
-"3356","ipt432","testpasstiles;ImageP","testing",0
-"3357","ipt432","testpasstiles;ImageP","testing",0
-"3358","ipt432","testpasstiles;ImageP","testing",0
+"3356","ipt432","testpasstiles;ImageP","testing",6.08
+"3357","ipt432","testpasstiles;ImageP","testing",6.08
+"3358","ipt432","testpasstiles;ImageP","testing",6.08
 "3359","ipt432","unknown;ImagePasstil","Successful Login",6.08
-"3360","ipt432","testpasstiles;ImageP","testing",0
-"3361","ipt432","testpasstiles;ImageP","testing",0
-"3362","ipt432","testpasstiles;ImageP","testing",0
+"3360","ipt432","testpasstiles;ImageP","testing",6.08
+"3361","ipt432","testpasstiles;ImageP","testing",6.08
+"3362","ipt432","testpasstiles;ImageP","testing",6.08
 "3363","ipt432","unknown;ImagePasstil","Successful Login",6.08
-"3364","ipt432","unknown;N/A","testing",0
-"3365","ipt433","unknown;N/A","testing",0
+"3364","ipt432","unknown;N/A","testing",6.09
+"3365","ipt433","unknown;N/A","testing",-1.03
 "3366","ipt433","testpasstiles;ImageP","Created Password",0
 "3367","ipt433","testpasstiles;ImageP","testing",0
 "3368","ipt433","testpasstiles;ImageP","testing",0
@@ -3413,102 +3413,102 @@
 "3412","ipt433","testpasstiles;ImageP","testing",0
 "3413","ipt433","unknown;ImagePasstil","Successful Login",0
 "3414","ipt433","unknown;N/A","testing",0
-"3415","ipt433","unknown;N/A","testing",0
-"3416","ipt433","unknown;N/A","testing",0
-"3417","ipt433","testpasstiles;ImageP","testing",0
-"3418","ipt433","testpasstiles;ImageP","testing",0
-"3419","ipt433","testpasstiles;ImageP","testing",0
+"3415","ipt433","unknown;N/A","testing",2.35
+"3416","ipt433","unknown;N/A","testing",2.35
+"3417","ipt433","testpasstiles;ImageP","testing",2.35
+"3418","ipt433","testpasstiles;ImageP","testing",2.35
+"3419","ipt433","testpasstiles;ImageP","testing",2.35
 "3420","ipt433","unknown;ImagePasstil","Successful Login",2.35
-"3421","ipt433","testpasstiles;ImageP","testing",0
-"3422","ipt433","testpasstiles;ImageP","testing",0
-"3423","ipt433","testpasstiles;ImageP","testing",0
+"3421","ipt433","testpasstiles;ImageP","testing",2.35
+"3422","ipt433","testpasstiles;ImageP","testing",2.35
+"3423","ipt433","testpasstiles;ImageP","testing",2.35
 "3424","ipt433","unknown;ImagePasstil","Successful Login",2.35
-"3425","ipt433","testpasstiles;ImageP","testing",0
-"3426","ipt433","testpasstiles;ImageP","testing",0
-"3427","ipt433","testpasstiles;ImageP","testing",0
+"3425","ipt433","testpasstiles;ImageP","testing",2.35
+"3426","ipt433","testpasstiles;ImageP","testing",2.35
+"3427","ipt433","testpasstiles;ImageP","testing",2.35
 "3428","ipt433","unknown;ImagePasstil","Successful Login",2.35
-"3429","ipt433","unknown;N/A","testing",0
-"3430","ipt433","unknown;N/A","testing",0
-"3431","ipt433","unknown;N/A","testing",0
-"3432","ipt433","unknown;N/A","testing",0
-"3433","ipt433","unknown;N/A","testing",0
-"3434","ipt433","unknown;N/A","testing",0
-"3435","ipt433","unknown;N/A","testing",0
-"3436","ipt433","unknown;N/A","testing",0
-"3437","ipt433","unknown;N/A","testing",0
-"3438","ipt433","testpasstiles;ImageP","testing",0
-"3439","ipt433","testpasstiles;ImageP","testing",0
-"3440","ipt433","testpasstiles;ImageP","testing",0
+"3429","ipt433","unknown;N/A","testing",2.35
+"3430","ipt433","unknown;N/A","testing",2.35
+"3431","ipt433","unknown;N/A","testing",2.35
+"3432","ipt433","unknown;N/A","testing",2.35
+"3433","ipt433","unknown;N/A","testing",2.47
+"3434","ipt433","unknown;N/A","testing",4.05
+"3435","ipt433","unknown;N/A","testing",4.05
+"3436","ipt433","unknown;N/A","testing",4.05
+"3437","ipt433","unknown;N/A","testing",4.05
+"3438","ipt433","testpasstiles;ImageP","testing",4.05
+"3439","ipt433","testpasstiles;ImageP","testing",4.06
+"3440","ipt433","testpasstiles;ImageP","testing",4.06
 "3441","ipt433","unknown;ImagePasstil","Successful Login",4.06
-"3442","ipt433","testpasstiles;ImageP","testing",0
-"3443","ipt433","testpasstiles;ImageP","testing",0
-"3444","ipt433","testpasstiles;ImageP","testing",0
+"3442","ipt433","testpasstiles;ImageP","testing",4.06
+"3443","ipt433","testpasstiles;ImageP","testing",4.06
+"3444","ipt433","testpasstiles;ImageP","testing",4.06
 "3445","ipt433","unknown;ImagePasstil","Successful Login",4.06
-"3446","ipt433","testpasstiles;ImageP","testing",0
-"3447","ipt433","testpasstiles;ImageP","testing",0
-"3448","ipt433","testpasstiles;ImageP","testing",0
+"3446","ipt433","testpasstiles;ImageP","testing",4.06
+"3447","ipt433","testpasstiles;ImageP","testing",4.06
+"3448","ipt433","testpasstiles;ImageP","testing",4.06
 "3449","ipt433","unknown;ImagePasstil","Successful Login",4.06
-"3450","ipt433","unknown;N/A","testing",0
-"3451","ipt433","unknown;N/A","testing",0
-"3452","ipt433","unknown;N/A","testing",0
-"3453","ipt433","unknown;N/A","testing",0
-"3454","ipt433","unknown;N/A","testing",0
-"3455","ipt433","unknown;N/A","testing",0
-"3456","ipt433","unknown;N/A","testing",0
-"3457","ipt433","unknown;N/A","testing",0
-"3458","ipt433","unknown;N/A","testing",0
-"3459","ipt433","unknown;N/A","testing",0
-"3460","ipt433","unknown;N/A","testing",0
-"3461","ipt433","unknown;N/A","testing",0
-"3462","ipt433","unknown;N/A","testing",0
-"3463","ipt433","testpasstiles;ImageP","testing",0
-"3464","ipt433","testpasstiles;ImageP","testing",0
-"3465","ipt433","testpasstiles;ImageP","testing",0
+"3450","ipt433","unknown;N/A","testing",4.06
+"3451","ipt433","unknown;N/A","testing",4.06
+"3452","ipt433","unknown;N/A","testing",4.44
+"3453","ipt433","unknown;N/A","testing",4.44
+"3454","ipt433","unknown;N/A","testing",4.44
+"3455","ipt433","unknown;N/A","testing",4.44
+"3456","ipt433","unknown;N/A","testing",4.44
+"3457","ipt433","unknown;N/A","testing",4.44
+"3458","ipt433","unknown;N/A","testing",4.44
+"3459","ipt433","unknown;N/A","testing",4.44
+"3460","ipt433","unknown;N/A","testing",4.44
+"3461","ipt433","unknown;N/A","testing",5.36
+"3462","ipt433","unknown;N/A","testing",6.39
+"3463","ipt433","testpasstiles;ImageP","testing",7.43
+"3464","ipt433","testpasstiles;ImageP","testing",7.43
+"3465","ipt433","testpasstiles;ImageP","testing",7.43
 "3466","ipt433","unknown;ImagePasstil","Successful Login",7.43
-"3467","ipt433","testpasstiles;ImageP","testing",0
-"3468","ipt433","testpasstiles;ImageP","testing",0
-"3469","ipt433","testpasstiles;ImageP","testing",0
+"3467","ipt433","testpasstiles;ImageP","testing",7.43
+"3468","ipt433","testpasstiles;ImageP","testing",7.43
+"3469","ipt433","testpasstiles;ImageP","testing",7.43
 "3470","ipt433","unknown;ImagePasstil","Successful Login",7.43
-"3471","ipt433","testpasstiles;ImageP","testing",0
-"3472","ipt433","testpasstiles;ImageP","testing",0
-"3473","ipt433","testpasstiles;ImageP","testing",0
+"3471","ipt433","testpasstiles;ImageP","testing",7.43
+"3472","ipt433","testpasstiles;ImageP","testing",7.43
+"3473","ipt433","testpasstiles;ImageP","testing",7.43
 "3474","ipt433","unknown;ImagePasstil","Successful Login",7.43
-"3475","ipt433","unknown;N/A","testing",0
-"3476","ipt433","unknown;N/A","testing",0
-"3477","ipt433","unknown;N/A","testing",0
-"3478","ipt433","unknown;N/A","testing",0
-"3479","ipt433","unknown;N/A","testing",0
-"3480","ipt433","unknown;N/A","testing",0
-"3481","ipt433","unknown;N/A","testing",0
-"3482","ipt433","unknown;N/A","testing",0
-"3483","ipt433","testpasstiles;ImageP","testing",0
-"3484","ipt433","testpasstiles;ImageP","testing",0
-"3485","ipt433","testpasstiles;ImageP","testing",0
+"3475","ipt433","unknown;N/A","testing",7.43
+"3476","ipt433","unknown;N/A","testing",7.43
+"3477","ipt433","unknown;N/A","testing",7.43
+"3478","ipt433","unknown;N/A","testing",7.43
+"3479","ipt433","unknown;N/A","testing",8.34
+"3480","ipt433","unknown;N/A","testing",9.24
+"3481","ipt433","unknown;N/A","testing",10.38
+"3482","ipt433","unknown;N/A","testing",10.38
+"3483","ipt433","testpasstiles;ImageP","testing",10.38
+"3484","ipt433","testpasstiles;ImageP","testing",10.38
+"3485","ipt433","testpasstiles;ImageP","testing",10.38
 "3486","ipt433","unknown;ImagePasstil","Successful Login",10.38
-"3487","ipt433","testpasstiles;ImageP","testing",0
-"3488","ipt433","testpasstiles;ImageP","testing",0
-"3489","ipt433","testpasstiles;ImageP","testing",0
+"3487","ipt433","testpasstiles;ImageP","testing",10.38
+"3488","ipt433","testpasstiles;ImageP","testing",10.38
+"3489","ipt433","testpasstiles;ImageP","testing",10.38
 "3490","ipt433","unknown;ImagePasstil","Successful Login",10.38
-"3491","ipt433","testpasstiles;ImageP","testing",0
-"3492","ipt433","testpasstiles;ImageP","testing",0
-"3493","ipt433","testpasstiles;ImageP","testing",0
+"3491","ipt433","testpasstiles;ImageP","testing",10.38
+"3492","ipt433","testpasstiles;ImageP","testing",10.38
+"3493","ipt433","testpasstiles;ImageP","testing",10.38
 "3494","ipt433","unknown;ImagePasstil","Successful Login",10.38
-"3495","ipt433","unknown;N/A","testing",0
-"3496","ipt433","unknown;N/A","testing",0
-"3497","ipt433","unknown;N/A","testing",0
-"3498","ipt433","unknown;N/A","testing",0
-"3499","ipt433","unknown;N/A","testing",0
-"3500","ipt433","unknown;N/A","testing",0
-"3501","ipt433","unknown;N/A","testing",0
-"3502","ipt433","unknown;N/A","testing",0
-"3503","ipt433","unknown;N/A","testing",0
-"3504","ipt433","unknown;N/A","testing",0
-"3505","ipt433","unknown;N/A","testing",0
-"3506","ipt433","unknown;N/A","testing",0
-"3507","ipt433","unknown;N/A","testing",0
-"3508","ipt433","unknown;N/A","testing",0
-"3509","ipt433","unknown;N/A","testing",0
-"3510","ipt434","unknown;N/A","testing",0
+"3495","ipt433","unknown;N/A","testing",10.38
+"3496","ipt433","unknown;N/A","testing",10.39
+"3497","ipt433","unknown;N/A","testing",10.39
+"3498","ipt433","unknown;N/A","testing",10.39
+"3499","ipt433","unknown;N/A","testing",10.39
+"3500","ipt433","unknown;N/A","testing",10.39
+"3501","ipt433","unknown;N/A","testing",10.39
+"3502","ipt433","unknown;N/A","testing",10.39
+"3503","ipt433","unknown;N/A","testing",11.14
+"3504","ipt433","unknown;N/A","testing",12.14
+"3505","ipt433","unknown;N/A","testing",12.14
+"3506","ipt433","unknown;N/A","testing",12.14
+"3507","ipt433","unknown;N/A","testing",12.14
+"3508","ipt433","unknown;N/A","testing",12.14
+"3509","ipt433","unknown;N/A","testing",12.42
+"3510","ipt434","unknown;N/A","testing",0.02
 "3511","ipt434","testpasstiles;ImageP","Created Password",0
 "3512","ipt434","testpasstiles;ImageP","testing",0
 "3513","ipt434","testpasstiles;ImageP","testing",0
@@ -3719,27 +3719,27 @@
 "3718","ipt434","testpasstiles;ImageP","testing",0
 "3719","ipt434","testpasstiles;ImageP","testing",0
 "3720","ipt434","unknown;ImagePasstil","Successful Login",0
-"3721","ipt434","unknown;N/A","testing",0
-"3722","ipt434","testpasstiles;ImageP","testing",0
-"3723","ipt434","testpasstiles;ImageP","testing",0
-"3724","ipt434","testpasstiles;ImageP","testing",0
+"3721","ipt434","unknown;N/A","testing",0.01
+"3722","ipt434","testpasstiles;ImageP","testing",0.01
+"3723","ipt434","testpasstiles;ImageP","testing",0.01
+"3724","ipt434","testpasstiles;ImageP","testing",0.01
 "3725","ipt434","unknown;ImagePasstil","Successful Login",0.01
-"3726","ipt434","testpasstiles;ImageP","testing",0
-"3727","ipt434","testpasstiles;ImageP","testing",0
-"3728","ipt434","testpasstiles;ImageP","testing",0
+"3726","ipt434","testpasstiles;ImageP","testing",0.01
+"3727","ipt434","testpasstiles;ImageP","testing",0.01
+"3728","ipt434","testpasstiles;ImageP","testing",0.01
 "3729","ipt434","unknown;ImagePasstil","Successful Login",0.01
-"3730","ipt434","testpasstiles;ImageP","testing",0
-"3731","ipt434","testpasstiles;ImageP","testing",0
-"3732","ipt434","testpasstiles;ImageP","testing",0
+"3730","ipt434","testpasstiles;ImageP","testing",0.01
+"3731","ipt434","testpasstiles;ImageP","testing",0.01
+"3732","ipt434","testpasstiles;ImageP","testing",0.01
 "3733","ipt434","unknown;ImagePasstil","Failed Login",0.01
-"3734","ipt434","testpasstiles;ImageP","testing",0
-"3735","ipt434","testpasstiles;ImageP","testing",0
-"3736","ipt434","testpasstiles;ImageP","testing",0
-"3737","ipt434","testpasstiles;ImageP","testing",0
+"3734","ipt434","testpasstiles;ImageP","testing",0.01
+"3735","ipt434","testpasstiles;ImageP","testing",1.6
+"3736","ipt434","testpasstiles;ImageP","testing",1.6
+"3737","ipt434","testpasstiles;ImageP","testing",1.6
 "3738","ipt434","unknown;ImagePasstil","Successful Login",1.6
-"3739","ipt434","testpasstiles;ImageP","testing",0
-"3740","ipt434","testpasstiles;ImageP","testing",0
-"3741","ipt434","testpasstiles;ImageP","testing",0
+"3739","ipt434","testpasstiles;ImageP","testing",1.6
+"3740","ipt434","testpasstiles;ImageP","testing",1.6
+"3741","ipt434","testpasstiles;ImageP","testing",1.6
 "3742","ipt434","testpasstiles;ImageP","Created Password",0
 "3743","ipt434","testpasstiles;ImageP","testing",0
 "3744","ipt434","testpasstiles;ImageP","testing",0
@@ -3763,7 +3763,7 @@
 "3762","ipt434","testpasstiles;ImageP","testing",0
 "3763","ipt434","testpasstiles;ImageP","testing",0
 "3764","ipt434","unknown;ImagePasstil","Successful Login",0
-"3765","ipt434","testpasstiles;ImageP","testing",0
+"3765","ipt434","testpasstiles;ImageP","testing",0.01
 "3766","ipt434","testpasstiles;ImageP","Created Password",0
 "3767","ipt434","testpasstiles;ImageP","testing",0
 "3768","ipt434","testpasstiles;ImageP","testing",0
@@ -3794,54 +3794,54 @@
 "3793","ipt434","unknown;N/A","testing",0
 "3794","ipt434","unknown;N/A","testing",0
 "3795","ipt434","unknown;N/A","testing",0
-"3796","ipt434","testpasstiles;ImageP","testing",0
-"3797","ipt434","testpasstiles;ImageP","testing",0
-"3798","ipt434","testpasstiles;ImageP","testing",0
+"3796","ipt434","testpasstiles;ImageP","testing",1.44
+"3797","ipt434","testpasstiles;ImageP","testing",1.44
+"3798","ipt434","testpasstiles;ImageP","testing",1.44
 "3799","ipt434","unknown;ImagePasstil","Successful Login",1.44
-"3800","ipt434","testpasstiles;ImageP","testing",0
-"3801","ipt434","testpasstiles;ImageP","testing",0
-"3802","ipt434","testpasstiles;ImageP","testing",0
+"3800","ipt434","testpasstiles;ImageP","testing",1.44
+"3801","ipt434","testpasstiles;ImageP","testing",1.44
+"3802","ipt434","testpasstiles;ImageP","testing",1.44
 "3803","ipt434","unknown;ImagePasstil","Successful Login",1.44
-"3804","ipt434","testpasstiles;ImageP","testing",0
-"3805","ipt434","testpasstiles;ImageP","testing",0
-"3806","ipt434","testpasstiles;ImageP","testing",0
+"3804","ipt434","testpasstiles;ImageP","testing",1.44
+"3805","ipt434","testpasstiles;ImageP","testing",1.44
+"3806","ipt434","testpasstiles;ImageP","testing",1.44
 "3807","ipt434","unknown;ImagePasstil","Successful Login",1.44
-"3808","ipt434","unknown;N/A","testing",0
-"3809","ipt434","unknown;N/A","testing",0
-"3810","ipt434","unknown;N/A","testing",0
-"3811","ipt434","testpasstiles;ImageP","testing",0
-"3812","ipt434","testpasstiles;ImageP","testing",0
-"3813","ipt434","testpasstiles;ImageP","testing",0
+"3808","ipt434","unknown;N/A","testing",1.44
+"3809","ipt434","unknown;N/A","testing",1.44
+"3810","ipt434","unknown;N/A","testing",1.44
+"3811","ipt434","testpasstiles;ImageP","testing",4.57
+"3812","ipt434","testpasstiles;ImageP","testing",4.57
+"3813","ipt434","testpasstiles;ImageP","testing",4.57
 "3814","ipt434","unknown;ImagePasstil","Failed Login",4.57
-"3815","ipt434","testpasstiles;ImageP","testing",0
-"3816","ipt434","testpasstiles;ImageP","testing",0
-"3817","ipt434","testpasstiles;ImageP","testing",0
-"3818","ipt434","testpasstiles;ImageP","testing",0
+"3815","ipt434","testpasstiles;ImageP","testing",4.57
+"3816","ipt434","testpasstiles;ImageP","testing",4.57
+"3817","ipt434","testpasstiles;ImageP","testing",4.57
+"3818","ipt434","testpasstiles;ImageP","testing",4.57
 "3819","ipt434","unknown;ImagePasstil","Successful Login",4.57
-"3820","ipt434","testpasstiles;ImageP","testing",0
-"3821","ipt434","testpasstiles;ImageP","testing",0
-"3822","ipt434","testpasstiles;ImageP","testing",0
+"3820","ipt434","testpasstiles;ImageP","testing",4.57
+"3821","ipt434","testpasstiles;ImageP","testing",4.57
+"3822","ipt434","testpasstiles;ImageP","testing",4.57
 "3823","ipt434","unknown;ImagePasstil","Successful Login",4.57
-"3824","ipt434","testpasstiles;ImageP","testing",0
-"3825","ipt434","testpasstiles;ImageP","testing",0
-"3826","ipt434","testpasstiles;ImageP","testing",0
+"3824","ipt434","testpasstiles;ImageP","testing",4.57
+"3825","ipt434","testpasstiles;ImageP","testing",4.57
+"3826","ipt434","testpasstiles;ImageP","testing",4.57
 "3827","ipt434","unknown;ImagePasstil","Successful Login",4.57
-"3828","ipt434","unknown;N/A","testing",0
-"3829","ipt434","unknown;N/A","testing",0
-"3830","ipt434","testpasstiles;ImageP","testing",0
-"3831","ipt434","testpasstiles;ImageP","testing",0
-"3832","ipt434","testpasstiles;ImageP","testing",0
+"3828","ipt434","unknown;N/A","testing",4.57
+"3829","ipt434","unknown;N/A","testing",4.57
+"3830","ipt434","testpasstiles;ImageP","testing",7.39
+"3831","ipt434","testpasstiles;ImageP","testing",7.39
+"3832","ipt434","testpasstiles;ImageP","testing",7.39
 "3833","ipt434","unknown;ImagePasstil","Successful Login",7.39
-"3834","ipt434","testpasstiles;ImageP","testing",0
-"3835","ipt434","testpasstiles;ImageP","testing",0
-"3836","ipt434","testpasstiles;ImageP","testing",0
+"3834","ipt434","testpasstiles;ImageP","testing",7.39
+"3835","ipt434","testpasstiles;ImageP","testing",7.39
+"3836","ipt434","testpasstiles;ImageP","testing",7.39
 "3837","ipt434","unknown;ImagePasstil","Successful Login",7.39
-"3838","ipt434","testpasstiles;ImageP","testing",0
-"3839","ipt434","testpasstiles;ImageP","testing",0
-"3840","ipt434","testpasstiles;ImageP","testing",0
+"3838","ipt434","testpasstiles;ImageP","testing",7.39
+"3839","ipt434","testpasstiles;ImageP","testing",7.39
+"3840","ipt434","testpasstiles;ImageP","testing",7.39
 "3841","ipt434","unknown;ImagePasstil","Successful Login",7.39
-"3842","ipt434","unknown;N/A","testing",0
-"3843","ipt439","unknown;N/A","testing",0
+"3842","ipt434","unknown;N/A","testing",7.4
+"3843","ipt439","unknown;N/A","testing",-1.41
 "3844","ipt439","testpasstiles;ImageP","Created Password",0
 "3845","ipt439","testpasstiles;ImageP","testing",0
 "3846","ipt439","testpasstiles;ImageP","testing",0
@@ -3850,15 +3850,15 @@
 "3849","ipt439","testpasstiles;ImageP","testing",0
 "3850","ipt439","testpasstiles;ImageP","testing",0
 "3851","ipt439","testpasstiles;ImageP","testing",0
-"3852","ipt439","testpasstiles;ImageP","testing",0
-"3853","ipt439","testpasstiles;ImageP","testing",0
-"3854","ipt439","testpasstiles;ImageP","testing",0
-"3855","ipt439","testpasstiles;ImageP","testing",0
-"3856","ipt439","testpasstiles;ImageP","testing",0
-"3857","ipt439","testpasstiles;ImageP","testing",0
-"3858","ipt439","testpasstiles;ImageP","testing",0
-"3859","ipt439","testpasstiles;ImageP","testing",0
-"3860","ipt439","testpasstiles;ImageP","testing",0
+"3852","ipt439","testpasstiles;ImageP","testing",0.01
+"3853","ipt439","testpasstiles;ImageP","testing",0.01
+"3854","ipt439","testpasstiles;ImageP","testing",0.01
+"3855","ipt439","testpasstiles;ImageP","testing",0.01
+"3856","ipt439","testpasstiles;ImageP","testing",0.01
+"3857","ipt439","testpasstiles;ImageP","testing",0.01
+"3858","ipt439","testpasstiles;ImageP","testing",0.01
+"3859","ipt439","testpasstiles;ImageP","testing",0.01
+"3860","ipt439","testpasstiles;ImageP","testing",0.01
 "3861","ipt439","unknown;ImagePasstil","Successful Login",0.01
 "3862","ipt439","testpasstiles;ImageP","Created Password",0
 "3863","ipt439","testpasstiles;ImageP","testing",0
@@ -3907,72 +3907,72 @@
 "3906","ipt439","testpasstiles;ImageP","testing",0
 "3907","ipt439","testpasstiles;ImageP","testing",0
 "3908","ipt439","testpasstiles;ImageP","testing",0
-"3909","ipt439","testpasstiles;ImageP","testing",0
-"3910","ipt439","testpasstiles;ImageP","testing",0
-"3911","ipt439","testpasstiles;ImageP","testing",0
-"3912","ipt439","testpasstiles;ImageP","testing",0
-"3913","ipt439","testpasstiles;ImageP","testing",0
-"3914","ipt439","testpasstiles;ImageP","testing",0
-"3915","ipt439","testpasstiles;ImageP","testing",0
-"3916","ipt439","testpasstiles;ImageP","testing",0
-"3917","ipt439","testpasstiles;ImageP","testing",0
-"3918","ipt439","testpasstiles;ImageP","testing",0
-"3919","ipt439","testpasstiles;ImageP","testing",0
-"3920","ipt439","testpasstiles;ImageP","testing",0
-"3921","ipt439","testpasstiles;ImageP","testing",0
+"3909","ipt439","testpasstiles;ImageP","testing",0.01
+"3910","ipt439","testpasstiles;ImageP","testing",0.01
+"3911","ipt439","testpasstiles;ImageP","testing",0.01
+"3912","ipt439","testpasstiles;ImageP","testing",0.01
+"3913","ipt439","testpasstiles;ImageP","testing",0.01
+"3914","ipt439","testpasstiles;ImageP","testing",0.01
+"3915","ipt439","testpasstiles;ImageP","testing",0.01
+"3916","ipt439","testpasstiles;ImageP","testing",0.01
+"3917","ipt439","testpasstiles;ImageP","testing",0.01
+"3918","ipt439","testpasstiles;ImageP","testing",0.01
+"3919","ipt439","testpasstiles;ImageP","testing",0.01
+"3920","ipt439","testpasstiles;ImageP","testing",0.01
+"3921","ipt439","testpasstiles;ImageP","testing",0.01
 "3922","ipt439","unknown;ImagePasstil","Failed Login",0.01
-"3923","ipt439","testpasstiles;ImageP","testing",0
-"3924","ipt439","testpasstiles;ImageP","testing",0
-"3925","ipt439","testpasstiles;ImageP","testing",0
+"3923","ipt439","testpasstiles;ImageP","testing",0.01
+"3924","ipt439","testpasstiles;ImageP","testing",0.01
+"3925","ipt439","testpasstiles;ImageP","testing",0.01
 "3926","ipt439","unknown;ImagePasstil","Successful Login",0.01
-"3927","ipt439","unknown;N/A","testing",0
-"3928","ipt439","testpasstiles;ImageP","testing",0
-"3929","ipt439","testpasstiles;ImageP","testing",0
-"3930","ipt439","testpasstiles;ImageP","testing",0
+"3927","ipt439","unknown;N/A","testing",0.02
+"3928","ipt439","testpasstiles;ImageP","testing",7.84
+"3929","ipt439","testpasstiles;ImageP","testing",7.84
+"3930","ipt439","testpasstiles;ImageP","testing",7.84
 "3931","ipt439","unknown;ImagePasstil","Successful Login",7.84
-"3932","ipt439","testpasstiles;ImageP","testing",0
-"3933","ipt439","testpasstiles;ImageP","testing",0
-"3934","ipt439","testpasstiles;ImageP","testing",0
+"3932","ipt439","testpasstiles;ImageP","testing",7.84
+"3933","ipt439","testpasstiles;ImageP","testing",7.84
+"3934","ipt439","testpasstiles;ImageP","testing",7.84
 "3935","ipt439","unknown;ImagePasstil","Successful Login",7.84
-"3936","ipt439","testpasstiles;ImageP","testing",0
-"3937","ipt439","testpasstiles;ImageP","testing",0
-"3938","ipt439","testpasstiles;ImageP","testing",0
+"3936","ipt439","testpasstiles;ImageP","testing",7.84
+"3937","ipt439","testpasstiles;ImageP","testing",7.84
+"3938","ipt439","testpasstiles;ImageP","testing",7.84
 "3939","ipt439","unknown;ImagePasstil","Successful Login",7.84
-"3940","ipt439","unknown;N/A","testing",0
-"3941","ipt439","unknown;N/A","testing",0
-"3942","ipt439","unknown;N/A","testing",0
-"3943","ipt439","unknown;N/A","testing",0
-"3944","ipt439","testpasstiles;ImageP","testing",0
-"3945","ipt439","testpasstiles;ImageP","testing",0
-"3946","ipt439","testpasstiles;ImageP","testing",0
+"3940","ipt439","unknown;N/A","testing",7.84
+"3941","ipt439","unknown;N/A","testing",7.85
+"3942","ipt439","unknown;N/A","testing",7.85
+"3943","ipt439","unknown;N/A","testing",7.85
+"3944","ipt439","testpasstiles;ImageP","testing",7.85
+"3945","ipt439","testpasstiles;ImageP","testing",7.85
+"3946","ipt439","testpasstiles;ImageP","testing",7.85
 "3947","ipt439","unknown;ImagePasstil","Successful Login",7.85
-"3948","ipt439","testpasstiles;ImageP","testing",0
-"3949","ipt439","testpasstiles;ImageP","testing",0
-"3950","ipt439","testpasstiles;ImageP","testing",0
+"3948","ipt439","testpasstiles;ImageP","testing",7.85
+"3949","ipt439","testpasstiles;ImageP","testing",7.85
+"3950","ipt439","testpasstiles;ImageP","testing",7.85
 "3951","ipt439","unknown;ImagePasstil","Successful Login",7.85
-"3952","ipt439","testpasstiles;ImageP","testing",0
-"3953","ipt439","testpasstiles;ImageP","testing",0
-"3954","ipt439","testpasstiles;ImageP","testing",0
+"3952","ipt439","testpasstiles;ImageP","testing",7.85
+"3953","ipt439","testpasstiles;ImageP","testing",7.85
+"3954","ipt439","testpasstiles;ImageP","testing",7.85
 "3955","ipt439","unknown;ImagePasstil","Successful Login",7.85
-"3956","ipt439","unknown;N/A","testing",0
-"3957","ipt439","unknown;N/A","testing",0
-"3958","ipt439","testpasstiles;ImageP","testing",0
-"3959","ipt439","testpasstiles;ImageP","testing",0
-"3960","ipt439","testpasstiles;ImageP","testing",0
+"3956","ipt439","unknown;N/A","testing",7.85
+"3957","ipt439","unknown;N/A","testing",7.86
+"3958","ipt439","testpasstiles;ImageP","testing",7.86
+"3959","ipt439","testpasstiles;ImageP","testing",7.86
+"3960","ipt439","testpasstiles;ImageP","testing",7.86
 "3961","ipt439","unknown;ImagePasstil","Successful Login",7.86
-"3962","ipt439","testpasstiles;ImageP","testing",0
-"3963","ipt439","testpasstiles;ImageP","testing",0
-"3964","ipt439","testpasstiles;ImageP","testing",0
+"3962","ipt439","testpasstiles;ImageP","testing",7.86
+"3963","ipt439","testpasstiles;ImageP","testing",7.86
+"3964","ipt439","testpasstiles;ImageP","testing",7.86
 "3965","ipt439","unknown;ImagePasstil","Successful Login",7.86
-"3966","ipt439","testpasstiles;ImageP","testing",0
-"3967","ipt439","testpasstiles;ImageP","testing",0
-"3968","ipt439","testpasstiles;ImageP","testing",0
+"3966","ipt439","testpasstiles;ImageP","testing",7.86
+"3967","ipt439","testpasstiles;ImageP","testing",7.86
+"3968","ipt439","testpasstiles;ImageP","testing",7.86
 "3969","ipt439","unknown;ImagePasstil","Successful Login",7.86
-"3970","ipt439","unknown;N/A","testing",0
-"3971","ipt439","unknown;N/A","testing",0
-"3972","ipt439","unknown;N/A","testing",0
-"3973","ipt439","unknown;N/A","testing",0
-"3974","ipt441","unknown;N/A","testing",0
+"3970","ipt439","unknown;N/A","testing",7.86
+"3971","ipt439","unknown;N/A","testing",7.87
+"3972","ipt439","unknown;N/A","testing",7.88
+"3973","ipt439","unknown;N/A","testing",7.88
+"3974","ipt441","unknown;N/A","testing",2.07
 "3975","ipt441","testpasstiles;ImageP","Created Password",0
 "3976","ipt441","testpasstiles;ImageP","testing",0
 "3977","ipt441","testpasstiles;ImageP","testing",0
@@ -3990,11 +3990,11 @@
 "3989","ipt441","testpasstiles;ImageP","testing",0
 "3990","ipt441","testpasstiles;ImageP","testing",0
 "3991","ipt441","testpasstiles;ImageP","testing",0
-"3992","ipt441","testpasstiles;ImageP","testing",0
-"3993","ipt441","testpasstiles;ImageP","testing",0
-"3994","ipt441","testpasstiles;ImageP","testing",0
-"3995","ipt441","testpasstiles;ImageP","testing",0
-"3996","ipt441","testpasstiles;ImageP","testing",0
+"3992","ipt441","testpasstiles;ImageP","testing",0.01
+"3993","ipt441","testpasstiles;ImageP","testing",0.01
+"3994","ipt441","testpasstiles;ImageP","testing",0.01
+"3995","ipt441","testpasstiles;ImageP","testing",0.01
+"3996","ipt441","testpasstiles;ImageP","testing",0.01
 "3997","ipt441","unknown;ImagePasstil","Successful Login",0.01
 "3998","ipt441","testpasstiles;ImageP","Created Password",0
 "3999","ipt441","testpasstiles;ImageP","testing",0
@@ -4050,22 +4050,22 @@
 "4049","ipt441","testpasstiles;ImageP","testing",0
 "4050","ipt441","testpasstiles;ImageP","testing",0
 "4051","ipt441","unknown;ImagePasstil","Successful Login",0
-"4052","ipt441","unknown;N/A","testing",0
-"4053","ipt441","testpasstiles;ImageP","testing",0
-"4054","ipt441","testpasstiles;ImageP","testing",0
-"4055","ipt441","testpasstiles;ImageP","testing",0
+"4052","ipt441","unknown;N/A","testing",0.01
+"4053","ipt441","testpasstiles;ImageP","testing",0.01
+"4054","ipt441","testpasstiles;ImageP","testing",0.01
+"4055","ipt441","testpasstiles;ImageP","testing",0.01
 "4056","ipt441","unknown;ImagePasstil","Successful Login",0.01
-"4057","ipt441","testpasstiles;ImageP","testing",0
-"4058","ipt441","testpasstiles;ImageP","testing",0
-"4059","ipt441","testpasstiles;ImageP","testing",0
+"4057","ipt441","testpasstiles;ImageP","testing",2.88
+"4058","ipt441","testpasstiles;ImageP","testing",2.88
+"4059","ipt441","testpasstiles;ImageP","testing",2.88
 "4060","ipt441","unknown;ImagePasstil","Failed Login",2.88
-"4061","ipt441","testpasstiles;ImageP","testing",0
-"4062","ipt441","testpasstiles;ImageP","testing",0
-"4063","ipt441","testpasstiles;ImageP","testing",0
+"4061","ipt441","testpasstiles;ImageP","testing",2.88
+"4062","ipt441","testpasstiles;ImageP","testing",2.88
+"4063","ipt441","testpasstiles;ImageP","testing",2.88
 "4064","ipt441","unknown;ImagePasstil","Failed Login",2.88
-"4065","ipt441","testpasstiles;ImageP","testing",0
-"4066","ipt441","testpasstiles;ImageP","testing",0
-"4067","ipt441","testpasstiles;ImageP","testing",0
+"4065","ipt441","testpasstiles;ImageP","testing",2.88
+"4066","ipt441","testpasstiles;ImageP","testing",2.88
+"4067","ipt441","testpasstiles;ImageP","testing",2.88
 "4068","ipt441","unknown;ImagePasstil","Failed Login",2.88
 "4069","ipt441","testpasstiles;ImageP","Created Password",0
 "4070","ipt441","testpasstiles;ImageP","testing",0
@@ -4144,64 +4144,64 @@
 "4143","ipt441","testpasstiles;ImageP","testing",0
 "4144","ipt441","testpasstiles;ImageP","testing",0
 "4145","ipt441","unknown;ImagePasstil","Successful Login",0
-"4146","ipt441","unknown;N/A","testing",0
-"4147","ipt441","unknown;N/A","testing",0
-"4148","ipt441","unknown;N/A","testing",0
-"4149","ipt441","testpasstiles;ImageP","testing",0
-"4150","ipt441","testpasstiles;ImageP","testing",0
-"4151","ipt441","testpasstiles;ImageP","testing",0
+"4146","ipt441","unknown;N/A","testing",0.01
+"4147","ipt441","unknown;N/A","testing",0.01
+"4148","ipt441","unknown;N/A","testing",0.01
+"4149","ipt441","testpasstiles;ImageP","testing",1.63
+"4150","ipt441","testpasstiles;ImageP","testing",1.63
+"4151","ipt441","testpasstiles;ImageP","testing",1.63
 "4152","ipt441","unknown;ImagePasstil","Successful Login",1.63
-"4153","ipt441","testpasstiles;ImageP","testing",0
-"4154","ipt441","testpasstiles;ImageP","testing",0
-"4155","ipt441","testpasstiles;ImageP","testing",0
+"4153","ipt441","testpasstiles;ImageP","testing",1.63
+"4154","ipt441","testpasstiles;ImageP","testing",1.63
+"4155","ipt441","testpasstiles;ImageP","testing",1.63
 "4156","ipt441","unknown;ImagePasstil","Failed Login",1.63
-"4157","ipt441","testpasstiles;ImageP","testing",0
-"4158","ipt441","testpasstiles;ImageP","testing",0
-"4159","ipt441","testpasstiles;ImageP","testing",0
+"4157","ipt441","testpasstiles;ImageP","testing",1.64
+"4158","ipt441","testpasstiles;ImageP","testing",1.64
+"4159","ipt441","testpasstiles;ImageP","testing",1.64
 "4160","ipt441","unknown;ImagePasstil","Successful Login",1.64
-"4161","ipt441","testpasstiles;ImageP","testing",0
-"4162","ipt441","testpasstiles;ImageP","testing",0
-"4163","ipt441","testpasstiles;ImageP","testing",0
+"4161","ipt441","testpasstiles;ImageP","testing",1.64
+"4162","ipt441","testpasstiles;ImageP","testing",1.64
+"4163","ipt441","testpasstiles;ImageP","testing",1.64
 "4164","ipt441","unknown;ImagePasstil","Failed Login",1.64
-"4165","ipt441","testpasstiles;ImageP","testing",0
-"4166","ipt441","testpasstiles;ImageP","testing",0
-"4167","ipt441","testpasstiles;ImageP","testing",0
+"4165","ipt441","testpasstiles;ImageP","testing",1.64
+"4166","ipt441","testpasstiles;ImageP","testing",1.64
+"4167","ipt441","testpasstiles;ImageP","testing",1.64
 "4168","ipt441","unknown;ImagePasstil","Failed Login",1.64
-"4169","ipt441","testpasstiles;ImageP","testing",0
-"4170","ipt441","testpasstiles;ImageP","testing",0
-"4171","ipt441","testpasstiles;ImageP","testing",0
+"4169","ipt441","testpasstiles;ImageP","testing",1.64
+"4170","ipt441","testpasstiles;ImageP","testing",1.64
+"4171","ipt441","testpasstiles;ImageP","testing",1.64
 "4172","ipt441","unknown;ImagePasstil","Successful Login",1.64
-"4173","ipt441","unknown;N/A","testing",0
-"4174","ipt441","testpasstiles;ImageP","testing",0
-"4175","ipt441","testpasstiles;ImageP","testing",0
-"4176","ipt441","testpasstiles;ImageP","testing",0
-"4177","ipt441","testpasstiles;ImageP","testing",0
+"4173","ipt441","unknown;N/A","testing",1.64
+"4174","ipt441","testpasstiles;ImageP","testing",3.93
+"4175","ipt441","testpasstiles;ImageP","testing",3.93
+"4176","ipt441","testpasstiles;ImageP","testing",3.93
+"4177","ipt441","testpasstiles;ImageP","testing",3.93
 "4178","ipt441","unknown;ImagePasstil","Successful Login",3.93
-"4179","ipt441","testpasstiles;ImageP","testing",0
-"4180","ipt441","testpasstiles;ImageP","testing",0
-"4181","ipt441","testpasstiles;ImageP","testing",0
+"4179","ipt441","testpasstiles;ImageP","testing",3.94
+"4180","ipt441","testpasstiles;ImageP","testing",3.94
+"4181","ipt441","testpasstiles;ImageP","testing",3.94
 "4182","ipt441","unknown;ImagePasstil","Successful Login",3.94
-"4183","ipt441","testpasstiles;ImageP","testing",0
-"4184","ipt441","testpasstiles;ImageP","testing",0
-"4185","ipt441","testpasstiles;ImageP","testing",0
+"4183","ipt441","testpasstiles;ImageP","testing",3.94
+"4184","ipt441","testpasstiles;ImageP","testing",3.94
+"4185","ipt441","testpasstiles;ImageP","testing",3.94
 "4186","ipt441","unknown;ImagePasstil","Successful Login",3.94
-"4187","ipt441","unknown;N/A","testing",0
-"4188","ipt441","unknown;N/A","testing",0
-"4189","ipt441","testpasstiles;ImageP","testing",0
-"4190","ipt441","testpasstiles;ImageP","testing",0
-"4191","ipt441","testpasstiles;ImageP","testing",0
+"4187","ipt441","unknown;N/A","testing",3.94
+"4188","ipt441","unknown;N/A","testing",3.94
+"4189","ipt441","testpasstiles;ImageP","testing",4.78
+"4190","ipt441","testpasstiles;ImageP","testing",4.78
+"4191","ipt441","testpasstiles;ImageP","testing",4.78
 "4192","ipt441","unknown;ImagePasstil","Successful Login",4.78
-"4193","ipt441","testpasstiles;ImageP","testing",0
-"4194","ipt441","testpasstiles;ImageP","testing",0
-"4195","ipt441","testpasstiles;ImageP","testing",0
+"4193","ipt441","testpasstiles;ImageP","testing",4.79
+"4194","ipt441","testpasstiles;ImageP","testing",4.79
+"4195","ipt441","testpasstiles;ImageP","testing",4.79
 "4196","ipt441","unknown;ImagePasstil","Successful Login",4.79
-"4197","ipt441","testpasstiles;ImageP","testing",0
-"4198","ipt441","testpasstiles;ImageP","testing",0
-"4199","ipt441","testpasstiles;ImageP","testing",0
+"4197","ipt441","testpasstiles;ImageP","testing",4.79
+"4198","ipt441","testpasstiles;ImageP","testing",4.79
+"4199","ipt441","testpasstiles;ImageP","testing",4.79
 "4200","ipt441","unknown;ImagePasstil","Successful Login",4.79
-"4201","ipt441","unknown;N/A","testing",0
-"4202","ipt441","unknown;N/A","testing",0
-"4203","ipt443","unknown;N/A","testing",0
+"4201","ipt441","unknown;N/A","testing",4.79
+"4202","ipt441","unknown;N/A","testing",4.8
+"4203","ipt443","unknown;N/A","testing",-2.91
 "4204","ipt443","testpasstiles;ImageP","Created Password",0
 "4205","ipt443","testpasstiles;ImageP","testing",0
 "4206","ipt443","testpasstiles;ImageP","testing",0
@@ -4248,72 +4248,72 @@
 "4247","ipt443","testpasstiles;ImageP","testing",0
 "4248","ipt443","testpasstiles;ImageP","testing",0
 "4249","ipt443","unknown;ImagePasstil","Successful Login",0
-"4250","ipt443","unknown;N/A","testing",0
-"4251","ipt443","testpasstiles;ImageP","testing",0
-"4252","ipt443","testpasstiles;ImageP","testing",0
-"4253","ipt443","testpasstiles;ImageP","testing",0
+"4250","ipt443","unknown;N/A","testing",0.01
+"4251","ipt443","testpasstiles;ImageP","testing",1.04
+"4252","ipt443","testpasstiles;ImageP","testing",1.04
+"4253","ipt443","testpasstiles;ImageP","testing",1.04
 "4254","ipt443","unknown;ImagePasstil","Successful Login",1.04
-"4255","ipt443","testpasstiles;ImageP","testing",0
-"4256","ipt443","testpasstiles;ImageP","testing",0
-"4257","ipt443","testpasstiles;ImageP","testing",0
+"4255","ipt443","testpasstiles;ImageP","testing",1.04
+"4256","ipt443","testpasstiles;ImageP","testing",1.04
+"4257","ipt443","testpasstiles;ImageP","testing",1.04
 "4258","ipt443","unknown;ImagePasstil","Successful Login",1.04
-"4259","ipt443","testpasstiles;ImageP","testing",0
-"4260","ipt443","testpasstiles;ImageP","testing",0
-"4261","ipt443","testpasstiles;ImageP","testing",0
+"4259","ipt443","testpasstiles;ImageP","testing",1.04
+"4260","ipt443","testpasstiles;ImageP","testing",1.04
+"4261","ipt443","testpasstiles;ImageP","testing",1.04
 "4262","ipt443","unknown;ImagePasstil","Successful Login",1.04
-"4263","ipt443","unknown;N/A","testing",0
-"4264","ipt443","unknown;N/A","testing",0
-"4265","ipt443","unknown;N/A","testing",0
-"4266","ipt443","testpasstiles;ImageP","testing",0
-"4267","ipt443","testpasstiles;ImageP","testing",0
-"4268","ipt443","testpasstiles;ImageP","testing",0
+"4263","ipt443","unknown;N/A","testing",1.04
+"4264","ipt443","unknown;N/A","testing",1.04
+"4265","ipt443","unknown;N/A","testing",1.04
+"4266","ipt443","testpasstiles;ImageP","testing",3.29
+"4267","ipt443","testpasstiles;ImageP","testing",3.29
+"4268","ipt443","testpasstiles;ImageP","testing",3.29
 "4269","ipt443","unknown;ImagePasstil","Successful Login",3.29
-"4270","ipt443","testpasstiles;ImageP","testing",0
-"4271","ipt443","testpasstiles;ImageP","testing",0
-"4272","ipt443","testpasstiles;ImageP","testing",0
+"4270","ipt443","testpasstiles;ImageP","testing",3.29
+"4271","ipt443","testpasstiles;ImageP","testing",3.29
+"4272","ipt443","testpasstiles;ImageP","testing",3.29
 "4273","ipt443","unknown;ImagePasstil","Successful Login",3.29
-"4274","ipt443","testpasstiles;ImageP","testing",0
-"4275","ipt443","testpasstiles;ImageP","testing",0
-"4276","ipt443","testpasstiles;ImageP","testing",0
+"4274","ipt443","testpasstiles;ImageP","testing",3.29
+"4275","ipt443","testpasstiles;ImageP","testing",3.29
+"4276","ipt443","testpasstiles;ImageP","testing",3.29
 "4277","ipt443","unknown;ImagePasstil","Successful Login",3.29
-"4278","ipt443","unknown;N/A","testing",0
-"4279","ipt443","unknown;N/A","testing",0
-"4280","ipt443","unknown;N/A","testing",0
-"4281","ipt443","unknown;N/A","testing",0
-"4282","ipt443","testpasstiles;ImageP","testing",0
-"4283","ipt443","testpasstiles;ImageP","testing",0
-"4284","ipt443","testpasstiles;ImageP","testing",0
+"4278","ipt443","unknown;N/A","testing",3.29
+"4279","ipt443","unknown;N/A","testing",3.29
+"4280","ipt443","unknown;N/A","testing",3.29
+"4281","ipt443","unknown;N/A","testing",3.29
+"4282","ipt443","testpasstiles;ImageP","testing",4.33
+"4283","ipt443","testpasstiles;ImageP","testing",4.33
+"4284","ipt443","testpasstiles;ImageP","testing",4.33
 "4285","ipt443","unknown;ImagePasstil","Successful Login",4.33
-"4286","ipt443","testpasstiles;ImageP","testing",0
-"4287","ipt443","testpasstiles;ImageP","testing",0
-"4288","ipt443","testpasstiles;ImageP","testing",0
+"4286","ipt443","testpasstiles;ImageP","testing",6.59
+"4287","ipt443","testpasstiles;ImageP","testing",6.6
+"4288","ipt443","testpasstiles;ImageP","testing",6.6
 "4289","ipt443","unknown;ImagePasstil","Successful Login",6.6
-"4290","ipt443","testpasstiles;ImageP","testing",0
-"4291","ipt443","testpasstiles;ImageP","testing",0
-"4292","ipt443","testpasstiles;ImageP","testing",0
+"4290","ipt443","testpasstiles;ImageP","testing",6.6
+"4291","ipt443","testpasstiles;ImageP","testing",6.6
+"4292","ipt443","testpasstiles;ImageP","testing",6.6
 "4293","ipt443","unknown;ImagePasstil","Successful Login",6.6
-"4294","ipt443","testpasstiles;ImageP","testing",0
-"4295","ipt443","testpasstiles;ImageP","testing",0
-"4296","ipt443","testpasstiles;ImageP","testing",0
+"4294","ipt443","testpasstiles;ImageP","testing",6.6
+"4295","ipt443","testpasstiles;ImageP","testing",6.6
+"4296","ipt443","testpasstiles;ImageP","testing",6.6
 "4297","ipt443","unknown;ImagePasstil","Successful Login",6.6
-"4298","ipt443","unknown;N/A","testing",0
-"4299","ipt443","testpasstiles;ImageP","testing",0
-"4300","ipt443","testpasstiles;ImageP","testing",0
-"4301","ipt443","testpasstiles;ImageP","testing",0
+"4298","ipt443","unknown;N/A","testing",6.6
+"4299","ipt443","testpasstiles;ImageP","testing",7.04
+"4300","ipt443","testpasstiles;ImageP","testing",7.04
+"4301","ipt443","testpasstiles;ImageP","testing",7.04
 "4302","ipt443","unknown;ImagePasstil","Successful Login",7.04
-"4303","ipt443","testpasstiles;ImageP","testing",0
-"4304","ipt443","testpasstiles;ImageP","testing",0
-"4305","ipt443","testpasstiles;ImageP","testing",0
+"4303","ipt443","testpasstiles;ImageP","testing",7.04
+"4304","ipt443","testpasstiles;ImageP","testing",7.04
+"4305","ipt443","testpasstiles;ImageP","testing",7.04
 "4306","ipt443","unknown;ImagePasstil","Successful Login",7.04
-"4307","ipt443","testpasstiles;ImageP","testing",0
-"4308","ipt443","testpasstiles;ImageP","testing",0
-"4309","ipt443","testpasstiles;ImageP","testing",0
+"4307","ipt443","testpasstiles;ImageP","testing",7.04
+"4308","ipt443","testpasstiles;ImageP","testing",7.04
+"4309","ipt443","testpasstiles;ImageP","testing",7.04
 "4310","ipt443","unknown;ImagePasstil","Successful Login",7.04
-"4311","ipt443","unknown;N/A","testing",0
-"4312","ipt443","unknown;N/A","testing",0
-"4313","ipt443","unknown;N/A","testing",0
-"4314","ipt443","unknown;N/A","testing",0
-"4315","ipt444","unknown;N/A","testing",0
+"4311","ipt443","unknown;N/A","testing",7.04
+"4312","ipt443","unknown;N/A","testing",7.04
+"4313","ipt443","unknown;N/A","testing",7.04
+"4314","ipt443","unknown;N/A","testing",7.05
+"4315","ipt444","unknown;N/A","testing",0.01
 "4316","ipt444","testpasstiles;ImageP","Created Password",0
 "4317","ipt444","testpasstiles;ImageP","testing",0
 "4318","ipt444","testpasstiles;ImageP","testing",0
@@ -4362,64 +4362,64 @@
 "4361","ipt444","testpasstiles;ImageP","testing",0
 "4362","ipt444","testpasstiles;ImageP","testing",0
 "4363","ipt444","unknown;ImagePasstil","Successful Login",0
-"4364","ipt444","unknown;N/A","testing",0
-"4365","ipt444","testpasstiles;ImageP","testing",0
-"4366","ipt444","testpasstiles;ImageP","testing",0
-"4367","ipt444","testpasstiles;ImageP","testing",0
+"4364","ipt444","unknown;N/A","testing",0.01
+"4365","ipt444","testpasstiles;ImageP","testing",1.03
+"4366","ipt444","testpasstiles;ImageP","testing",1.03
+"4367","ipt444","testpasstiles;ImageP","testing",1.03
 "4368","ipt444","unknown;ImagePasstil","Failed Login",1.03
-"4369","ipt444","testpasstiles;ImageP","testing",0
-"4370","ipt444","testpasstiles;ImageP","testing",0
-"4371","ipt444","testpasstiles;ImageP","testing",0
+"4369","ipt444","testpasstiles;ImageP","testing",1.03
+"4370","ipt444","testpasstiles;ImageP","testing",1.03
+"4371","ipt444","testpasstiles;ImageP","testing",1.03
 "4372","ipt444","unknown;ImagePasstil","Successful Login",1.03
-"4373","ipt444","testpasstiles;ImageP","testing",0
-"4374","ipt444","testpasstiles;ImageP","testing",0
-"4375","ipt444","testpasstiles;ImageP","testing",0
+"4373","ipt444","testpasstiles;ImageP","testing",1.03
+"4374","ipt444","testpasstiles;ImageP","testing",1.03
+"4375","ipt444","testpasstiles;ImageP","testing",1.03
 "4376","ipt444","unknown;ImagePasstil","Successful Login",1.03
-"4377","ipt444","testpasstiles;ImageP","testing",0
-"4378","ipt444","testpasstiles;ImageP","testing",0
-"4379","ipt444","testpasstiles;ImageP","testing",0
+"4377","ipt444","testpasstiles;ImageP","testing",1.03
+"4378","ipt444","testpasstiles;ImageP","testing",1.03
+"4379","ipt444","testpasstiles;ImageP","testing",1.03
 "4380","ipt444","unknown;ImagePasstil","Successful Login",1.03
-"4381","ipt444","unknown;N/A","testing",0
-"4382","ipt444","testpasstiles;ImageP","testing",0
-"4383","ipt444","testpasstiles;ImageP","testing",0
-"4384","ipt444","testpasstiles;ImageP","testing",0
+"4381","ipt444","unknown;N/A","testing",1.03
+"4382","ipt444","testpasstiles;ImageP","testing",3.07
+"4383","ipt444","testpasstiles;ImageP","testing",3.07
+"4384","ipt444","testpasstiles;ImageP","testing",3.07
 "4385","ipt444","unknown;ImagePasstil","Successful Login",3.07
-"4386","ipt444","testpasstiles;ImageP","testing",0
-"4387","ipt444","testpasstiles;ImageP","testing",0
-"4388","ipt444","testpasstiles;ImageP","testing",0
+"4386","ipt444","testpasstiles;ImageP","testing",3.07
+"4387","ipt444","testpasstiles;ImageP","testing",3.07
+"4388","ipt444","testpasstiles;ImageP","testing",3.07
 "4389","ipt444","unknown;ImagePasstil","Successful Login",3.07
-"4390","ipt444","testpasstiles;ImageP","testing",0
-"4391","ipt444","testpasstiles;ImageP","testing",0
-"4392","ipt444","testpasstiles;ImageP","testing",0
+"4390","ipt444","testpasstiles;ImageP","testing",3.07
+"4391","ipt444","testpasstiles;ImageP","testing",3.07
+"4392","ipt444","testpasstiles;ImageP","testing",3.07
 "4393","ipt444","unknown;ImagePasstil","Successful Login",3.07
-"4394","ipt444","unknown;N/A","testing",0
-"4395","ipt444","testpasstiles;ImageP","testing",0
-"4396","ipt444","testpasstiles;ImageP","testing",0
-"4397","ipt444","testpasstiles;ImageP","testing",0
+"4394","ipt444","unknown;N/A","testing",3.07
+"4395","ipt444","testpasstiles;ImageP","testing",6.01
+"4396","ipt444","testpasstiles;ImageP","testing",6.01
+"4397","ipt444","testpasstiles;ImageP","testing",6.01
 "4398","ipt444","unknown;ImagePasstil","Successful Login",6.01
-"4399","ipt444","testpasstiles;ImageP","testing",0
-"4400","ipt444","testpasstiles;ImageP","testing",0
-"4401","ipt444","testpasstiles;ImageP","testing",0
+"4399","ipt444","testpasstiles;ImageP","testing",6.01
+"4400","ipt444","testpasstiles;ImageP","testing",6.01
+"4401","ipt444","testpasstiles;ImageP","testing",6.01
 "4402","ipt444","unknown;ImagePasstil","Successful Login",6.01
-"4403","ipt444","testpasstiles;ImageP","testing",0
-"4404","ipt444","testpasstiles;ImageP","testing",0
-"4405","ipt444","testpasstiles;ImageP","testing",0
+"4403","ipt444","testpasstiles;ImageP","testing",6.01
+"4404","ipt444","testpasstiles;ImageP","testing",6.01
+"4405","ipt444","testpasstiles;ImageP","testing",6.01
 "4406","ipt444","unknown;ImagePasstil","Successful Login",6.01
-"4407","ipt444","unknown;N/A","testing",0
-"4408","ipt444","testpasstiles;ImageP","testing",0
-"4409","ipt444","testpasstiles;ImageP","testing",0
-"4410","ipt444","testpasstiles;ImageP","testing",0
+"4407","ipt444","unknown;N/A","testing",6.01
+"4408","ipt444","testpasstiles;ImageP","testing",7.03
+"4409","ipt444","testpasstiles;ImageP","testing",7.03
+"4410","ipt444","testpasstiles;ImageP","testing",7.03
 "4411","ipt444","unknown;ImagePasstil","Successful Login",7.03
-"4412","ipt444","testpasstiles;ImageP","testing",0
-"4413","ipt444","testpasstiles;ImageP","testing",0
-"4414","ipt444","testpasstiles;ImageP","testing",0
+"4412","ipt444","testpasstiles;ImageP","testing",7.03
+"4413","ipt444","testpasstiles;ImageP","testing",7.03
+"4414","ipt444","testpasstiles;ImageP","testing",7.03
 "4415","ipt444","unknown;ImagePasstil","Successful Login",7.03
-"4416","ipt444","testpasstiles;ImageP","testing",0
-"4417","ipt444","testpasstiles;ImageP","testing",0
-"4418","ipt444","testpasstiles;ImageP","testing",0
+"4416","ipt444","testpasstiles;ImageP","testing",7.03
+"4417","ipt444","testpasstiles;ImageP","testing",7.03
+"4418","ipt444","testpasstiles;ImageP","testing",7.03
 "4419","ipt444","unknown;ImagePasstil","Successful Login",7.03
-"4420","ipt444","unknown;N/A","testing",0
-"4421","ipt446","unknown;N/A","testing",0
+"4420","ipt444","unknown;N/A","testing",7.03
+"4421","ipt446","unknown;N/A","testing",0.01
 "4422","ipt446","testpasstiles;ImageP","Created Password",0
 "4423","ipt446","testpasstiles;ImageP","testing",0
 "4424","ipt446","testpasstiles;ImageP","testing",0
@@ -4519,7 +4519,7 @@
 "4518","ipt446","testpasstiles;ImageP","testing",0
 "4519","ipt446","testpasstiles;ImageP","testing",0
 "4520","ipt446","testpasstiles;ImageP","testing",0
-"4521","ipt446","testpasstiles;ImageP","testing",0
+"4521","ipt446","testpasstiles;ImageP","testing",0.55
 "4522","ipt446","testpasstiles;ImageP","Created Password",0
 "4523","ipt446","testpasstiles;ImageP","testing",0
 "4524","ipt446","testpasstiles;ImageP","testing",0
@@ -4559,7 +4559,7 @@
 "4558","ipt446","testpasstiles;ImageP","testing",0
 "4559","ipt446","testpasstiles;ImageP","testing",0
 "4560","ipt446","unknown;ImagePasstil","Successful Login",0
-"4561","ipt446","testpasstiles;ImageP","testing",0
+"4561","ipt446","testpasstiles;ImageP","testing",0.01
 "4562","ipt446","testpasstiles;ImageP","Created Password",0
 "4563","ipt446","testpasstiles;ImageP","testing",0
 "4564","ipt446","testpasstiles;ImageP","testing",0
@@ -4606,83 +4606,83 @@
 "4605","ipt446","testpasstiles;ImageP","testing",0
 "4606","ipt446","testpasstiles;ImageP","testing",0
 "4607","ipt446","unknown;ImagePasstil","Successful Login",0
-"4608","ipt446","testpasstiles;ImageP","testing",0
-"4609","ipt446","testpasstiles;ImageP","testing",0
-"4610","ipt446","testpasstiles;ImageP","testing",0
+"4608","ipt446","testpasstiles;ImageP","testing",0.01
+"4609","ipt446","testpasstiles;ImageP","testing",0.01
+"4610","ipt446","testpasstiles;ImageP","testing",0.01
 "4611","ipt446","unknown;ImagePasstil","Successful Login",0.01
-"4612","ipt446","unknown;N/A","testing",0
-"4613","ipt446","testpasstiles;ImageP","testing",0
-"4614","ipt446","testpasstiles;ImageP","testing",0
-"4615","ipt446","testpasstiles;ImageP","testing",0
+"4612","ipt446","unknown;N/A","testing",0.02
+"4613","ipt446","testpasstiles;ImageP","testing",1.49
+"4614","ipt446","testpasstiles;ImageP","testing",1.5
+"4615","ipt446","testpasstiles;ImageP","testing",1.5
 "4616","ipt446","unknown;ImagePasstil","Successful Login",1.5
-"4617","ipt446","testpasstiles;ImageP","testing",0
-"4618","ipt446","testpasstiles;ImageP","testing",0
-"4619","ipt446","testpasstiles;ImageP","testing",0
+"4617","ipt446","testpasstiles;ImageP","testing",1.5
+"4618","ipt446","testpasstiles;ImageP","testing",1.5
+"4619","ipt446","testpasstiles;ImageP","testing",1.5
 "4620","ipt446","unknown;ImagePasstil","Successful Login",1.5
-"4621","ipt446","testpasstiles;ImageP","testing",0
-"4622","ipt446","testpasstiles;ImageP","testing",0
-"4623","ipt446","testpasstiles;ImageP","testing",0
+"4621","ipt446","testpasstiles;ImageP","testing",1.51
+"4622","ipt446","testpasstiles;ImageP","testing",1.51
+"4623","ipt446","testpasstiles;ImageP","testing",1.51
 "4624","ipt446","unknown;ImagePasstil","Successful Login",1.51
-"4625","ipt446","unknown;N/A","testing",0
-"4626","ipt446","unknown;N/A","testing",0
-"4627","ipt446","unknown;N/A","testing",0
-"4628","ipt446","unknown;N/A","testing",0
-"4629","ipt446","unknown;N/A","testing",0
-"4630","ipt446","testpasstiles;ImageP","testing",0
-"4631","ipt446","testpasstiles;ImageP","testing",0
-"4632","ipt446","testpasstiles;ImageP","testing",0
+"4625","ipt446","unknown;N/A","testing",1.51
+"4626","ipt446","unknown;N/A","testing",1.51
+"4627","ipt446","unknown;N/A","testing",1.51
+"4628","ipt446","unknown;N/A","testing",1.51
+"4629","ipt446","unknown;N/A","testing",1.51
+"4630","ipt446","testpasstiles;ImageP","testing",3.93
+"4631","ipt446","testpasstiles;ImageP","testing",3.93
+"4632","ipt446","testpasstiles;ImageP","testing",3.93
 "4633","ipt446","unknown;ImagePasstil","Successful Login",3.93
-"4634","ipt446","testpasstiles;ImageP","testing",0
-"4635","ipt446","testpasstiles;ImageP","testing",0
-"4636","ipt446","testpasstiles;ImageP","testing",0
+"4634","ipt446","testpasstiles;ImageP","testing",3.93
+"4635","ipt446","testpasstiles;ImageP","testing",3.93
+"4636","ipt446","testpasstiles;ImageP","testing",3.93
 "4637","ipt446","unknown;ImagePasstil","Successful Login",3.93
-"4638","ipt446","testpasstiles;ImageP","testing",0
-"4639","ipt446","testpasstiles;ImageP","testing",0
-"4640","ipt446","testpasstiles;ImageP","testing",0
+"4638","ipt446","testpasstiles;ImageP","testing",3.94
+"4639","ipt446","testpasstiles;ImageP","testing",3.94
+"4640","ipt446","testpasstiles;ImageP","testing",3.94
 "4641","ipt446","unknown;ImagePasstil","Successful Login",3.94
-"4642","ipt446","unknown;N/A","testing",0
-"4643","ipt446","unknown;N/A","testing",0
-"4644","ipt446","unknown;N/A","testing",0
-"4645","ipt446","testpasstiles;ImageP","testing",0
-"4646","ipt446","testpasstiles;ImageP","testing",0
-"4647","ipt446","testpasstiles;ImageP","testing",0
+"4642","ipt446","unknown;N/A","testing",3.94
+"4643","ipt446","unknown;N/A","testing",3.94
+"4644","ipt446","unknown;N/A","testing",3.94
+"4645","ipt446","testpasstiles;ImageP","testing",6.18
+"4646","ipt446","testpasstiles;ImageP","testing",6.18
+"4647","ipt446","testpasstiles;ImageP","testing",6.18
 "4648","ipt446","unknown;ImagePasstil","Successful Login",6.18
-"4649","ipt446","testpasstiles;ImageP","testing",0
-"4650","ipt446","testpasstiles;ImageP","testing",0
-"4651","ipt446","testpasstiles;ImageP","testing",0
+"4649","ipt446","testpasstiles;ImageP","testing",6.19
+"4650","ipt446","testpasstiles;ImageP","testing",6.19
+"4651","ipt446","testpasstiles;ImageP","testing",6.19
 "4652","ipt446","unknown;ImagePasstil","Successful Login",6.19
-"4653","ipt446","testpasstiles;ImageP","testing",0
-"4654","ipt446","testpasstiles;ImageP","testing",0
-"4655","ipt446","testpasstiles;ImageP","testing",0
-"4656","ipt446","testpasstiles;ImageP","testing",0
+"4653","ipt446","testpasstiles;ImageP","testing",6.19
+"4654","ipt446","testpasstiles;ImageP","testing",6.19
+"4655","ipt446","testpasstiles;ImageP","testing",6.19
+"4656","ipt446","testpasstiles;ImageP","testing",6.19
 "4657","ipt446","unknown;ImagePasstil","Successful Login",6.19
-"4658","ipt446","unknown;N/A","testing",0
-"4659","ipt446","unknown;N/A","testing",0
-"4660","ipt446","testpasstiles;ImageP","testing",0
-"4661","ipt446","testpasstiles;ImageP","testing",0
-"4662","ipt446","testpasstiles;ImageP","testing",0
+"4658","ipt446","unknown;N/A","testing",6.19
+"4659","ipt446","unknown;N/A","testing",6.19
+"4660","ipt446","testpasstiles;ImageP","testing",7.88
+"4661","ipt446","testpasstiles;ImageP","testing",7.88
+"4662","ipt446","testpasstiles;ImageP","testing",7.88
 "4663","ipt446","unknown;ImagePasstil","Failed Login",7.88
-"4664","ipt446","testpasstiles;ImageP","testing",0
-"4665","ipt446","testpasstiles;ImageP","testing",0
-"4666","ipt446","testpasstiles;ImageP","testing",0
+"4664","ipt446","testpasstiles;ImageP","testing",7.88
+"4665","ipt446","testpasstiles;ImageP","testing",7.88
+"4666","ipt446","testpasstiles;ImageP","testing",7.88
 "4667","ipt446","unknown;ImagePasstil","Successful Login",7.88
-"4668","ipt446","testpasstiles;ImageP","testing",0
-"4669","ipt446","testpasstiles;ImageP","testing",0
-"4670","ipt446","testpasstiles;ImageP","testing",0
+"4668","ipt446","testpasstiles;ImageP","testing",7.88
+"4669","ipt446","testpasstiles;ImageP","testing",7.88
+"4670","ipt446","testpasstiles;ImageP","testing",7.88
 "4671","ipt446","unknown;ImagePasstil","Successful Login",7.88
-"4672","ipt446","testpasstiles;ImageP","testing",0
-"4673","ipt446","testpasstiles;ImageP","testing",0
-"4674","ipt446","testpasstiles;ImageP","testing",0
+"4672","ipt446","testpasstiles;ImageP","testing",7.88
+"4673","ipt446","testpasstiles;ImageP","testing",7.88
+"4674","ipt446","testpasstiles;ImageP","testing",7.88
 "4675","ipt446","unknown;ImagePasstil","Successful Login",7.88
-"4676","ipt446","unknown;N/A","testing",0
-"4677","ipt446","unknown;N/A","testing",0
-"4678","ipt446","testpasstiles;ImageP","testing",0
-"4679","ipt446","testpasstiles;ImageP","testing",0
-"4680","ipt446","testpasstiles;ImageP","testing",0
+"4676","ipt446","unknown;N/A","testing",7.89
+"4677","ipt446","unknown;N/A","testing",7.89
+"4678","ipt446","testpasstiles;ImageP","testing",7.89
+"4679","ipt446","testpasstiles;ImageP","testing",7.89
+"4680","ipt446","testpasstiles;ImageP","testing",7.89
 "4681","ipt446","unknown;ImagePasstil","Successful Login",7.89
-"4682","ipt446","unknown;N/A","testing",0
-"4683","ipt446","unknown;N/A","testing",0
-"4684","ipt448","unknown;N/A","testing",0
+"4682","ipt446","unknown;N/A","testing",7.9
+"4683","ipt446","unknown;N/A","testing",7.9
+"4684","ipt448","unknown;N/A","testing",-0.56
 "4685","ipt448","testpasstiles;ImageP","Created Password",0
 "4686","ipt448","testpasstiles;ImageP","testing",0
 "4687","ipt448","testpasstiles;ImageP","testing",0
@@ -4783,22 +4783,22 @@
 "4782","ipt448","testpasstiles;ImageP","testing",0
 "4783","ipt448","testpasstiles;ImageP","testing",0
 "4784","ipt448","unknown;ImagePasstil","Successful Login",0
-"4785","ipt448","unknown;N/A","testing",0
-"4786","ipt448","unknown;N/A","testing",0
-"4787","ipt448","unknown;N/A","testing",0
-"4788","ipt448","testpasstiles;ImageP","testing",0
-"4789","ipt448","testpasstiles;ImageP","testing",0
-"4790","ipt448","testpasstiles;ImageP","testing",0
+"4785","ipt448","unknown;N/A","testing",0.01
+"4786","ipt448","unknown;N/A","testing",0.01
+"4787","ipt448","unknown;N/A","testing",0.01
+"4788","ipt448","testpasstiles;ImageP","testing",1.4
+"4789","ipt448","testpasstiles;ImageP","testing",1.4
+"4790","ipt448","testpasstiles;ImageP","testing",1.4
 "4791","ipt448","unknown;ImagePasstil","Failed Login",1.4
-"4792","ipt448","testpasstiles;ImageP","testing",0
-"4793","ipt448","testpasstiles;ImageP","testing",0
-"4794","ipt448","testpasstiles;ImageP","testing",0
+"4792","ipt448","testpasstiles;ImageP","testing",1.4
+"4793","ipt448","testpasstiles;ImageP","testing",1.4
+"4794","ipt448","testpasstiles;ImageP","testing",1.4
 "4795","ipt448","unknown;ImagePasstil","Failed Login",1.4
-"4796","ipt448","testpasstiles;ImageP","testing",0
-"4797","ipt448","testpasstiles;ImageP","testing",0
-"4798","ipt448","testpasstiles;ImageP","testing",0
+"4796","ipt448","testpasstiles;ImageP","testing",1.4
+"4797","ipt448","testpasstiles;ImageP","testing",1.4
+"4798","ipt448","testpasstiles;ImageP","testing",1.4
 "4799","ipt448","unknown;ImagePasstil","Successful Login",1.4
-"4800","ipt448","unknown;N/A","testing",0
+"4800","ipt448","unknown;N/A","testing",1.41
 "4801","ipt448","testpasstiles;ImageP","Created Password",0
 "4802","ipt448","testpasstiles;ImageP","testing",0
 "4803","ipt448","testpasstiles;ImageP","testing",0
@@ -4849,46 +4849,46 @@
 "4848","ipt448","unknown;N/A","testing",0
 "4849","ipt448","unknown;N/A","testing",0
 "4850","ipt448","unknown;N/A","testing",0
-"4851","ipt448","unknown;N/A","testing",0
-"4852","ipt448","testpasstiles;ImageP","testing",0
-"4853","ipt448","testpasstiles;ImageP","testing",0
-"4854","ipt448","testpasstiles;ImageP","testing",0
-"4855","ipt448","testpasstiles;ImageP","testing",0
-"4856","ipt448","testpasstiles;ImageP","testing",0
-"4857","ipt448","testpasstiles;ImageP","testing",0
+"4851","ipt448","unknown;N/A","testing",0.01
+"4852","ipt448","testpasstiles;ImageP","testing",0.25
+"4853","ipt448","testpasstiles;ImageP","testing",0.25
+"4854","ipt448","testpasstiles;ImageP","testing",0.25
+"4855","ipt448","testpasstiles;ImageP","testing",0.25
+"4856","ipt448","testpasstiles;ImageP","testing",0.25
+"4857","ipt448","testpasstiles;ImageP","testing",0.25
 "4858","ipt448","unknown;ImagePasstil","Successful Login",0.25
-"4859","ipt448","testpasstiles;ImageP","testing",0
-"4860","ipt448","testpasstiles;ImageP","testing",0
-"4861","ipt448","testpasstiles;ImageP","testing",0
+"4859","ipt448","testpasstiles;ImageP","testing",2.04
+"4860","ipt448","testpasstiles;ImageP","testing",2.04
+"4861","ipt448","testpasstiles;ImageP","testing",2.04
 "4862","ipt448","unknown;ImagePasstil","Successful Login",2.04
-"4863","ipt448","testpasstiles;ImageP","testing",0
-"4864","ipt448","testpasstiles;ImageP","testing",0
-"4865","ipt448","testpasstiles;ImageP","testing",0
+"4863","ipt448","testpasstiles;ImageP","testing",2.04
+"4864","ipt448","testpasstiles;ImageP","testing",2.04
+"4865","ipt448","testpasstiles;ImageP","testing",2.04
 "4866","ipt448","unknown;ImagePasstil","Successful Login",2.04
-"4867","ipt448","testpasstiles;ImageP","testing",0
-"4868","ipt448","testpasstiles;ImageP","testing",0
-"4869","ipt448","testpasstiles;ImageP","testing",0
+"4867","ipt448","testpasstiles;ImageP","testing",2.04
+"4868","ipt448","testpasstiles;ImageP","testing",2.04
+"4869","ipt448","testpasstiles;ImageP","testing",2.04
 "4870","ipt448","unknown;ImagePasstil","Successful Login",2.04
-"4871","ipt448","unknown;N/A","testing",0
-"4872","ipt448","unknown;N/A","testing",0
-"4873","ipt448","unknown;N/A","testing",0
-"4874","ipt448","unknown;N/A","testing",0
-"4875","ipt448","unknown;N/A","testing",0
-"4876","ipt448","testpasstiles;ImageP","testing",0
-"4877","ipt448","testpasstiles;ImageP","testing",0
-"4878","ipt448","testpasstiles;ImageP","testing",0
+"4871","ipt448","unknown;N/A","testing",2.04
+"4872","ipt448","unknown;N/A","testing",2.04
+"4873","ipt448","unknown;N/A","testing",2.05
+"4874","ipt448","unknown;N/A","testing",2.05
+"4875","ipt448","unknown;N/A","testing",2.05
+"4876","ipt448","testpasstiles;ImageP","testing",4.61
+"4877","ipt448","testpasstiles;ImageP","testing",4.61
+"4878","ipt448","testpasstiles;ImageP","testing",4.61
 "4879","ipt448","unknown;ImagePasstil","Successful Login",4.61
-"4880","ipt448","testpasstiles;ImageP","testing",0
-"4881","ipt448","testpasstiles;ImageP","testing",0
-"4882","ipt448","testpasstiles;ImageP","testing",0
+"4880","ipt448","testpasstiles;ImageP","testing",4.61
+"4881","ipt448","testpasstiles;ImageP","testing",4.61
+"4882","ipt448","testpasstiles;ImageP","testing",4.61
 "4883","ipt448","unknown;ImagePasstil","Successful Login",4.61
-"4884","ipt448","testpasstiles;ImageP","testing",0
-"4885","ipt448","testpasstiles;ImageP","testing",0
-"4886","ipt448","testpasstiles;ImageP","testing",0
+"4884","ipt448","testpasstiles;ImageP","testing",4.61
+"4885","ipt448","testpasstiles;ImageP","testing",4.61
+"4886","ipt448","testpasstiles;ImageP","testing",4.61
 "4887","ipt448","unknown;ImagePasstil","Successful Login",4.61
-"4888","ipt448","unknown;N/A","testing",0
-"4889","ipt448","unknown;N/A","testing",0
-"4890","ipt449","unknown;N/A","testing",0
+"4888","ipt448","unknown;N/A","testing",4.61
+"4889","ipt448","unknown;N/A","testing",4.61
+"4890","ipt449","unknown;N/A","testing",-1.4
 "4891","ipt449","testpasstiles;ImageP","Created Password",0
 "4892","ipt449","testpasstiles;ImageP","testing",0
 "4893","ipt449","testpasstiles;ImageP","testing",0
@@ -5009,56 +5009,56 @@
 "5008","ipt449","testpasstiles;ImageP","testing",0
 "5009","ipt449","unknown;ImagePasstil","Successful Login",0
 "5010","ipt449","unknown;N/A","testing",0
-"5011","ipt449","testpasstiles;ImageP","testing",0
-"5012","ipt449","testpasstiles;ImageP","testing",0
-"5013","ipt449","testpasstiles;ImageP","testing",0
+"5011","ipt449","testpasstiles;ImageP","testing",1.02
+"5012","ipt449","testpasstiles;ImageP","testing",1.02
+"5013","ipt449","testpasstiles;ImageP","testing",1.02
 "5014","ipt449","unknown;ImagePasstil","Successful Login",1.02
-"5015","ipt449","testpasstiles;ImageP","testing",0
-"5016","ipt449","testpasstiles;ImageP","testing",0
-"5017","ipt449","testpasstiles;ImageP","testing",0
+"5015","ipt449","testpasstiles;ImageP","testing",1.02
+"5016","ipt449","testpasstiles;ImageP","testing",1.02
+"5017","ipt449","testpasstiles;ImageP","testing",1.02
 "5018","ipt449","unknown;ImagePasstil","Successful Login",1.02
-"5019","ipt449","testpasstiles;ImageP","testing",0
-"5020","ipt449","testpasstiles;ImageP","testing",0
-"5021","ipt449","testpasstiles;ImageP","testing",0
+"5019","ipt449","testpasstiles;ImageP","testing",1.02
+"5020","ipt449","testpasstiles;ImageP","testing",1.02
+"5021","ipt449","testpasstiles;ImageP","testing",1.02
 "5022","ipt449","unknown;ImagePasstil","Successful Login",1.02
-"5023","ipt449","unknown;N/A","testing",0
-"5024","ipt449","unknown;N/A","testing",0
-"5025","ipt449","testpasstiles;ImageP","testing",0
-"5026","ipt449","testpasstiles;ImageP","testing",0
-"5027","ipt449","testpasstiles;ImageP","testing",0
+"5023","ipt449","unknown;N/A","testing",1.02
+"5024","ipt449","unknown;N/A","testing",1.02
+"5025","ipt449","testpasstiles;ImageP","testing",3.35
+"5026","ipt449","testpasstiles;ImageP","testing",3.35
+"5027","ipt449","testpasstiles;ImageP","testing",3.35
 "5028","ipt449","unknown;ImagePasstil","Successful Login",3.35
-"5029","ipt449","testpasstiles;ImageP","testing",0
-"5030","ipt449","testpasstiles;ImageP","testing",0
-"5031","ipt449","testpasstiles;ImageP","testing",0
+"5029","ipt449","testpasstiles;ImageP","testing",3.36
+"5030","ipt449","testpasstiles;ImageP","testing",3.36
+"5031","ipt449","testpasstiles;ImageP","testing",3.36
 "5032","ipt449","unknown;ImagePasstil","Successful Login",3.36
-"5033","ipt449","testpasstiles;ImageP","testing",0
-"5034","ipt449","testpasstiles;ImageP","testing",0
-"5035","ipt449","testpasstiles;ImageP","testing",0
+"5033","ipt449","testpasstiles;ImageP","testing",3.36
+"5034","ipt449","testpasstiles;ImageP","testing",3.36
+"5035","ipt449","testpasstiles;ImageP","testing",3.36
 "5036","ipt449","unknown;ImagePasstil","Successful Login",3.36
-"5037","ipt449","unknown;N/A","testing",0
-"5038","ipt449","testpasstiles;ImageP","testing",0
-"5039","ipt449","testpasstiles;ImageP","testing",0
-"5040","ipt449","testpasstiles;ImageP","testing",0
+"5037","ipt449","unknown;N/A","testing",3.36
+"5038","ipt449","testpasstiles;ImageP","testing",6.12
+"5039","ipt449","testpasstiles;ImageP","testing",6.12
+"5040","ipt449","testpasstiles;ImageP","testing",6.12
 "5041","ipt449","unknown;ImagePasstil","Successful Login",6.12
-"5042","ipt449","testpasstiles;ImageP","testing",0
-"5043","ipt449","testpasstiles;ImageP","testing",0
-"5044","ipt449","testpasstiles;ImageP","testing",0
+"5042","ipt449","testpasstiles;ImageP","testing",6.12
+"5043","ipt449","testpasstiles;ImageP","testing",6.12
+"5044","ipt449","testpasstiles;ImageP","testing",6.12
 "5045","ipt449","unknown;ImagePasstil","Successful Login",6.12
-"5046","ipt449","testpasstiles;ImageP","testing",0
-"5047","ipt449","testpasstiles;ImageP","testing",0
-"5048","ipt449","testpasstiles;ImageP","testing",0
+"5046","ipt449","testpasstiles;ImageP","testing",6.12
+"5047","ipt449","testpasstiles;ImageP","testing",6.12
+"5048","ipt449","testpasstiles;ImageP","testing",6.12
 "5049","ipt449","unknown;ImagePasstil","Successful Login",6.12
-"5050","ipt449","unknown;N/A","testing",0
-"5051","ipt449","testpasstiles;ImageP","testing",0
-"5052","ipt449","testpasstiles;ImageP","testing",0
-"5053","ipt449","testpasstiles;ImageP","testing",0
+"5050","ipt449","unknown;N/A","testing",6.12
+"5051","ipt449","testpasstiles;ImageP","testing",7.16
+"5052","ipt449","testpasstiles;ImageP","testing",7.16
+"5053","ipt449","testpasstiles;ImageP","testing",7.16
 "5054","ipt449","unknown;ImagePasstil","Successful Login",7.16
-"5055","ipt449","testpasstiles;ImageP","testing",0
-"5056","ipt449","testpasstiles;ImageP","testing",0
-"5057","ipt449","testpasstiles;ImageP","testing",0
+"5055","ipt449","testpasstiles;ImageP","testing",7.16
+"5056","ipt449","testpasstiles;ImageP","testing",7.16
+"5057","ipt449","testpasstiles;ImageP","testing",7.16
 "5058","ipt449","unknown;ImagePasstil","Successful Login",7.16
-"5059","ipt449","testpasstiles;ImageP","testing",0
-"5060","ipt449","testpasstiles;ImageP","testing",0
-"5061","ipt449","testpasstiles;ImageP","testing",0
+"5059","ipt449","testpasstiles;ImageP","testing",7.16
+"5060","ipt449","testpasstiles;ImageP","testing",7.17
+"5061","ipt449","testpasstiles;ImageP","testing",7.17
 "5062","ipt449","unknown;ImagePasstil","Successful Login",7.17
-"5063","ipt449","unknown;N/A","testing",0
+"5063","ipt449","unknown;N/A","testing",7.17

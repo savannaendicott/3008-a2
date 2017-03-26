@@ -143,21 +143,21 @@
 "142","bpt409","unknown;BlankPassTil","Successful Login",0
 "143","bpt409","unknown;N/A","testing",0
 "144","bpt409","unknown;N/A","testing",0
-"145","bpt409","testpasstiles;BlankP","testing",0
-"146","bpt409","testpasstiles;BlankP","testing",0
-"147","bpt409","testpasstiles;BlankP","testing",0
-"148","bpt409","testpasstiles;BlankP","testing",0
+"145","bpt409","testpasstiles;BlankP","testing",1.01
+"146","bpt409","testpasstiles;BlankP","testing",1.01
+"147","bpt409","testpasstiles;BlankP","testing",1.01
+"148","bpt409","testpasstiles;BlankP","testing",1.01
 "149","bpt409","unknown;BlankPassTil","Failed Login",1.01
-"150","bpt409","testpasstiles;BlankP","testing",0
-"151","bpt409","testpasstiles;BlankP","testing",0
+"150","bpt409","testpasstiles;BlankP","testing",1.01
+"151","bpt409","testpasstiles;BlankP","testing",1.01
 "152","bpt409","unknown;BlankPassTil","Failed Login",1.01
-"153","bpt409","testpasstiles;BlankP","testing",0
-"154","bpt409","testpasstiles;BlankP","testing",0
-"155","bpt409","testpasstiles;BlankP","testing",0
-"156","bpt409","testpasstiles;BlankP","testing",0
+"153","bpt409","testpasstiles;BlankP","testing",1.01
+"154","bpt409","testpasstiles;BlankP","testing",1.01
+"155","bpt409","testpasstiles;BlankP","testing",1.01
+"156","bpt409","testpasstiles;BlankP","testing",1.01
 "157","bpt409","unknown;BlankPassTil","Failed Login",1.01
-"158","bpt409","testpasstiles;BlankP","testing",0
-"159","bpt409","testpasstiles;BlankP","testing",0
+"158","bpt409","testpasstiles;BlankP","testing",1.01
+"159","bpt409","testpasstiles;BlankP","testing",1.01
 "160","bpt409","unknown;BlankPassTil","Failed Login",1.01
 "161","bpt409","testpasstiles;BlankP","Created Password",0
 "162","bpt409","testpasstiles;BlankP","Created Password",0
@@ -417,8 +417,8 @@
 "416","bpt409","testpasstiles;BlankP","testing",0
 "417","bpt409","testpasstiles;BlankP","testing",0
 "418","bpt409","unknown;BlankPassTil","Successful Login",0
-"419","bpt409","unknown;N/A","testing",0
-"420","bpt409","unknown;N/A","testing",0
+"419","bpt409","unknown;N/A","testing",0.01
+"420","bpt409","unknown;N/A","testing",0.01
 "421","bpt409","testpasstiles;BlankP","Created Password",0
 "422","bpt409","testpasstiles;BlankP","Created Password",0
 "423","bpt409","testpasstiles;BlankP","testing",0
@@ -765,8 +765,8 @@
 "764","bpt409","unknown;BlankPassTil","Successful Login",0
 "765","bpt409","unknown;N/A","testing",0
 "766","bpt409","unknown;N/A","testing",0
-"767","bpt411","unknown;N/A","testing",0
-"768","bpt411","unknown;N/A","testing",0
+"767","bpt411","unknown;N/A","testing",-7.04
+"768","bpt411","unknown;N/A","testing",-7.04
 "769","bpt411","testpasstiles;BlankP","Created Password",0
 "770","bpt411","testpasstiles;BlankP","Created Password",0
 "771","bpt411","testpasstiles;BlankP","testing",0
@@ -893,8 +893,8 @@
 "892","bpt411","unknown;BlankPassTil","Successful Login",0
 "893","bpt411","testpasstiles;BlankP","testing",0
 "894","bpt411","unknown;BlankPassTil","Successful Login",0
-"895","bpt411","unknown;N/A","testing",0
-"896","bpt411","unknown;N/A","testing",0
+"895","bpt411","unknown;N/A","testing",0.01
+"896","bpt411","unknown;N/A","testing",0.01
 "897","bpt411","testpasstiles;BlankP","Created Password",0
 "898","bpt411","testpasstiles;BlankP","Created Password",0
 "899","bpt411","testpasstiles;BlankP","testing",0
@@ -953,170 +953,170 @@
 "952","bpt411","testpasstiles;BlankP","testing",0
 "953","bpt411","testpasstiles;BlankP","testing",0
 "954","bpt411","testpasstiles;BlankP","testing",0
-"955","bpt411","testpasstiles;BlankP","testing",0
-"956","bpt411","testpasstiles;BlankP","testing",0
-"957","bpt411","testpasstiles;BlankP","testing",0
-"958","bpt411","testpasstiles;BlankP","testing",0
-"959","bpt411","testpasstiles;BlankP","testing",0
-"960","bpt411","testpasstiles;BlankP","testing",0
+"955","bpt411","testpasstiles;BlankP","testing",0.01
+"956","bpt411","testpasstiles;BlankP","testing",0.01
+"957","bpt411","testpasstiles;BlankP","testing",0.01
+"958","bpt411","testpasstiles;BlankP","testing",0.01
+"959","bpt411","testpasstiles;BlankP","testing",0.01
+"960","bpt411","testpasstiles;BlankP","testing",0.01
 "961","bpt411","unknown;BlankPassTil","Failed Login",0.01
 "962","bpt411","unknown;BlankPassTil","Failed Login",0.01
-"963","bpt411","testpasstiles;BlankP","testing",0
-"964","bpt411","testpasstiles;BlankP","testing",0
-"965","bpt411","testpasstiles;BlankP","testing",0
-"966","bpt411","testpasstiles;BlankP","testing",0
-"967","bpt411","testpasstiles;BlankP","testing",0
-"968","bpt411","testpasstiles;BlankP","testing",0
+"963","bpt411","testpasstiles;BlankP","testing",0.01
+"964","bpt411","testpasstiles;BlankP","testing",0.01
+"965","bpt411","testpasstiles;BlankP","testing",0.01
+"966","bpt411","testpasstiles;BlankP","testing",0.01
+"967","bpt411","testpasstiles;BlankP","testing",0.01
+"968","bpt411","testpasstiles;BlankP","testing",0.01
 "969","bpt411","unknown;BlankPassTil","Successful Login",0.01
 "970","bpt411","unknown;BlankPassTil","Successful Login",0.01
-"971","bpt411","unknown;N/A","testing",0
-"972","bpt411","unknown;N/A","testing",0
-"973","bpt411","unknown;N/A","testing",0
-"974","bpt411","unknown;N/A","testing",0
-"975","bpt411","testpasstiles;BlankP","testing",0
-"976","bpt411","testpasstiles;BlankP","testing",0
-"977","bpt411","testpasstiles;BlankP","testing",0
-"978","bpt411","testpasstiles;BlankP","testing",0
-"979","bpt411","testpasstiles;BlankP","testing",0
-"980","bpt411","testpasstiles;BlankP","testing",0
+"971","bpt411","unknown;N/A","testing",0.01
+"972","bpt411","unknown;N/A","testing",0.01
+"973","bpt411","unknown;N/A","testing",0.01
+"974","bpt411","unknown;N/A","testing",0.01
+"975","bpt411","testpasstiles;BlankP","testing",2
+"976","bpt411","testpasstiles;BlankP","testing",2
+"977","bpt411","testpasstiles;BlankP","testing",2
+"978","bpt411","testpasstiles;BlankP","testing",2
+"979","bpt411","testpasstiles;BlankP","testing",2
+"980","bpt411","testpasstiles;BlankP","testing",2
 "981","bpt411","unknown;BlankPassTil","Failed Login",2
 "982","bpt411","unknown;BlankPassTil","Failed Login",2
-"983","bpt411","testpasstiles;BlankP","testing",0
-"984","bpt411","testpasstiles;BlankP","testing",0
-"985","bpt411","testpasstiles;BlankP","testing",0
-"986","bpt411","testpasstiles;BlankP","testing",0
-"987","bpt411","testpasstiles;BlankP","testing",0
-"988","bpt411","testpasstiles;BlankP","testing",0
+"983","bpt411","testpasstiles;BlankP","testing",2
+"984","bpt411","testpasstiles;BlankP","testing",2
+"985","bpt411","testpasstiles;BlankP","testing",2
+"986","bpt411","testpasstiles;BlankP","testing",2
+"987","bpt411","testpasstiles;BlankP","testing",2
+"988","bpt411","testpasstiles;BlankP","testing",2
 "989","bpt411","unknown;BlankPassTil","Successful Login",2
 "990","bpt411","unknown;BlankPassTil","Successful Login",2
-"991","bpt411","testpasstiles;BlankP","testing",0
-"992","bpt411","testpasstiles;BlankP","testing",0
-"993","bpt411","testpasstiles;BlankP","testing",0
-"994","bpt411","testpasstiles;BlankP","testing",0
-"995","bpt411","testpasstiles;BlankP","testing",0
-"996","bpt411","testpasstiles;BlankP","testing",0
-"997","bpt411","testpasstiles;BlankP","testing",0
-"998","bpt411","testpasstiles;BlankP","testing",0
-"999","bpt411","testpasstiles;BlankP","testing",0
-"1000","bpt411","testpasstiles;BlankP","testing",0
-"1001","bpt411","testpasstiles;BlankP","testing",0
-"1002","bpt411","testpasstiles;BlankP","testing",0
-"1003","bpt411","testpasstiles;BlankP","testing",0
-"1004","bpt411","testpasstiles;BlankP","testing",0
-"1005","bpt411","testpasstiles;BlankP","testing",0
-"1006","bpt411","testpasstiles;BlankP","testing",0
-"1007","bpt411","testpasstiles;BlankP","testing",0
-"1008","bpt411","testpasstiles;BlankP","testing",0
-"1009","bpt411","testpasstiles;BlankP","testing",0
-"1010","bpt411","testpasstiles;BlankP","testing",0
-"1011","bpt411","testpasstiles;BlankP","testing",0
-"1012","bpt411","testpasstiles;BlankP","testing",0
+"991","bpt411","testpasstiles;BlankP","testing",2
+"992","bpt411","testpasstiles;BlankP","testing",2
+"993","bpt411","testpasstiles;BlankP","testing",2
+"994","bpt411","testpasstiles;BlankP","testing",2
+"995","bpt411","testpasstiles;BlankP","testing",2
+"996","bpt411","testpasstiles;BlankP","testing",2
+"997","bpt411","testpasstiles;BlankP","testing",2
+"998","bpt411","testpasstiles;BlankP","testing",2
+"999","bpt411","testpasstiles;BlankP","testing",2
+"1000","bpt411","testpasstiles;BlankP","testing",2
+"1001","bpt411","testpasstiles;BlankP","testing",2
+"1002","bpt411","testpasstiles;BlankP","testing",2
+"1003","bpt411","testpasstiles;BlankP","testing",2.01
+"1004","bpt411","testpasstiles;BlankP","testing",2.01
+"1005","bpt411","testpasstiles;BlankP","testing",2.01
+"1006","bpt411","testpasstiles;BlankP","testing",2.01
+"1007","bpt411","testpasstiles;BlankP","testing",2.01
+"1008","bpt411","testpasstiles;BlankP","testing",2.01
+"1009","bpt411","testpasstiles;BlankP","testing",2.01
+"1010","bpt411","testpasstiles;BlankP","testing",2.01
+"1011","bpt411","testpasstiles;BlankP","testing",2.01
+"1012","bpt411","testpasstiles;BlankP","testing",2.01
 "1013","bpt411","unknown;BlankPassTil","Failed Login",2.01
 "1014","bpt411","unknown;BlankPassTil","Failed Login",2.01
-"1015","bpt411","testpasstiles;BlankP","testing",0
-"1016","bpt411","testpasstiles;BlankP","testing",0
-"1017","bpt411","testpasstiles;BlankP","testing",0
-"1018","bpt411","testpasstiles;BlankP","testing",0
+"1015","bpt411","testpasstiles;BlankP","testing",2.01
+"1016","bpt411","testpasstiles;BlankP","testing",2.01
+"1017","bpt411","testpasstiles;BlankP","testing",2.01
+"1018","bpt411","testpasstiles;BlankP","testing",2.01
 "1019","bpt411","unknown;BlankPassTil","Successful Login",2.01
-"1020","bpt411","testpasstiles;BlankP","testing",0
-"1021","bpt411","testpasstiles;BlankP","testing",0
+"1020","bpt411","testpasstiles;BlankP","testing",2.01
+"1021","bpt411","testpasstiles;BlankP","testing",2.01
 "1022","bpt411","unknown;BlankPassTil","Successful Login",2.01
-"1023","bpt411","testpasstiles;BlankP","testing",0
-"1024","bpt411","testpasstiles;BlankP","testing",0
-"1025","bpt411","testpasstiles;BlankP","testing",0
-"1026","bpt411","testpasstiles;BlankP","testing",0
-"1027","bpt411","testpasstiles;BlankP","testing",0
-"1028","bpt411","testpasstiles;BlankP","testing",0
+"1023","bpt411","testpasstiles;BlankP","testing",2.01
+"1024","bpt411","testpasstiles;BlankP","testing",2.01
+"1025","bpt411","testpasstiles;BlankP","testing",2.01
+"1026","bpt411","testpasstiles;BlankP","testing",2.01
+"1027","bpt411","testpasstiles;BlankP","testing",2.01
+"1028","bpt411","testpasstiles;BlankP","testing",2.01
 "1029","bpt411","unknown;BlankPassTil","Successful Login",2.01
 "1030","bpt411","unknown;BlankPassTil","Successful Login",2.01
-"1031","bpt411","unknown;N/A","testing",0
-"1032","bpt411","unknown;N/A","testing",0
-"1033","bpt411","testpasstiles;BlankP","testing",0
-"1034","bpt411","testpasstiles;BlankP","testing",0
-"1035","bpt411","testpasstiles;BlankP","testing",0
-"1036","bpt411","testpasstiles;BlankP","testing",0
-"1037","bpt411","testpasstiles;BlankP","testing",0
-"1038","bpt411","testpasstiles;BlankP","testing",0
+"1031","bpt411","unknown;N/A","testing",2.01
+"1032","bpt411","unknown;N/A","testing",2.01
+"1033","bpt411","testpasstiles;BlankP","testing",5.05
+"1034","bpt411","testpasstiles;BlankP","testing",5.05
+"1035","bpt411","testpasstiles;BlankP","testing",5.05
+"1036","bpt411","testpasstiles;BlankP","testing",5.05
+"1037","bpt411","testpasstiles;BlankP","testing",5.05
+"1038","bpt411","testpasstiles;BlankP","testing",5.05
 "1039","bpt411","unknown;BlankPassTil","Failed Login",5.05
 "1040","bpt411","unknown;BlankPassTil","Failed Login",5.05
-"1041","bpt411","testpasstiles;BlankP","testing",0
-"1042","bpt411","testpasstiles;BlankP","testing",0
-"1043","bpt411","testpasstiles;BlankP","testing",0
-"1044","bpt411","testpasstiles;BlankP","testing",0
-"1045","bpt411","testpasstiles;BlankP","testing",0
+"1041","bpt411","testpasstiles;BlankP","testing",5.05
+"1042","bpt411","testpasstiles;BlankP","testing",5.05
+"1043","bpt411","testpasstiles;BlankP","testing",5.05
+"1044","bpt411","testpasstiles;BlankP","testing",5.05
+"1045","bpt411","testpasstiles;BlankP","testing",5.05
 "1046","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1047","bpt411","testpasstiles;BlankP","testing",0
+"1047","bpt411","testpasstiles;BlankP","testing",5.05
 "1048","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1049","bpt411","testpasstiles;BlankP","testing",0
-"1050","bpt411","testpasstiles;BlankP","testing",0
-"1051","bpt411","testpasstiles;BlankP","testing",0
-"1052","bpt411","testpasstiles;BlankP","testing",0
-"1053","bpt411","testpasstiles;BlankP","testing",0
-"1054","bpt411","testpasstiles;BlankP","testing",0
-"1055","bpt411","testpasstiles;BlankP","testing",0
-"1056","bpt411","testpasstiles;BlankP","testing",0
+"1049","bpt411","testpasstiles;BlankP","testing",5.05
+"1050","bpt411","testpasstiles;BlankP","testing",5.05
+"1051","bpt411","testpasstiles;BlankP","testing",5.05
+"1052","bpt411","testpasstiles;BlankP","testing",5.05
+"1053","bpt411","testpasstiles;BlankP","testing",5.05
+"1054","bpt411","testpasstiles;BlankP","testing",5.05
+"1055","bpt411","testpasstiles;BlankP","testing",5.05
+"1056","bpt411","testpasstiles;BlankP","testing",5.05
 "1057","bpt411","unknown;BlankPassTil","Failed Login",5.05
 "1058","bpt411","unknown;BlankPassTil","Failed Login",5.05
-"1059","bpt411","testpasstiles;BlankP","testing",0
-"1060","bpt411","testpasstiles;BlankP","testing",0
-"1061","bpt411","testpasstiles;BlankP","testing",0
-"1062","bpt411","testpasstiles;BlankP","testing",0
-"1063","bpt411","testpasstiles;BlankP","testing",0
+"1059","bpt411","testpasstiles;BlankP","testing",5.05
+"1060","bpt411","testpasstiles;BlankP","testing",5.05
+"1061","bpt411","testpasstiles;BlankP","testing",5.05
+"1062","bpt411","testpasstiles;BlankP","testing",5.05
+"1063","bpt411","testpasstiles;BlankP","testing",5.05
 "1064","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1065","bpt411","testpasstiles;BlankP","testing",0
+"1065","bpt411","testpasstiles;BlankP","testing",5.05
 "1066","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1067","bpt411","testpasstiles;BlankP","testing",0
-"1068","bpt411","testpasstiles;BlankP","testing",0
-"1069","bpt411","testpasstiles;BlankP","testing",0
-"1070","bpt411","testpasstiles;BlankP","testing",0
-"1071","bpt411","testpasstiles;BlankP","testing",0
-"1072","bpt411","testpasstiles;BlankP","testing",0
-"1073","bpt411","testpasstiles;BlankP","testing",0
-"1074","bpt411","testpasstiles;BlankP","testing",0
+"1067","bpt411","testpasstiles;BlankP","testing",5.05
+"1068","bpt411","testpasstiles;BlankP","testing",5.05
+"1069","bpt411","testpasstiles;BlankP","testing",5.05
+"1070","bpt411","testpasstiles;BlankP","testing",5.05
+"1071","bpt411","testpasstiles;BlankP","testing",5.05
+"1072","bpt411","testpasstiles;BlankP","testing",5.05
+"1073","bpt411","testpasstiles;BlankP","testing",5.05
+"1074","bpt411","testpasstiles;BlankP","testing",5.05
 "1075","bpt411","unknown;BlankPassTil","Failed Login",5.05
 "1076","bpt411","unknown;BlankPassTil","Failed Login",5.05
-"1077","bpt411","testpasstiles;BlankP","testing",0
-"1078","bpt411","testpasstiles;BlankP","testing",0
-"1079","bpt411","testpasstiles;BlankP","testing",0
-"1080","bpt411","testpasstiles;BlankP","testing",0
-"1081","bpt411","testpasstiles;BlankP","testing",0
+"1077","bpt411","testpasstiles;BlankP","testing",5.05
+"1078","bpt411","testpasstiles;BlankP","testing",5.05
+"1079","bpt411","testpasstiles;BlankP","testing",5.05
+"1080","bpt411","testpasstiles;BlankP","testing",5.05
+"1081","bpt411","testpasstiles;BlankP","testing",5.05
 "1082","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1083","bpt411","testpasstiles;BlankP","testing",0
+"1083","bpt411","testpasstiles;BlankP","testing",5.05
 "1084","bpt411","unknown;BlankPassTil","Successful Login",5.05
-"1085","bpt411","testpasstiles;BlankP","testing",0
-"1086","bpt411","testpasstiles;BlankP","testing",0
-"1087","bpt411","unknown;N/A","testing",0
-"1088","bpt411","unknown;N/A","testing",0
-"1089","bpt411","testpasstiles;BlankP","testing",0
-"1090","bpt411","testpasstiles;BlankP","testing",0
-"1091","bpt411","testpasstiles;BlankP","testing",0
-"1092","bpt411","testpasstiles;BlankP","testing",0
-"1093","bpt411","testpasstiles;BlankP","testing",0
-"1094","bpt411","testpasstiles;BlankP","testing",0
-"1095","bpt411","testpasstiles;BlankP","testing",0
+"1085","bpt411","testpasstiles;BlankP","testing",5.05
+"1086","bpt411","testpasstiles;BlankP","testing",5.05
+"1087","bpt411","unknown;N/A","testing",5.06
+"1088","bpt411","unknown;N/A","testing",5.06
+"1089","bpt411","testpasstiles;BlankP","testing",5.99
+"1090","bpt411","testpasstiles;BlankP","testing",5.99
+"1091","bpt411","testpasstiles;BlankP","testing",5.99
+"1092","bpt411","testpasstiles;BlankP","testing",5.99
+"1093","bpt411","testpasstiles;BlankP","testing",5.99
+"1094","bpt411","testpasstiles;BlankP","testing",5.99
+"1095","bpt411","testpasstiles;BlankP","testing",5.99
 "1096","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1097","bpt411","testpasstiles;BlankP","testing",0
+"1097","bpt411","testpasstiles;BlankP","testing",5.99
 "1098","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1099","bpt411","testpasstiles;BlankP","testing",0
-"1100","bpt411","testpasstiles;BlankP","testing",0
-"1101","bpt411","testpasstiles;BlankP","testing",0
-"1102","bpt411","testpasstiles;BlankP","testing",0
+"1099","bpt411","testpasstiles;BlankP","testing",5.99
+"1100","bpt411","testpasstiles;BlankP","testing",5.99
+"1101","bpt411","testpasstiles;BlankP","testing",5.99
+"1102","bpt411","testpasstiles;BlankP","testing",5.99
 "1103","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1104","bpt411","testpasstiles;BlankP","testing",0
-"1105","bpt411","testpasstiles;BlankP","testing",0
+"1104","bpt411","testpasstiles;BlankP","testing",5.99
+"1105","bpt411","testpasstiles;BlankP","testing",5.99
 "1106","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1107","bpt411","testpasstiles;BlankP","testing",0
-"1108","bpt411","testpasstiles;BlankP","testing",0
-"1109","bpt411","testpasstiles;BlankP","testing",0
-"1110","bpt411","testpasstiles;BlankP","testing",0
-"1111","bpt411","testpasstiles;BlankP","testing",0
+"1107","bpt411","testpasstiles;BlankP","testing",5.99
+"1108","bpt411","testpasstiles;BlankP","testing",5.99
+"1109","bpt411","testpasstiles;BlankP","testing",5.99
+"1110","bpt411","testpasstiles;BlankP","testing",5.99
+"1111","bpt411","testpasstiles;BlankP","testing",5.99
 "1112","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1113","bpt411","testpasstiles;BlankP","testing",0
+"1113","bpt411","testpasstiles;BlankP","testing",5.99
 "1114","bpt411","unknown;BlankPassTil","Successful Login",5.99
-"1115","bpt411","unknown;N/A","testing",0
-"1116","bpt411","unknown;N/A","testing",0
-"1117","bpt416","unknown;N/A","testing",0
-"1118","bpt416","unknown;N/A","testing",0
+"1115","bpt411","unknown;N/A","testing",6
+"1116","bpt411","unknown;N/A","testing",6
+"1117","bpt416","unknown;N/A","testing",-0.98
+"1118","bpt416","unknown;N/A","testing",-0.98
 "1119","bpt416","testpasstiles;BlankP","Created Password",0
 "1120","bpt416","testpasstiles;BlankP","Created Password",0
 "1121","bpt416","testpasstiles;BlankP","testing",0
@@ -1213,144 +1213,144 @@
 "1212","bpt416","unknown;N/A","testing",0
 "1213","bpt416","testpasstiles;BlankP","testing",0
 "1214","bpt416","testpasstiles;BlankP","testing",0
-"1215","bpt416","testpasstiles;BlankP","testing",0
-"1216","bpt416","testpasstiles;BlankP","testing",0
+"1215","bpt416","testpasstiles;BlankP","testing",0.01
+"1216","bpt416","testpasstiles;BlankP","testing",0.01
 "1217","bpt416","unknown;BlankPassTil","Successful Login",0.01
-"1218","bpt416","testpasstiles;BlankP","testing",0
-"1219","bpt416","testpasstiles;BlankP","testing",0
+"1218","bpt416","testpasstiles;BlankP","testing",0.01
+"1219","bpt416","testpasstiles;BlankP","testing",0.01
 "1220","bpt416","unknown;BlankPassTil","Successful Login",0.01
-"1221","bpt416","testpasstiles;BlankP","testing",0
-"1222","bpt416","testpasstiles;BlankP","testing",0
-"1223","bpt416","testpasstiles;BlankP","testing",0
-"1224","bpt416","testpasstiles;BlankP","testing",0
-"1225","bpt416","testpasstiles;BlankP","testing",0
+"1221","bpt416","testpasstiles;BlankP","testing",0.01
+"1222","bpt416","testpasstiles;BlankP","testing",0.01
+"1223","bpt416","testpasstiles;BlankP","testing",0.01
+"1224","bpt416","testpasstiles;BlankP","testing",0.01
+"1225","bpt416","testpasstiles;BlankP","testing",0.01
 "1226","bpt416","unknown;BlankPassTil","Successful Login",0.01
-"1227","bpt416","testpasstiles;BlankP","testing",0
+"1227","bpt416","testpasstiles;BlankP","testing",0.01
 "1228","bpt416","unknown;BlankPassTil","Successful Login",0.01
-"1229","bpt416","testpasstiles;BlankP","testing",0
-"1230","bpt416","testpasstiles;BlankP","testing",0
-"1231","bpt416","testpasstiles;BlankP","testing",0
-"1232","bpt416","testpasstiles;BlankP","testing",0
-"1233","bpt416","testpasstiles;BlankP","testing",0
-"1234","bpt416","testpasstiles;BlankP","testing",0
+"1229","bpt416","testpasstiles;BlankP","testing",0.01
+"1230","bpt416","testpasstiles;BlankP","testing",0.01
+"1231","bpt416","testpasstiles;BlankP","testing",0.01
+"1232","bpt416","testpasstiles;BlankP","testing",0.01
+"1233","bpt416","testpasstiles;BlankP","testing",0.01
+"1234","bpt416","testpasstiles;BlankP","testing",0.01
 "1235","bpt416","unknown;BlankPassTil","Successful Login",0.01
 "1236","bpt416","unknown;BlankPassTil","Successful Login",0.01
-"1237","bpt416","unknown;N/A","testing",0
-"1238","bpt416","unknown;N/A","testing",0
-"1239","bpt416","testpasstiles;BlankP","testing",0
-"1240","bpt416","testpasstiles;BlankP","testing",0
-"1241","bpt416","testpasstiles;BlankP","testing",0
-"1242","bpt416","testpasstiles;BlankP","testing",0
-"1243","bpt416","testpasstiles;BlankP","testing",0
-"1244","bpt416","testpasstiles;BlankP","testing",0
+"1237","bpt416","unknown;N/A","testing",0.01
+"1238","bpt416","unknown;N/A","testing",0.01
+"1239","bpt416","testpasstiles;BlankP","testing",2.87
+"1240","bpt416","testpasstiles;BlankP","testing",2.87
+"1241","bpt416","testpasstiles;BlankP","testing",2.87
+"1242","bpt416","testpasstiles;BlankP","testing",2.87
+"1243","bpt416","testpasstiles;BlankP","testing",2.87
+"1244","bpt416","testpasstiles;BlankP","testing",2.87
 "1245","bpt416","unknown;BlankPassTil","Failed Login",2.87
 "1246","bpt416","unknown;BlankPassTil","Failed Login",2.87
-"1247","bpt416","testpasstiles;BlankP","testing",0
-"1248","bpt416","testpasstiles;BlankP","testing",0
-"1249","bpt416","testpasstiles;BlankP","testing",0
-"1250","bpt416","testpasstiles;BlankP","testing",0
-"1251","bpt416","testpasstiles;BlankP","testing",0
+"1247","bpt416","testpasstiles;BlankP","testing",2.87
+"1248","bpt416","testpasstiles;BlankP","testing",2.87
+"1249","bpt416","testpasstiles;BlankP","testing",2.87
+"1250","bpt416","testpasstiles;BlankP","testing",2.87
+"1251","bpt416","testpasstiles;BlankP","testing",2.87
 "1252","bpt416","unknown;BlankPassTil","Successful Login",2.87
-"1253","bpt416","testpasstiles;BlankP","testing",0
+"1253","bpt416","testpasstiles;BlankP","testing",2.87
 "1254","bpt416","unknown;BlankPassTil","Successful Login",2.87
-"1255","bpt416","testpasstiles;BlankP","testing",0
-"1256","bpt416","testpasstiles;BlankP","testing",0
-"1257","bpt416","testpasstiles;BlankP","testing",0
-"1258","bpt416","testpasstiles;BlankP","testing",0
-"1259","bpt416","testpasstiles;BlankP","testing",0
-"1260","bpt416","testpasstiles;BlankP","testing",0
+"1255","bpt416","testpasstiles;BlankP","testing",2.88
+"1256","bpt416","testpasstiles;BlankP","testing",2.88
+"1257","bpt416","testpasstiles;BlankP","testing",2.88
+"1258","bpt416","testpasstiles;BlankP","testing",2.88
+"1259","bpt416","testpasstiles;BlankP","testing",2.88
+"1260","bpt416","testpasstiles;BlankP","testing",2.88
 "1261","bpt416","unknown;BlankPassTil","Successful Login",2.88
 "1262","bpt416","unknown;BlankPassTil","Successful Login",2.88
-"1263","bpt416","testpasstiles;BlankP","testing",0
-"1264","bpt416","testpasstiles;BlankP","testing",0
-"1265","bpt416","testpasstiles;BlankP","testing",0
-"1266","bpt416","testpasstiles;BlankP","testing",0
-"1267","bpt416","testpasstiles;BlankP","testing",0
+"1263","bpt416","testpasstiles;BlankP","testing",2.88
+"1264","bpt416","testpasstiles;BlankP","testing",2.88
+"1265","bpt416","testpasstiles;BlankP","testing",2.88
+"1266","bpt416","testpasstiles;BlankP","testing",2.88
+"1267","bpt416","testpasstiles;BlankP","testing",2.88
 "1268","bpt416","unknown;BlankPassTil","Successful Login",2.88
-"1269","bpt416","testpasstiles;BlankP","testing",0
+"1269","bpt416","testpasstiles;BlankP","testing",2.88
 "1270","bpt416","unknown;BlankPassTil","Successful Login",2.88
-"1271","bpt416","unknown;N/A","testing",0
-"1272","bpt416","unknown;N/A","testing",0
-"1273","bpt416","testpasstiles;BlankP","testing",0
-"1274","bpt416","testpasstiles;BlankP","testing",0
-"1275","bpt416","testpasstiles;BlankP","testing",0
-"1276","bpt416","testpasstiles;BlankP","testing",0
-"1277","bpt416","testpasstiles;BlankP","testing",0
-"1278","bpt416","testpasstiles;BlankP","testing",0
+"1271","bpt416","unknown;N/A","testing",2.88
+"1272","bpt416","unknown;N/A","testing",2.88
+"1273","bpt416","testpasstiles;BlankP","testing",3.55
+"1274","bpt416","testpasstiles;BlankP","testing",3.55
+"1275","bpt416","testpasstiles;BlankP","testing",3.55
+"1276","bpt416","testpasstiles;BlankP","testing",3.55
+"1277","bpt416","testpasstiles;BlankP","testing",3.55
+"1278","bpt416","testpasstiles;BlankP","testing",3.55
 "1279","bpt416","unknown;BlankPassTil","Successful Login",3.55
 "1280","bpt416","unknown;BlankPassTil","Successful Login",3.55
-"1281","bpt416","testpasstiles;BlankP","testing",0
-"1282","bpt416","testpasstiles;BlankP","testing",0
-"1283","bpt416","testpasstiles;BlankP","testing",0
-"1284","bpt416","testpasstiles;BlankP","testing",0
-"1285","bpt416","testpasstiles;BlankP","testing",0
+"1281","bpt416","testpasstiles;BlankP","testing",3.56
+"1282","bpt416","testpasstiles;BlankP","testing",3.56
+"1283","bpt416","testpasstiles;BlankP","testing",3.56
+"1284","bpt416","testpasstiles;BlankP","testing",3.56
+"1285","bpt416","testpasstiles;BlankP","testing",3.56
 "1286","bpt416","unknown;BlankPassTil","Successful Login",3.56
-"1287","bpt416","testpasstiles;BlankP","testing",0
+"1287","bpt416","testpasstiles;BlankP","testing",3.56
 "1288","bpt416","unknown;BlankPassTil","Successful Login",3.56
-"1289","bpt416","testpasstiles;BlankP","testing",0
-"1290","bpt416","testpasstiles;BlankP","testing",0
-"1291","bpt416","testpasstiles;BlankP","testing",0
-"1292","bpt416","testpasstiles;BlankP","testing",0
+"1289","bpt416","testpasstiles;BlankP","testing",3.56
+"1290","bpt416","testpasstiles;BlankP","testing",3.56
+"1291","bpt416","testpasstiles;BlankP","testing",3.56
+"1292","bpt416","testpasstiles;BlankP","testing",3.56
 "1293","bpt416","unknown;BlankPassTil","Successful Login",3.56
-"1294","bpt416","testpasstiles;BlankP","testing",0
-"1295","bpt416","testpasstiles;BlankP","testing",0
+"1294","bpt416","testpasstiles;BlankP","testing",3.56
+"1295","bpt416","testpasstiles;BlankP","testing",3.56
 "1296","bpt416","unknown;BlankPassTil","Successful Login",3.56
-"1297","bpt416","unknown;N/A","testing",0
-"1298","bpt416","unknown;N/A","testing",0
-"1299","bpt416","testpasstiles;BlankP","testing",0
-"1300","bpt416","testpasstiles;BlankP","testing",0
-"1301","bpt416","testpasstiles;BlankP","testing",0
-"1302","bpt416","testpasstiles;BlankP","testing",0
+"1297","bpt416","unknown;N/A","testing",3.56
+"1298","bpt416","unknown;N/A","testing",3.56
+"1299","bpt416","testpasstiles;BlankP","testing",6.43
+"1300","bpt416","testpasstiles;BlankP","testing",6.43
+"1301","bpt416","testpasstiles;BlankP","testing",6.43
+"1302","bpt416","testpasstiles;BlankP","testing",6.43
 "1303","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1304","bpt416","testpasstiles;BlankP","testing",0
-"1305","bpt416","testpasstiles;BlankP","testing",0
+"1304","bpt416","testpasstiles;BlankP","testing",6.43
+"1305","bpt416","testpasstiles;BlankP","testing",6.43
 "1306","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1307","bpt416","testpasstiles;BlankP","testing",0
-"1308","bpt416","testpasstiles;BlankP","testing",0
-"1309","bpt416","testpasstiles;BlankP","testing",0
-"1310","bpt416","testpasstiles;BlankP","testing",0
-"1311","bpt416","testpasstiles;BlankP","testing",0
+"1307","bpt416","testpasstiles;BlankP","testing",6.43
+"1308","bpt416","testpasstiles;BlankP","testing",6.43
+"1309","bpt416","testpasstiles;BlankP","testing",6.43
+"1310","bpt416","testpasstiles;BlankP","testing",6.43
+"1311","bpt416","testpasstiles;BlankP","testing",6.43
 "1312","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1313","bpt416","testpasstiles;BlankP","testing",0
+"1313","bpt416","testpasstiles;BlankP","testing",6.43
 "1314","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1315","bpt416","testpasstiles;BlankP","testing",0
-"1316","bpt416","testpasstiles;BlankP","testing",0
-"1317","bpt416","testpasstiles;BlankP","testing",0
-"1318","bpt416","testpasstiles;BlankP","testing",0
-"1319","bpt416","testpasstiles;BlankP","testing",0
+"1315","bpt416","testpasstiles;BlankP","testing",6.43
+"1316","bpt416","testpasstiles;BlankP","testing",6.43
+"1317","bpt416","testpasstiles;BlankP","testing",6.43
+"1318","bpt416","testpasstiles;BlankP","testing",6.43
+"1319","bpt416","testpasstiles;BlankP","testing",6.43
 "1320","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1321","bpt416","testpasstiles;BlankP","testing",0
+"1321","bpt416","testpasstiles;BlankP","testing",6.43
 "1322","bpt416","unknown;BlankPassTil","Successful Login",6.43
-"1323","bpt416","unknown;N/A","testing",0
-"1324","bpt416","unknown;N/A","testing",0
-"1325","bpt416","testpasstiles;BlankP","testing",0
-"1326","bpt416","testpasstiles;BlankP","testing",0
-"1327","bpt416","testpasstiles;BlankP","testing",0
-"1328","bpt416","testpasstiles;BlankP","testing",0
+"1323","bpt416","unknown;N/A","testing",6.43
+"1324","bpt416","unknown;N/A","testing",6.43
+"1325","bpt416","testpasstiles;BlankP","testing",7.38
+"1326","bpt416","testpasstiles;BlankP","testing",7.38
+"1327","bpt416","testpasstiles;BlankP","testing",7.38
+"1328","bpt416","testpasstiles;BlankP","testing",7.38
 "1329","bpt416","unknown;BlankPassTil","Successful Login",7.38
-"1330","bpt416","testpasstiles;BlankP","testing",0
-"1331","bpt416","testpasstiles;BlankP","testing",0
+"1330","bpt416","testpasstiles;BlankP","testing",7.38
+"1331","bpt416","testpasstiles;BlankP","testing",7.38
 "1332","bpt416","unknown;BlankPassTil","Successful Login",7.38
-"1333","bpt416","testpasstiles;BlankP","testing",0
-"1334","bpt416","testpasstiles;BlankP","testing",0
-"1335","bpt416","testpasstiles;BlankP","testing",0
-"1336","bpt416","testpasstiles;BlankP","testing",0
-"1337","bpt416","testpasstiles;BlankP","testing",0
-"1338","bpt416","testpasstiles;BlankP","testing",0
+"1333","bpt416","testpasstiles;BlankP","testing",7.38
+"1334","bpt416","testpasstiles;BlankP","testing",7.38
+"1335","bpt416","testpasstiles;BlankP","testing",7.38
+"1336","bpt416","testpasstiles;BlankP","testing",7.38
+"1337","bpt416","testpasstiles;BlankP","testing",7.38
+"1338","bpt416","testpasstiles;BlankP","testing",7.38
 "1339","bpt416","unknown;BlankPassTil","Successful Login",7.38
 "1340","bpt416","unknown;BlankPassTil","Successful Login",7.38
-"1341","bpt416","testpasstiles;BlankP","testing",0
-"1342","bpt416","testpasstiles;BlankP","testing",0
-"1343","bpt416","testpasstiles;BlankP","testing",0
-"1344","bpt416","testpasstiles;BlankP","testing",0
-"1345","bpt416","testpasstiles;BlankP","testing",0
+"1341","bpt416","testpasstiles;BlankP","testing",7.38
+"1342","bpt416","testpasstiles;BlankP","testing",7.38
+"1343","bpt416","testpasstiles;BlankP","testing",7.38
+"1344","bpt416","testpasstiles;BlankP","testing",7.38
+"1345","bpt416","testpasstiles;BlankP","testing",7.38
 "1346","bpt416","unknown;BlankPassTil","Successful Login",7.38
-"1347","bpt416","testpasstiles;BlankP","testing",0
+"1347","bpt416","testpasstiles;BlankP","testing",7.38
 "1348","bpt416","unknown;BlankPassTil","Successful Login",7.38
-"1349","bpt416","unknown;N/A","testing",0
-"1350","bpt416","unknown;N/A","testing",0
-"1351","bpt418","unknown;N/A","testing",0
-"1352","bpt418","unknown;N/A","testing",0
+"1349","bpt416","unknown;N/A","testing",7.39
+"1350","bpt416","unknown;N/A","testing",7.39
+"1351","bpt418","unknown;N/A","testing",0.03
+"1352","bpt418","unknown;N/A","testing",0.03
 "1353","bpt418","testpasstiles;BlankP","Created Password",0
 "1354","bpt418","testpasstiles;BlankP","Created Password",0
 "1355","bpt418","testpasstiles;BlankP","testing",0
@@ -1517,126 +1517,126 @@
 "1516","bpt418","testpasstiles;BlankP","testing",0
 "1517","bpt418","testpasstiles;BlankP","testing",0
 "1518","bpt418","unknown;BlankPassTil","Successful Login",0
-"1519","bpt418","unknown;N/A","testing",0
-"1520","bpt418","unknown;N/A","testing",0
-"1521","bpt418","testpasstiles;BlankP","testing",0
-"1522","bpt418","testpasstiles;BlankP","testing",0
-"1523","bpt418","testpasstiles;BlankP","testing",0
-"1524","bpt418","testpasstiles;BlankP","testing",0
-"1525","bpt418","testpasstiles;BlankP","testing",0
-"1526","bpt418","testpasstiles;BlankP","testing",0
+"1519","bpt418","unknown;N/A","testing",0.01
+"1520","bpt418","unknown;N/A","testing",0.01
+"1521","bpt418","testpasstiles;BlankP","testing",1.06
+"1522","bpt418","testpasstiles;BlankP","testing",1.06
+"1523","bpt418","testpasstiles;BlankP","testing",1.06
+"1524","bpt418","testpasstiles;BlankP","testing",1.06
+"1525","bpt418","testpasstiles;BlankP","testing",1.06
+"1526","bpt418","testpasstiles;BlankP","testing",1.06
 "1527","bpt418","unknown;BlankPassTil","Failed Login",1.06
 "1528","bpt418","unknown;BlankPassTil","Failed Login",1.06
-"1529","bpt418","testpasstiles;BlankP","testing",0
-"1530","bpt418","testpasstiles;BlankP","testing",0
-"1531","bpt418","testpasstiles;BlankP","testing",0
-"1532","bpt418","testpasstiles;BlankP","testing",0
+"1529","bpt418","testpasstiles;BlankP","testing",1.06
+"1530","bpt418","testpasstiles;BlankP","testing",1.06
+"1531","bpt418","testpasstiles;BlankP","testing",1.06
+"1532","bpt418","testpasstiles;BlankP","testing",1.06
 "1533","bpt418","unknown;BlankPassTil","Successful Login",1.06
-"1534","bpt418","testpasstiles;BlankP","testing",0
-"1535","bpt418","testpasstiles;BlankP","testing",0
+"1534","bpt418","testpasstiles;BlankP","testing",1.06
+"1535","bpt418","testpasstiles;BlankP","testing",1.06
 "1536","bpt418","unknown;BlankPassTil","Successful Login",1.06
-"1537","bpt418","testpasstiles;BlankP","testing",0
-"1538","bpt418","testpasstiles;BlankP","testing",0
-"1539","bpt418","testpasstiles;BlankP","testing",0
-"1540","bpt418","testpasstiles;BlankP","testing",0
+"1537","bpt418","testpasstiles;BlankP","testing",1.07
+"1538","bpt418","testpasstiles;BlankP","testing",1.07
+"1539","bpt418","testpasstiles;BlankP","testing",1.07
+"1540","bpt418","testpasstiles;BlankP","testing",1.07
 "1541","bpt418","unknown;BlankPassTil","Successful Login",1.07
-"1542","bpt418","testpasstiles;BlankP","testing",0
-"1543","bpt418","testpasstiles;BlankP","testing",0
+"1542","bpt418","testpasstiles;BlankP","testing",1.07
+"1543","bpt418","testpasstiles;BlankP","testing",1.07
 "1544","bpt418","unknown;BlankPassTil","Successful Login",1.07
-"1545","bpt418","testpasstiles;BlankP","testing",0
-"1546","bpt418","testpasstiles;BlankP","testing",0
-"1547","bpt418","testpasstiles;BlankP","testing",0
-"1548","bpt418","testpasstiles;BlankP","testing",0
+"1545","bpt418","testpasstiles;BlankP","testing",1.07
+"1546","bpt418","testpasstiles;BlankP","testing",1.07
+"1547","bpt418","testpasstiles;BlankP","testing",1.07
+"1548","bpt418","testpasstiles;BlankP","testing",1.07
 "1549","bpt418","unknown;BlankPassTil","Successful Login",1.07
-"1550","bpt418","testpasstiles;BlankP","testing",0
-"1551","bpt418","testpasstiles;BlankP","testing",0
+"1550","bpt418","testpasstiles;BlankP","testing",1.07
+"1551","bpt418","testpasstiles;BlankP","testing",1.07
 "1552","bpt418","unknown;BlankPassTil","Successful Login",1.07
-"1553","bpt418","unknown;N/A","testing",0
-"1554","bpt418","unknown;N/A","testing",0
-"1555","bpt418","testpasstiles;BlankP","testing",0
-"1556","bpt418","testpasstiles;BlankP","testing",0
-"1557","bpt418","testpasstiles;BlankP","testing",0
-"1558","bpt418","testpasstiles;BlankP","testing",0
+"1553","bpt418","unknown;N/A","testing",1.07
+"1554","bpt418","unknown;N/A","testing",1.07
+"1555","bpt418","testpasstiles;BlankP","testing",3.02
+"1556","bpt418","testpasstiles;BlankP","testing",3.02
+"1557","bpt418","testpasstiles;BlankP","testing",3.02
+"1558","bpt418","testpasstiles;BlankP","testing",3.02
 "1559","bpt418","unknown;BlankPassTil","Successful Login",3.02
-"1560","bpt418","testpasstiles;BlankP","testing",0
-"1561","bpt418","testpasstiles;BlankP","testing",0
+"1560","bpt418","testpasstiles;BlankP","testing",3.02
+"1561","bpt418","testpasstiles;BlankP","testing",3.02
 "1562","bpt418","unknown;BlankPassTil","Successful Login",3.02
-"1563","bpt418","testpasstiles;BlankP","testing",0
-"1564","bpt418","testpasstiles;BlankP","testing",0
-"1565","bpt418","testpasstiles;BlankP","testing",0
-"1566","bpt418","testpasstiles;BlankP","testing",0
-"1567","bpt418","testpasstiles;BlankP","testing",0
-"1568","bpt418","testpasstiles;BlankP","testing",0
-"1569","bpt418","testpasstiles;BlankP","testing",0
-"1570","bpt418","testpasstiles;BlankP","testing",0
+"1563","bpt418","testpasstiles;BlankP","testing",3.02
+"1564","bpt418","testpasstiles;BlankP","testing",3.02
+"1565","bpt418","testpasstiles;BlankP","testing",3.02
+"1566","bpt418","testpasstiles;BlankP","testing",3.02
+"1567","bpt418","testpasstiles;BlankP","testing",3.02
+"1568","bpt418","testpasstiles;BlankP","testing",3.02
+"1569","bpt418","testpasstiles;BlankP","testing",3.02
+"1570","bpt418","testpasstiles;BlankP","testing",3.02
 "1571","bpt418","unknown;BlankPassTil","Successful Login",3.02
-"1572","bpt418","testpasstiles;BlankP","testing",0
-"1573","bpt418","testpasstiles;BlankP","testing",0
+"1572","bpt418","testpasstiles;BlankP","testing",3.02
+"1573","bpt418","testpasstiles;BlankP","testing",3.02
 "1574","bpt418","unknown;BlankPassTil","Successful Login",3.02
-"1575","bpt418","testpasstiles;BlankP","testing",0
-"1576","bpt418","testpasstiles;BlankP","testing",0
-"1577","bpt418","testpasstiles;BlankP","testing",0
-"1578","bpt418","testpasstiles;BlankP","testing",0
-"1579","bpt418","testpasstiles;BlankP","testing",0
-"1580","bpt418","testpasstiles;BlankP","testing",0
+"1575","bpt418","testpasstiles;BlankP","testing",3.02
+"1576","bpt418","testpasstiles;BlankP","testing",3.02
+"1577","bpt418","testpasstiles;BlankP","testing",3.02
+"1578","bpt418","testpasstiles;BlankP","testing",3.02
+"1579","bpt418","testpasstiles;BlankP","testing",3.02
+"1580","bpt418","testpasstiles;BlankP","testing",3.02
 "1581","bpt418","unknown;BlankPassTil","Successful Login",3.02
 "1582","bpt418","unknown;BlankPassTil","Successful Login",3.02
-"1583","bpt418","unknown;N/A","testing",0
-"1584","bpt418","unknown;N/A","testing",0
-"1585","bpt418","testpasstiles;BlankP","testing",0
-"1586","bpt418","testpasstiles;BlankP","testing",0
-"1587","bpt418","testpasstiles;BlankP","testing",0
-"1588","bpt418","testpasstiles;BlankP","testing",0
+"1583","bpt418","unknown;N/A","testing",3.02
+"1584","bpt418","unknown;N/A","testing",3.02
+"1585","bpt418","testpasstiles;BlankP","testing",6.12
+"1586","bpt418","testpasstiles;BlankP","testing",6.12
+"1587","bpt418","testpasstiles;BlankP","testing",6.12
+"1588","bpt418","testpasstiles;BlankP","testing",6.12
 "1589","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1590","bpt418","testpasstiles;BlankP","testing",0
-"1591","bpt418","testpasstiles;BlankP","testing",0
+"1590","bpt418","testpasstiles;BlankP","testing",6.12
+"1591","bpt418","testpasstiles;BlankP","testing",6.12
 "1592","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1593","bpt418","testpasstiles;BlankP","testing",0
-"1594","bpt418","testpasstiles;BlankP","testing",0
-"1595","bpt418","testpasstiles;BlankP","testing",0
-"1596","bpt418","testpasstiles;BlankP","testing",0
+"1593","bpt418","testpasstiles;BlankP","testing",6.12
+"1594","bpt418","testpasstiles;BlankP","testing",6.12
+"1595","bpt418","testpasstiles;BlankP","testing",6.12
+"1596","bpt418","testpasstiles;BlankP","testing",6.12
 "1597","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1598","bpt418","testpasstiles;BlankP","testing",0
-"1599","bpt418","testpasstiles;BlankP","testing",0
+"1598","bpt418","testpasstiles;BlankP","testing",6.12
+"1599","bpt418","testpasstiles;BlankP","testing",6.12
 "1600","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1601","bpt418","testpasstiles;BlankP","testing",0
-"1602","bpt418","testpasstiles;BlankP","testing",0
-"1603","bpt418","testpasstiles;BlankP","testing",0
-"1604","bpt418","testpasstiles;BlankP","testing",0
+"1601","bpt418","testpasstiles;BlankP","testing",6.12
+"1602","bpt418","testpasstiles;BlankP","testing",6.12
+"1603","bpt418","testpasstiles;BlankP","testing",6.12
+"1604","bpt418","testpasstiles;BlankP","testing",6.12
 "1605","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1606","bpt418","testpasstiles;BlankP","testing",0
-"1607","bpt418","testpasstiles;BlankP","testing",0
+"1606","bpt418","testpasstiles;BlankP","testing",6.12
+"1607","bpt418","testpasstiles;BlankP","testing",6.12
 "1608","bpt418","unknown;BlankPassTil","Successful Login",6.12
-"1609","bpt418","unknown;N/A","testing",0
-"1610","bpt418","unknown;N/A","testing",0
-"1611","bpt418","testpasstiles;BlankP","testing",0
-"1612","bpt418","testpasstiles;BlankP","testing",0
-"1613","bpt418","testpasstiles;BlankP","testing",0
-"1614","bpt418","testpasstiles;BlankP","testing",0
-"1615","bpt418","testpasstiles;BlankP","testing",0
-"1616","bpt418","testpasstiles;BlankP","testing",0
+"1609","bpt418","unknown;N/A","testing",6.12
+"1610","bpt418","unknown;N/A","testing",6.12
+"1611","bpt418","testpasstiles;BlankP","testing",7.04
+"1612","bpt418","testpasstiles;BlankP","testing",7.04
+"1613","bpt418","testpasstiles;BlankP","testing",7.04
+"1614","bpt418","testpasstiles;BlankP","testing",7.04
+"1615","bpt418","testpasstiles;BlankP","testing",7.04
+"1616","bpt418","testpasstiles;BlankP","testing",7.04
 "1617","bpt418","unknown;BlankPassTil","Successful Login",7.04
 "1618","bpt418","unknown;BlankPassTil","Successful Login",7.04
-"1619","bpt418","testpasstiles;BlankP","testing",0
-"1620","bpt418","testpasstiles;BlankP","testing",0
-"1621","bpt418","testpasstiles;BlankP","testing",0
-"1622","bpt418","testpasstiles;BlankP","testing",0
+"1619","bpt418","testpasstiles;BlankP","testing",7.04
+"1620","bpt418","testpasstiles;BlankP","testing",7.04
+"1621","bpt418","testpasstiles;BlankP","testing",7.04
+"1622","bpt418","testpasstiles;BlankP","testing",7.04
 "1623","bpt418","unknown;BlankPassTil","Successful Login",7.04
-"1624","bpt418","testpasstiles;BlankP","testing",0
-"1625","bpt418","testpasstiles;BlankP","testing",0
+"1624","bpt418","testpasstiles;BlankP","testing",7.04
+"1625","bpt418","testpasstiles;BlankP","testing",7.04
 "1626","bpt418","unknown;BlankPassTil","Successful Login",7.04
-"1627","bpt418","testpasstiles;BlankP","testing",0
-"1628","bpt418","testpasstiles;BlankP","testing",0
-"1629","bpt418","testpasstiles;BlankP","testing",0
-"1630","bpt418","testpasstiles;BlankP","testing",0
+"1627","bpt418","testpasstiles;BlankP","testing",7.04
+"1628","bpt418","testpasstiles;BlankP","testing",7.04
+"1629","bpt418","testpasstiles;BlankP","testing",7.04
+"1630","bpt418","testpasstiles;BlankP","testing",7.04
 "1631","bpt418","unknown;BlankPassTil","Successful Login",7.04
-"1632","bpt418","testpasstiles;BlankP","testing",0
-"1633","bpt418","testpasstiles;BlankP","testing",0
+"1632","bpt418","testpasstiles;BlankP","testing",7.04
+"1633","bpt418","testpasstiles;BlankP","testing",7.04
 "1634","bpt418","unknown;BlankPassTil","Successful Login",7.04
-"1635","bpt418","unknown;N/A","testing",0
-"1636","bpt418","unknown;N/A","testing",0
-"1637","bpt419","unknown;N/A","testing",0
-"1638","bpt419","unknown;N/A","testing",0
+"1635","bpt418","unknown;N/A","testing",7.04
+"1636","bpt418","unknown;N/A","testing",7.04
+"1637","bpt419","unknown;N/A","testing",0.01
+"1638","bpt419","unknown;N/A","testing",0.01
 "1639","bpt419","testpasstiles;BlankP","Created Password",0
 "1640","bpt419","testpasstiles;BlankP","Created Password",0
 "1641","bpt419","testpasstiles;BlankP","testing",0
@@ -1741,130 +1741,130 @@
 "1740","bpt419","testpasstiles;BlankP","testing",0
 "1741","bpt419","testpasstiles;BlankP","testing",0
 "1742","bpt419","testpasstiles;BlankP","testing",0
-"1743","bpt419","testpasstiles;BlankP","testing",0
-"1744","bpt419","testpasstiles;BlankP","testing",0
-"1745","bpt419","testpasstiles;BlankP","testing",0
-"1746","bpt419","testpasstiles;BlankP","testing",0
-"1747","bpt419","testpasstiles;BlankP","testing",0
-"1748","bpt419","testpasstiles;BlankP","testing",0
+"1743","bpt419","testpasstiles;BlankP","testing",0.01
+"1744","bpt419","testpasstiles;BlankP","testing",0.01
+"1745","bpt419","testpasstiles;BlankP","testing",0.01
+"1746","bpt419","testpasstiles;BlankP","testing",0.01
+"1747","bpt419","testpasstiles;BlankP","testing",0.01
+"1748","bpt419","testpasstiles;BlankP","testing",0.01
 "1749","bpt419","unknown;BlankPassTil","Successful Login",0.01
 "1750","bpt419","unknown;BlankPassTil","Successful Login",0.01
-"1751","bpt419","unknown;N/A","testing",0
-"1752","bpt419","unknown;N/A","testing",0
-"1753","bpt419","testpasstiles;BlankP","testing",0
-"1754","bpt419","testpasstiles;BlankP","testing",0
-"1755","bpt419","testpasstiles;BlankP","testing",0
-"1756","bpt419","testpasstiles;BlankP","testing",0
-"1757","bpt419","testpasstiles;BlankP","testing",0
-"1758","bpt419","testpasstiles;BlankP","testing",0
+"1751","bpt419","unknown;N/A","testing",0.01
+"1752","bpt419","unknown;N/A","testing",0.01
+"1753","bpt419","testpasstiles;BlankP","testing",1.85
+"1754","bpt419","testpasstiles;BlankP","testing",1.85
+"1755","bpt419","testpasstiles;BlankP","testing",1.85
+"1756","bpt419","testpasstiles;BlankP","testing",1.85
+"1757","bpt419","testpasstiles;BlankP","testing",1.85
+"1758","bpt419","testpasstiles;BlankP","testing",1.85
 "1759","bpt419","unknown;BlankPassTil","Successful Login",1.85
 "1760","bpt419","unknown;BlankPassTil","Successful Login",1.85
-"1761","bpt419","testpasstiles;BlankP","testing",0
-"1762","bpt419","testpasstiles;BlankP","testing",0
-"1763","bpt419","testpasstiles;BlankP","testing",0
-"1764","bpt419","testpasstiles;BlankP","testing",0
-"1765","bpt419","testpasstiles;BlankP","testing",0
-"1766","bpt419","testpasstiles;BlankP","testing",0
+"1761","bpt419","testpasstiles;BlankP","testing",1.85
+"1762","bpt419","testpasstiles;BlankP","testing",1.85
+"1763","bpt419","testpasstiles;BlankP","testing",1.85
+"1764","bpt419","testpasstiles;BlankP","testing",1.85
+"1765","bpt419","testpasstiles;BlankP","testing",1.85
+"1766","bpt419","testpasstiles;BlankP","testing",1.85
 "1767","bpt419","unknown;BlankPassTil","Successful Login",1.85
 "1768","bpt419","unknown;BlankPassTil","Successful Login",1.85
-"1769","bpt419","testpasstiles;BlankP","testing",0
-"1770","bpt419","testpasstiles;BlankP","testing",0
-"1771","bpt419","testpasstiles;BlankP","testing",0
-"1772","bpt419","testpasstiles;BlankP","testing",0
-"1773","bpt419","testpasstiles;BlankP","testing",0
-"1774","bpt419","testpasstiles;BlankP","testing",0
+"1769","bpt419","testpasstiles;BlankP","testing",1.85
+"1770","bpt419","testpasstiles;BlankP","testing",1.85
+"1771","bpt419","testpasstiles;BlankP","testing",1.85
+"1772","bpt419","testpasstiles;BlankP","testing",1.85
+"1773","bpt419","testpasstiles;BlankP","testing",1.85
+"1774","bpt419","testpasstiles;BlankP","testing",1.85
 "1775","bpt419","unknown;BlankPassTil","Successful Login",1.85
 "1776","bpt419","unknown;BlankPassTil","Successful Login",1.85
-"1777","bpt419","unknown;N/A","testing",0
-"1778","bpt419","unknown;N/A","testing",0
-"1779","bpt419","testpasstiles;BlankP","testing",0
-"1780","bpt419","testpasstiles;BlankP","testing",0
-"1781","bpt419","testpasstiles;BlankP","testing",0
-"1782","bpt419","testpasstiles;BlankP","testing",0
-"1783","bpt419","testpasstiles;BlankP","testing",0
+"1777","bpt419","unknown;N/A","testing",1.85
+"1778","bpt419","unknown;N/A","testing",1.85
+"1779","bpt419","testpasstiles;BlankP","testing",3.74
+"1780","bpt419","testpasstiles;BlankP","testing",3.74
+"1781","bpt419","testpasstiles;BlankP","testing",3.74
+"1782","bpt419","testpasstiles;BlankP","testing",3.74
+"1783","bpt419","testpasstiles;BlankP","testing",3.74
 "1784","bpt419","unknown;BlankPassTil","Successful Login",3.74
-"1785","bpt419","testpasstiles;BlankP","testing",0
+"1785","bpt419","testpasstiles;BlankP","testing",3.74
 "1786","bpt419","unknown;BlankPassTil","Successful Login",3.74
-"1787","bpt419","testpasstiles;BlankP","testing",0
-"1788","bpt419","testpasstiles;BlankP","testing",0
-"1789","bpt419","testpasstiles;BlankP","testing",0
-"1790","bpt419","testpasstiles;BlankP","testing",0
-"1791","bpt419","testpasstiles;BlankP","testing",0
-"1792","bpt419","testpasstiles;BlankP","testing",0
+"1787","bpt419","testpasstiles;BlankP","testing",3.74
+"1788","bpt419","testpasstiles;BlankP","testing",3.74
+"1789","bpt419","testpasstiles;BlankP","testing",3.74
+"1790","bpt419","testpasstiles;BlankP","testing",3.74
+"1791","bpt419","testpasstiles;BlankP","testing",3.74
+"1792","bpt419","testpasstiles;BlankP","testing",3.74
 "1793","bpt419","unknown;BlankPassTil","Successful Login",3.74
 "1794","bpt419","unknown;BlankPassTil","Successful Login",3.74
-"1795","bpt419","testpasstiles;BlankP","testing",0
-"1796","bpt419","testpasstiles;BlankP","testing",0
-"1797","bpt419","testpasstiles;BlankP","testing",0
-"1798","bpt419","testpasstiles;BlankP","testing",0
-"1799","bpt419","testpasstiles;BlankP","testing",0
-"1800","bpt419","testpasstiles;BlankP","testing",0
+"1795","bpt419","testpasstiles;BlankP","testing",3.74
+"1796","bpt419","testpasstiles;BlankP","testing",3.74
+"1797","bpt419","testpasstiles;BlankP","testing",3.74
+"1798","bpt419","testpasstiles;BlankP","testing",3.74
+"1799","bpt419","testpasstiles;BlankP","testing",3.74
+"1800","bpt419","testpasstiles;BlankP","testing",3.74
 "1801","bpt419","unknown;BlankPassTil","Successful Login",3.74
 "1802","bpt419","unknown;BlankPassTil","Successful Login",3.74
-"1803","bpt419","unknown;N/A","testing",0
-"1804","bpt419","unknown;N/A","testing",0
-"1805","bpt419","testpasstiles;BlankP","testing",0
-"1806","bpt419","testpasstiles;BlankP","testing",0
-"1807","bpt419","testpasstiles;BlankP","testing",0
-"1808","bpt419","testpasstiles;BlankP","testing",0
-"1809","bpt419","testpasstiles;BlankP","testing",0
-"1810","bpt419","testpasstiles;BlankP","testing",0
+"1803","bpt419","unknown;N/A","testing",3.75
+"1804","bpt419","unknown;N/A","testing",3.75
+"1805","bpt419","testpasstiles;BlankP","testing",7.16
+"1806","bpt419","testpasstiles;BlankP","testing",7.16
+"1807","bpt419","testpasstiles;BlankP","testing",7.16
+"1808","bpt419","testpasstiles;BlankP","testing",7.16
+"1809","bpt419","testpasstiles;BlankP","testing",7.16
+"1810","bpt419","testpasstiles;BlankP","testing",7.16
 "1811","bpt419","unknown;BlankPassTil","Successful Login",7.16
 "1812","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1813","bpt419","testpasstiles;BlankP","testing",0
-"1814","bpt419","testpasstiles;BlankP","testing",0
-"1815","bpt419","testpasstiles;BlankP","testing",0
-"1816","bpt419","testpasstiles;BlankP","testing",0
-"1817","bpt419","testpasstiles;BlankP","testing",0
+"1813","bpt419","testpasstiles;BlankP","testing",7.16
+"1814","bpt419","testpasstiles;BlankP","testing",7.16
+"1815","bpt419","testpasstiles;BlankP","testing",7.16
+"1816","bpt419","testpasstiles;BlankP","testing",7.16
+"1817","bpt419","testpasstiles;BlankP","testing",7.16
 "1818","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1819","bpt419","testpasstiles;BlankP","testing",0
+"1819","bpt419","testpasstiles;BlankP","testing",7.16
 "1820","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1821","bpt419","testpasstiles;BlankP","testing",0
-"1822","bpt419","testpasstiles;BlankP","testing",0
-"1823","bpt419","testpasstiles;BlankP","testing",0
-"1824","bpt419","testpasstiles;BlankP","testing",0
-"1825","bpt419","testpasstiles;BlankP","testing",0
-"1826","bpt419","testpasstiles;BlankP","testing",0
+"1821","bpt419","testpasstiles;BlankP","testing",7.16
+"1822","bpt419","testpasstiles;BlankP","testing",7.16
+"1823","bpt419","testpasstiles;BlankP","testing",7.16
+"1824","bpt419","testpasstiles;BlankP","testing",7.16
+"1825","bpt419","testpasstiles;BlankP","testing",7.16
+"1826","bpt419","testpasstiles;BlankP","testing",7.16
 "1827","bpt419","unknown;BlankPassTil","Successful Login",7.16
 "1828","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1829","bpt419","unknown;N/A","testing",0
-"1830","bpt419","unknown;N/A","testing",0
-"1831","bpt419","unknown;N/A","testing",0
-"1832","bpt419","unknown;N/A","testing",0
-"1833","bpt419","testpasstiles;BlankP","testing",0
-"1834","bpt419","testpasstiles;BlankP","testing",0
-"1835","bpt419","testpasstiles;BlankP","testing",0
-"1836","bpt419","testpasstiles;BlankP","testing",0
-"1837","bpt419","testpasstiles;BlankP","testing",0
-"1838","bpt419","testpasstiles;BlankP","testing",0
+"1829","bpt419","unknown;N/A","testing",7.16
+"1830","bpt419","unknown;N/A","testing",7.16
+"1831","bpt419","unknown;N/A","testing",7.16
+"1832","bpt419","unknown;N/A","testing",7.16
+"1833","bpt419","testpasstiles;BlankP","testing",7.16
+"1834","bpt419","testpasstiles;BlankP","testing",7.16
+"1835","bpt419","testpasstiles;BlankP","testing",7.16
+"1836","bpt419","testpasstiles;BlankP","testing",7.16
+"1837","bpt419","testpasstiles;BlankP","testing",7.16
+"1838","bpt419","testpasstiles;BlankP","testing",7.16
 "1839","bpt419","unknown;BlankPassTil","Successful Login",7.16
 "1840","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1841","bpt419","testpasstiles;BlankP","testing",0
-"1842","bpt419","testpasstiles;BlankP","testing",0
-"1843","bpt419","testpasstiles;BlankP","testing",0
-"1844","bpt419","testpasstiles;BlankP","testing",0
-"1845","bpt419","testpasstiles;BlankP","testing",0
+"1841","bpt419","testpasstiles;BlankP","testing",7.16
+"1842","bpt419","testpasstiles;BlankP","testing",7.16
+"1843","bpt419","testpasstiles;BlankP","testing",7.16
+"1844","bpt419","testpasstiles;BlankP","testing",7.16
+"1845","bpt419","testpasstiles;BlankP","testing",7.16
 "1846","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1847","bpt419","testpasstiles;BlankP","testing",0
+"1847","bpt419","testpasstiles;BlankP","testing",7.16
 "1848","bpt419","unknown;BlankPassTil","Successful Login",7.16
-"1849","bpt419","testpasstiles;BlankP","testing",0
-"1850","bpt419","testpasstiles;BlankP","testing",0
-"1851","bpt419","testpasstiles;BlankP","testing",0
-"1852","bpt419","testpasstiles;BlankP","testing",0
-"1853","bpt419","testpasstiles;BlankP","testing",0
-"1854","bpt419","testpasstiles;BlankP","testing",0
-"1855","bpt419","testpasstiles;BlankP","testing",0
-"1856","bpt419","testpasstiles;BlankP","testing",0
-"1857","bpt419","testpasstiles;BlankP","testing",0
-"1858","bpt419","testpasstiles;BlankP","testing",0
+"1849","bpt419","testpasstiles;BlankP","testing",7.16
+"1850","bpt419","testpasstiles;BlankP","testing",7.16
+"1851","bpt419","testpasstiles;BlankP","testing",7.17
+"1852","bpt419","testpasstiles;BlankP","testing",7.17
+"1853","bpt419","testpasstiles;BlankP","testing",7.17
+"1854","bpt419","testpasstiles;BlankP","testing",7.17
+"1855","bpt419","testpasstiles;BlankP","testing",7.17
+"1856","bpt419","testpasstiles;BlankP","testing",7.17
+"1857","bpt419","testpasstiles;BlankP","testing",7.17
+"1858","bpt419","testpasstiles;BlankP","testing",7.17
 "1859","bpt419","unknown;BlankPassTil","Successful Login",7.17
 "1860","bpt419","unknown;BlankPassTil","Successful Login",7.17
-"1861","bpt419","unknown;N/A","testing",0
-"1862","bpt419","unknown;N/A","testing",0
-"1863","bpt419","unknown;N/A","testing",0
-"1864","bpt419","unknown;N/A","testing",0
-"1865","bpt422","unknown;N/A","testing",0
-"1866","bpt422","unknown;N/A","testing",0
+"1861","bpt419","unknown;N/A","testing",7.17
+"1862","bpt419","unknown;N/A","testing",7.17
+"1863","bpt419","unknown;N/A","testing",7.17
+"1864","bpt419","unknown;N/A","testing",7.17
+"1865","bpt422","unknown;N/A","testing",0.08
+"1866","bpt422","unknown;N/A","testing",0.08
 "1867","bpt422","testpasstiles;BlankP","Created Password",0
 "1868","bpt422","testpasstiles;BlankP","Created Password",0
 "1869","bpt422","testpasstiles;BlankP","Created Password",0
@@ -2017,204 +2017,204 @@
 "2016","bpt422","testpasstiles;BlankP","testing",0
 "2017","bpt422","unknown;BlankPassTil","Successful Login",0
 "2018","bpt422","unknown;BlankPassTil","Successful Login",0
-"2019","bpt422","unknown;N/A","testing",0
-"2020","bpt422","unknown;N/A","testing",0
-"2021","bpt422","unknown;N/A","testing",0
-"2022","bpt422","unknown;N/A","testing",0
-"2023","bpt422","testpasstiles;BlankP","testing",0
-"2024","bpt422","testpasstiles;BlankP","testing",0
-"2025","bpt422","testpasstiles;BlankP","testing",0
-"2026","bpt422","testpasstiles;BlankP","testing",0
-"2027","bpt422","testpasstiles;BlankP","testing",0
-"2028","bpt422","testpasstiles;BlankP","testing",0
+"2019","bpt422","unknown;N/A","testing",0.01
+"2020","bpt422","unknown;N/A","testing",0.01
+"2021","bpt422","unknown;N/A","testing",0.01
+"2022","bpt422","unknown;N/A","testing",0.01
+"2023","bpt422","testpasstiles;BlankP","testing",1.58
+"2024","bpt422","testpasstiles;BlankP","testing",1.58
+"2025","bpt422","testpasstiles;BlankP","testing",1.59
+"2026","bpt422","testpasstiles;BlankP","testing",1.59
+"2027","bpt422","testpasstiles;BlankP","testing",1.59
+"2028","bpt422","testpasstiles;BlankP","testing",1.59
 "2029","bpt422","unknown;BlankPassTil","Successful Login",1.59
 "2030","bpt422","unknown;BlankPassTil","Successful Login",1.59
-"2031","bpt422","testpasstiles;BlankP","testing",0
-"2032","bpt422","testpasstiles;BlankP","testing",0
-"2033","bpt422","testpasstiles;BlankP","testing",0
-"2034","bpt422","testpasstiles;BlankP","testing",0
-"2035","bpt422","testpasstiles;BlankP","testing",0
-"2036","bpt422","testpasstiles;BlankP","testing",0
+"2031","bpt422","testpasstiles;BlankP","testing",1.59
+"2032","bpt422","testpasstiles;BlankP","testing",1.59
+"2033","bpt422","testpasstiles;BlankP","testing",1.59
+"2034","bpt422","testpasstiles;BlankP","testing",1.59
+"2035","bpt422","testpasstiles;BlankP","testing",1.59
+"2036","bpt422","testpasstiles;BlankP","testing",1.59
 "2037","bpt422","unknown;BlankPassTil","Failed Login",1.59
 "2038","bpt422","unknown;BlankPassTil","Failed Login",1.59
-"2039","bpt422","testpasstiles;BlankP","testing",0
-"2040","bpt422","testpasstiles;BlankP","testing",0
-"2041","bpt422","testpasstiles;BlankP","testing",0
-"2042","bpt422","testpasstiles;BlankP","testing",0
-"2043","bpt422","testpasstiles;BlankP","testing",0
-"2044","bpt422","testpasstiles;BlankP","testing",0
-"2045","bpt422","testpasstiles;BlankP","testing",0
-"2046","bpt422","testpasstiles;BlankP","testing",0
-"2047","bpt422","testpasstiles;BlankP","testing",0
-"2048","bpt422","testpasstiles;BlankP","testing",0
+"2039","bpt422","testpasstiles;BlankP","testing",1.59
+"2040","bpt422","testpasstiles;BlankP","testing",1.59
+"2041","bpt422","testpasstiles;BlankP","testing",1.59
+"2042","bpt422","testpasstiles;BlankP","testing",1.59
+"2043","bpt422","testpasstiles;BlankP","testing",1.6
+"2044","bpt422","testpasstiles;BlankP","testing",1.6
+"2045","bpt422","testpasstiles;BlankP","testing",1.6
+"2046","bpt422","testpasstiles;BlankP","testing",1.6
+"2047","bpt422","testpasstiles;BlankP","testing",1.6
+"2048","bpt422","testpasstiles;BlankP","testing",1.6
 "2049","bpt422","unknown;BlankPassTil","Successful Login",1.6
 "2050","bpt422","unknown;BlankPassTil","Successful Login",1.6
-"2051","bpt422","testpasstiles;BlankP","testing",0
-"2052","bpt422","testpasstiles;BlankP","testing",0
-"2053","bpt422","testpasstiles;BlankP","testing",0
-"2054","bpt422","testpasstiles;BlankP","testing",0
+"2051","bpt422","testpasstiles;BlankP","testing",1.6
+"2052","bpt422","testpasstiles;BlankP","testing",1.6
+"2053","bpt422","testpasstiles;BlankP","testing",1.6
+"2054","bpt422","testpasstiles;BlankP","testing",1.6
 "2055","bpt422","unknown;BlankPassTil","Failed Login",1.6
 "2056","bpt422","unknown;BlankPassTil","Failed Login",1.6
-"2057","bpt422","testpasstiles;BlankP","testing",0
-"2058","bpt422","testpasstiles;BlankP","testing",0
-"2059","bpt422","testpasstiles;BlankP","testing",0
-"2060","bpt422","testpasstiles;BlankP","testing",0
-"2061","bpt422","testpasstiles;BlankP","testing",0
-"2062","bpt422","testpasstiles;BlankP","testing",0
+"2057","bpt422","testpasstiles;BlankP","testing",1.6
+"2058","bpt422","testpasstiles;BlankP","testing",1.6
+"2059","bpt422","testpasstiles;BlankP","testing",1.6
+"2060","bpt422","testpasstiles;BlankP","testing",1.6
+"2061","bpt422","testpasstiles;BlankP","testing",1.6
+"2062","bpt422","testpasstiles;BlankP","testing",1.6
 "2063","bpt422","unknown;BlankPassTil","Failed Login",1.6
 "2064","bpt422","unknown;BlankPassTil","Failed Login",1.6
-"2065","bpt422","testpasstiles;BlankP","testing",0
-"2066","bpt422","testpasstiles;BlankP","testing",0
-"2067","bpt422","testpasstiles;BlankP","testing",0
-"2068","bpt422","testpasstiles;BlankP","testing",0
-"2069","bpt422","testpasstiles;BlankP","testing",0
-"2070","bpt422","testpasstiles;BlankP","testing",0
+"2065","bpt422","testpasstiles;BlankP","testing",1.6
+"2066","bpt422","testpasstiles;BlankP","testing",1.6
+"2067","bpt422","testpasstiles;BlankP","testing",1.6
+"2068","bpt422","testpasstiles;BlankP","testing",1.6
+"2069","bpt422","testpasstiles;BlankP","testing",1.6
+"2070","bpt422","testpasstiles;BlankP","testing",1.6
 "2071","bpt422","unknown;BlankPassTil","Successful Login",1.6
 "2072","bpt422","unknown;BlankPassTil","Successful Login",1.6
-"2073","bpt422","unknown;N/A","testing",0
-"2074","bpt422","unknown;N/A","testing",0
-"2075","bpt422","unknown;N/A","testing",0
-"2076","bpt422","unknown;N/A","testing",0
-"2077","bpt422","unknown;N/A","testing",0
-"2078","bpt422","unknown;N/A","testing",0
-"2079","bpt422","unknown;N/A","testing",0
-"2080","bpt422","unknown;N/A","testing",0
-"2081","bpt422","unknown;N/A","testing",0
-"2082","bpt422","unknown;N/A","testing",0
-"2083","bpt422","unknown;N/A","testing",0
-"2084","bpt422","unknown;N/A","testing",0
-"2085","bpt422","unknown;N/A","testing",0
-"2086","bpt422","unknown;N/A","testing",0
-"2087","bpt422","unknown;N/A","testing",0
-"2088","bpt422","unknown;N/A","testing",0
-"2089","bpt422","unknown;N/A","testing",0
-"2090","bpt422","unknown;N/A","testing",0
-"2091","bpt422","unknown;N/A","testing",0
-"2092","bpt422","unknown;N/A","testing",0
-"2093","bpt422","unknown;N/A","testing",0
-"2094","bpt422","unknown;N/A","testing",0
-"2095","bpt422","unknown;N/A","testing",0
-"2096","bpt422","unknown;N/A","testing",0
-"2097","bpt422","unknown;N/A","testing",0
-"2098","bpt422","unknown;N/A","testing",0
-"2099","bpt422","unknown;N/A","testing",0
-"2100","bpt422","unknown;N/A","testing",0
-"2101","bpt422","unknown;N/A","testing",0
-"2102","bpt422","unknown;N/A","testing",0
-"2103","bpt422","unknown;N/A","testing",0
-"2104","bpt422","unknown;N/A","testing",0
-"2105","bpt422","unknown;N/A","testing",0
-"2106","bpt422","unknown;N/A","testing",0
-"2107","bpt422","unknown;N/A","testing",0
-"2108","bpt422","unknown;N/A","testing",0
-"2109","bpt422","unknown;N/A","testing",0
-"2110","bpt422","unknown;N/A","testing",0
-"2111","bpt422","unknown;N/A","testing",0
-"2112","bpt422","unknown;N/A","testing",0
-"2113","bpt422","unknown;N/A","testing",0
-"2114","bpt422","unknown;N/A","testing",0
-"2115","bpt422","unknown;N/A","testing",0
-"2116","bpt422","unknown;N/A","testing",0
-"2117","bpt422","testpasstiles;BlankP","testing",0
-"2118","bpt422","testpasstiles;BlankP","testing",0
-"2119","bpt422","testpasstiles;BlankP","testing",0
-"2120","bpt422","testpasstiles;BlankP","testing",0
-"2121","bpt422","testpasstiles;BlankP","testing",0
-"2122","bpt422","testpasstiles;BlankP","testing",0
+"2073","bpt422","unknown;N/A","testing",1.6
+"2074","bpt422","unknown;N/A","testing",1.6
+"2075","bpt422","unknown;N/A","testing",1.6
+"2076","bpt422","unknown;N/A","testing",1.6
+"2077","bpt422","unknown;N/A","testing",1.61
+"2078","bpt422","unknown;N/A","testing",1.61
+"2079","bpt422","unknown;N/A","testing",1.61
+"2080","bpt422","unknown;N/A","testing",1.61
+"2081","bpt422","unknown;N/A","testing",1.61
+"2082","bpt422","unknown;N/A","testing",1.61
+"2083","bpt422","unknown;N/A","testing",1.61
+"2084","bpt422","unknown;N/A","testing",1.61
+"2085","bpt422","unknown;N/A","testing",1.61
+"2086","bpt422","unknown;N/A","testing",1.61
+"2087","bpt422","unknown;N/A","testing",1.61
+"2088","bpt422","unknown;N/A","testing",1.61
+"2089","bpt422","unknown;N/A","testing",1.61
+"2090","bpt422","unknown;N/A","testing",1.61
+"2091","bpt422","unknown;N/A","testing",1.61
+"2092","bpt422","unknown;N/A","testing",1.61
+"2093","bpt422","unknown;N/A","testing",1.61
+"2094","bpt422","unknown;N/A","testing",1.61
+"2095","bpt422","unknown;N/A","testing",1.61
+"2096","bpt422","unknown;N/A","testing",1.61
+"2097","bpt422","unknown;N/A","testing",1.61
+"2098","bpt422","unknown;N/A","testing",1.61
+"2099","bpt422","unknown;N/A","testing",1.61
+"2100","bpt422","unknown;N/A","testing",1.61
+"2101","bpt422","unknown;N/A","testing",1.61
+"2102","bpt422","unknown;N/A","testing",1.61
+"2103","bpt422","unknown;N/A","testing",1.61
+"2104","bpt422","unknown;N/A","testing",1.61
+"2105","bpt422","unknown;N/A","testing",1.61
+"2106","bpt422","unknown;N/A","testing",1.61
+"2107","bpt422","unknown;N/A","testing",1.61
+"2108","bpt422","unknown;N/A","testing",1.61
+"2109","bpt422","unknown;N/A","testing",1.69
+"2110","bpt422","unknown;N/A","testing",1.69
+"2111","bpt422","unknown;N/A","testing",1.69
+"2112","bpt422","unknown;N/A","testing",1.69
+"2113","bpt422","unknown;N/A","testing",3.38
+"2114","bpt422","unknown;N/A","testing",3.38
+"2115","bpt422","unknown;N/A","testing",3.38
+"2116","bpt422","unknown;N/A","testing",3.38
+"2117","bpt422","testpasstiles;BlankP","testing",3.4
+"2118","bpt422","testpasstiles;BlankP","testing",3.4
+"2119","bpt422","testpasstiles;BlankP","testing",3.4
+"2120","bpt422","testpasstiles;BlankP","testing",3.4
+"2121","bpt422","testpasstiles;BlankP","testing",3.4
+"2122","bpt422","testpasstiles;BlankP","testing",3.4
 "2123","bpt422","unknown;BlankPassTil","Successful Login",3.4
 "2124","bpt422","unknown;BlankPassTil","Successful Login",3.4
-"2125","bpt422","testpasstiles;BlankP","testing",0
-"2126","bpt422","testpasstiles;BlankP","testing",0
-"2127","bpt422","testpasstiles;BlankP","testing",0
-"2128","bpt422","testpasstiles;BlankP","testing",0
-"2129","bpt422","testpasstiles;BlankP","testing",0
-"2130","bpt422","testpasstiles;BlankP","testing",0
+"2125","bpt422","testpasstiles;BlankP","testing",3.4
+"2126","bpt422","testpasstiles;BlankP","testing",3.4
+"2127","bpt422","testpasstiles;BlankP","testing",3.4
+"2128","bpt422","testpasstiles;BlankP","testing",3.4
+"2129","bpt422","testpasstiles;BlankP","testing",3.4
+"2130","bpt422","testpasstiles;BlankP","testing",3.4
 "2131","bpt422","unknown;BlankPassTil","Successful Login",3.4
 "2132","bpt422","unknown;BlankPassTil","Successful Login",3.4
-"2133","bpt422","testpasstiles;BlankP","testing",0
-"2134","bpt422","testpasstiles;BlankP","testing",0
-"2135","bpt422","testpasstiles;BlankP","testing",0
-"2136","bpt422","testpasstiles;BlankP","testing",0
-"2137","bpt422","testpasstiles;BlankP","testing",0
-"2138","bpt422","testpasstiles;BlankP","testing",0
+"2133","bpt422","testpasstiles;BlankP","testing",3.4
+"2134","bpt422","testpasstiles;BlankP","testing",3.4
+"2135","bpt422","testpasstiles;BlankP","testing",3.4
+"2136","bpt422","testpasstiles;BlankP","testing",3.4
+"2137","bpt422","testpasstiles;BlankP","testing",3.4
+"2138","bpt422","testpasstiles;BlankP","testing",3.4
 "2139","bpt422","unknown;BlankPassTil","Failed Login",3.4
 "2140","bpt422","unknown;BlankPassTil","Failed Login",3.4
-"2141","bpt422","testpasstiles;BlankP","testing",0
-"2142","bpt422","testpasstiles;BlankP","testing",0
-"2143","bpt422","testpasstiles;BlankP","testing",0
-"2144","bpt422","testpasstiles;BlankP","testing",0
-"2145","bpt422","testpasstiles;BlankP","testing",0
-"2146","bpt422","testpasstiles;BlankP","testing",0
+"2141","bpt422","testpasstiles;BlankP","testing",3.41
+"2142","bpt422","testpasstiles;BlankP","testing",3.41
+"2143","bpt422","testpasstiles;BlankP","testing",3.41
+"2144","bpt422","testpasstiles;BlankP","testing",3.41
+"2145","bpt422","testpasstiles;BlankP","testing",3.41
+"2146","bpt422","testpasstiles;BlankP","testing",3.41
 "2147","bpt422","unknown;BlankPassTil","Successful Login",3.41
 "2148","bpt422","unknown;BlankPassTil","Successful Login",3.41
-"2149","bpt422","unknown;N/A","testing",0
-"2150","bpt422","unknown;N/A","testing",0
-"2151","bpt422","testpasstiles;BlankP","testing",0
-"2152","bpt422","testpasstiles;BlankP","testing",0
-"2153","bpt422","testpasstiles;BlankP","testing",0
-"2154","bpt422","testpasstiles;BlankP","testing",0
-"2155","bpt422","testpasstiles;BlankP","testing",0
+"2149","bpt422","unknown;N/A","testing",3.41
+"2150","bpt422","unknown;N/A","testing",3.41
+"2151","bpt422","testpasstiles;BlankP","testing",8.66
+"2152","bpt422","testpasstiles;BlankP","testing",8.66
+"2153","bpt422","testpasstiles;BlankP","testing",8.67
+"2154","bpt422","testpasstiles;BlankP","testing",8.67
+"2155","bpt422","testpasstiles;BlankP","testing",8.67
 "2156","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2157","bpt422","testpasstiles;BlankP","testing",0
+"2157","bpt422","testpasstiles;BlankP","testing",8.67
 "2158","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2159","bpt422","testpasstiles;BlankP","testing",0
-"2160","bpt422","testpasstiles;BlankP","testing",0
-"2161","bpt422","testpasstiles;BlankP","testing",0
-"2162","bpt422","testpasstiles;BlankP","testing",0
+"2159","bpt422","testpasstiles;BlankP","testing",8.67
+"2160","bpt422","testpasstiles;BlankP","testing",8.67
+"2161","bpt422","testpasstiles;BlankP","testing",8.67
+"2162","bpt422","testpasstiles;BlankP","testing",8.67
 "2163","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2164","bpt422","testpasstiles;BlankP","testing",0
-"2165","bpt422","testpasstiles;BlankP","testing",0
+"2164","bpt422","testpasstiles;BlankP","testing",8.67
+"2165","bpt422","testpasstiles;BlankP","testing",8.67
 "2166","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2167","bpt422","testpasstiles;BlankP","testing",0
-"2168","bpt422","testpasstiles;BlankP","testing",0
-"2169","bpt422","testpasstiles;BlankP","testing",0
-"2170","bpt422","testpasstiles;BlankP","testing",0
-"2171","bpt422","testpasstiles;BlankP","testing",0
+"2167","bpt422","testpasstiles;BlankP","testing",8.67
+"2168","bpt422","testpasstiles;BlankP","testing",8.67
+"2169","bpt422","testpasstiles;BlankP","testing",8.67
+"2170","bpt422","testpasstiles;BlankP","testing",8.67
+"2171","bpt422","testpasstiles;BlankP","testing",8.67
 "2172","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2173","bpt422","testpasstiles;BlankP","testing",0
+"2173","bpt422","testpasstiles;BlankP","testing",8.67
 "2174","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2175","bpt422","unknown;N/A","testing",0
-"2176","bpt422","unknown;N/A","testing",0
-"2177","bpt422","testpasstiles;BlankP","testing",0
-"2178","bpt422","testpasstiles;BlankP","testing",0
-"2179","bpt422","testpasstiles;BlankP","testing",0
-"2180","bpt422","testpasstiles;BlankP","testing",0
-"2181","bpt422","testpasstiles;BlankP","testing",0
+"2175","bpt422","unknown;N/A","testing",8.67
+"2176","bpt422","unknown;N/A","testing",8.67
+"2177","bpt422","testpasstiles;BlankP","testing",8.67
+"2178","bpt422","testpasstiles;BlankP","testing",8.67
+"2179","bpt422","testpasstiles;BlankP","testing",8.67
+"2180","bpt422","testpasstiles;BlankP","testing",8.67
+"2181","bpt422","testpasstiles;BlankP","testing",8.67
 "2182","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2183","bpt422","testpasstiles;BlankP","testing",0
+"2183","bpt422","testpasstiles;BlankP","testing",8.67
 "2184","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2185","bpt422","testpasstiles;BlankP","testing",0
-"2186","bpt422","testpasstiles;BlankP","testing",0
-"2187","bpt422","testpasstiles;BlankP","testing",0
-"2188","bpt422","testpasstiles;BlankP","testing",0
-"2189","bpt422","testpasstiles;BlankP","testing",0
-"2190","bpt422","testpasstiles;BlankP","testing",0
+"2185","bpt422","testpasstiles;BlankP","testing",8.67
+"2186","bpt422","testpasstiles;BlankP","testing",8.67
+"2187","bpt422","testpasstiles;BlankP","testing",8.67
+"2188","bpt422","testpasstiles;BlankP","testing",8.67
+"2189","bpt422","testpasstiles;BlankP","testing",8.67
+"2190","bpt422","testpasstiles;BlankP","testing",8.67
 "2191","bpt422","unknown;BlankPassTil","Successful Login",8.67
 "2192","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2193","bpt422","testpasstiles;BlankP","testing",0
-"2194","bpt422","testpasstiles;BlankP","testing",0
-"2195","bpt422","testpasstiles;BlankP","testing",0
-"2196","bpt422","testpasstiles;BlankP","testing",0
-"2197","bpt422","testpasstiles;BlankP","testing",0
+"2193","bpt422","testpasstiles;BlankP","testing",8.67
+"2194","bpt422","testpasstiles;BlankP","testing",8.67
+"2195","bpt422","testpasstiles;BlankP","testing",8.67
+"2196","bpt422","testpasstiles;BlankP","testing",8.67
+"2197","bpt422","testpasstiles;BlankP","testing",8.67
 "2198","bpt422","unknown;BlankPassTil","Failed Login",8.67
-"2199","bpt422","testpasstiles;BlankP","testing",0
+"2199","bpt422","testpasstiles;BlankP","testing",8.67
 "2200","bpt422","unknown;BlankPassTil","Failed Login",8.67
-"2201","bpt422","testpasstiles;BlankP","testing",0
-"2202","bpt422","testpasstiles;BlankP","testing",0
-"2203","bpt422","testpasstiles;BlankP","testing",0
-"2204","bpt422","testpasstiles;BlankP","testing",0
-"2205","bpt422","testpasstiles;BlankP","testing",0
-"2206","bpt422","testpasstiles;BlankP","testing",0
+"2201","bpt422","testpasstiles;BlankP","testing",8.67
+"2202","bpt422","testpasstiles;BlankP","testing",8.67
+"2203","bpt422","testpasstiles;BlankP","testing",8.67
+"2204","bpt422","testpasstiles;BlankP","testing",8.67
+"2205","bpt422","testpasstiles;BlankP","testing",8.67
+"2206","bpt422","testpasstiles;BlankP","testing",8.67
 "2207","bpt422","unknown;BlankPassTil","Successful Login",8.67
 "2208","bpt422","unknown;BlankPassTil","Successful Login",8.67
-"2209","bpt422","unknown;N/A","testing",0
-"2210","bpt422","unknown;N/A","testing",0
-"2211","bpt422","unknown;N/A","testing",0
-"2212","bpt422","unknown;N/A","testing",0
-"2213","bpt422","unknown;N/A","testing",0
-"2214","bpt422","unknown;N/A","testing",0
-"2215","bpt423","unknown;N/A","testing",0
-"2216","bpt423","unknown;N/A","testing",0
+"2209","bpt422","unknown;N/A","testing",8.67
+"2210","bpt422","unknown;N/A","testing",8.67
+"2211","bpt422","unknown;N/A","testing",8.68
+"2212","bpt422","unknown;N/A","testing",8.68
+"2213","bpt422","unknown;N/A","testing",8.68
+"2214","bpt422","unknown;N/A","testing",8.68
+"2215","bpt423","unknown;N/A","testing",0.01
+"2216","bpt423","unknown;N/A","testing",0.01
 "2217","bpt423","testpasstiles;BlankP","Created Password",0
 "2218","bpt423","testpasstiles;BlankP","Created Password",0
 "2219","bpt423","testpasstiles;BlankP","testing",0
@@ -2393,162 +2393,162 @@
 "2392","bpt423","testpasstiles;BlankP","testing",0
 "2393","bpt423","unknown;BlankPassTil","Successful Login",0
 "2394","bpt423","unknown;BlankPassTil","Successful Login",0
-"2395","bpt423","unknown;N/A","testing",0
-"2396","bpt423","unknown;N/A","testing",0
-"2397","bpt423","unknown;N/A","testing",0
-"2398","bpt423","unknown;N/A","testing",0
-"2399","bpt423","unknown;N/A","testing",0
-"2400","bpt423","unknown;N/A","testing",0
-"2401","bpt423","unknown;N/A","testing",0
-"2402","bpt423","unknown;N/A","testing",0
-"2403","bpt423","unknown;N/A","testing",0
-"2404","bpt423","unknown;N/A","testing",0
-"2405","bpt423","unknown;N/A","testing",0
-"2406","bpt423","unknown;N/A","testing",0
-"2407","bpt423","unknown;N/A","testing",0
-"2408","bpt423","unknown;N/A","testing",0
-"2409","bpt423","unknown;N/A","testing",0
-"2410","bpt423","unknown;N/A","testing",0
-"2411","bpt423","unknown;N/A","testing",0
-"2412","bpt423","unknown;N/A","testing",0
-"2413","bpt423","unknown;N/A","testing",0
-"2414","bpt423","unknown;N/A","testing",0
-"2415","bpt423","unknown;N/A","testing",0
-"2416","bpt423","unknown;N/A","testing",0
-"2417","bpt423","unknown;N/A","testing",0
-"2418","bpt423","unknown;N/A","testing",0
-"2419","bpt423","testpasstiles;BlankP","testing",0
-"2420","bpt423","testpasstiles;BlankP","testing",0
-"2421","bpt423","testpasstiles;BlankP","testing",0
-"2422","bpt423","testpasstiles;BlankP","testing",0
-"2423","bpt423","testpasstiles;BlankP","testing",0
-"2424","bpt423","testpasstiles;BlankP","testing",0
-"2425","bpt423","testpasstiles;BlankP","testing",0
-"2426","bpt423","testpasstiles;BlankP","testing",0
+"2395","bpt423","unknown;N/A","testing",0.01
+"2396","bpt423","unknown;N/A","testing",0.01
+"2397","bpt423","unknown;N/A","testing",0.01
+"2398","bpt423","unknown;N/A","testing",0.01
+"2399","bpt423","unknown;N/A","testing",0.01
+"2400","bpt423","unknown;N/A","testing",0.01
+"2401","bpt423","unknown;N/A","testing",0.18
+"2402","bpt423","unknown;N/A","testing",0.18
+"2403","bpt423","unknown;N/A","testing",0.18
+"2404","bpt423","unknown;N/A","testing",0.18
+"2405","bpt423","unknown;N/A","testing",0.18
+"2406","bpt423","unknown;N/A","testing",0.18
+"2407","bpt423","unknown;N/A","testing",0.18
+"2408","bpt423","unknown;N/A","testing",0.18
+"2409","bpt423","unknown;N/A","testing",0.18
+"2410","bpt423","unknown;N/A","testing",0.18
+"2411","bpt423","unknown;N/A","testing",0.18
+"2412","bpt423","unknown;N/A","testing",0.18
+"2413","bpt423","unknown;N/A","testing",0.18
+"2414","bpt423","unknown;N/A","testing",0.18
+"2415","bpt423","unknown;N/A","testing",0.19
+"2416","bpt423","unknown;N/A","testing",0.19
+"2417","bpt423","unknown;N/A","testing",3.08
+"2418","bpt423","unknown;N/A","testing",3.08
+"2419","bpt423","testpasstiles;BlankP","testing",3.08
+"2420","bpt423","testpasstiles;BlankP","testing",3.08
+"2421","bpt423","testpasstiles;BlankP","testing",3.12
+"2422","bpt423","testpasstiles;BlankP","testing",3.12
+"2423","bpt423","testpasstiles;BlankP","testing",3.12
+"2424","bpt423","testpasstiles;BlankP","testing",3.12
+"2425","bpt423","testpasstiles;BlankP","testing",3.12
+"2426","bpt423","testpasstiles;BlankP","testing",3.12
 "2427","bpt423","unknown;BlankPassTil","Successful Login",3.12
 "2428","bpt423","unknown;BlankPassTil","Successful Login",3.12
-"2429","bpt423","testpasstiles;BlankP","testing",0
-"2430","bpt423","testpasstiles;BlankP","testing",0
-"2431","bpt423","testpasstiles;BlankP","testing",0
-"2432","bpt423","testpasstiles;BlankP","testing",0
-"2433","bpt423","testpasstiles;BlankP","testing",0
+"2429","bpt423","testpasstiles;BlankP","testing",3.13
+"2430","bpt423","testpasstiles;BlankP","testing",3.13
+"2431","bpt423","testpasstiles;BlankP","testing",3.13
+"2432","bpt423","testpasstiles;BlankP","testing",3.13
+"2433","bpt423","testpasstiles;BlankP","testing",3.13
 "2434","bpt423","unknown;BlankPassTil","Failed Login",3.13
-"2435","bpt423","testpasstiles;BlankP","testing",0
+"2435","bpt423","testpasstiles;BlankP","testing",3.13
 "2436","bpt423","unknown;BlankPassTil","Failed Login",3.13
-"2437","bpt423","testpasstiles;BlankP","testing",0
-"2438","bpt423","testpasstiles;BlankP","testing",0
-"2439","bpt423","testpasstiles;BlankP","testing",0
-"2440","bpt423","testpasstiles;BlankP","testing",0
-"2441","bpt423","testpasstiles;BlankP","testing",0
+"2437","bpt423","testpasstiles;BlankP","testing",3.13
+"2438","bpt423","testpasstiles;BlankP","testing",3.13
+"2439","bpt423","testpasstiles;BlankP","testing",3.13
+"2440","bpt423","testpasstiles;BlankP","testing",3.13
+"2441","bpt423","testpasstiles;BlankP","testing",3.13
 "2442","bpt423","unknown;BlankPassTil","Failed Login",3.13
-"2443","bpt423","testpasstiles;BlankP","testing",0
+"2443","bpt423","testpasstiles;BlankP","testing",3.13
 "2444","bpt423","unknown;BlankPassTil","Failed Login",3.13
-"2445","bpt423","testpasstiles;BlankP","testing",0
-"2446","bpt423","testpasstiles;BlankP","testing",0
-"2447","bpt423","testpasstiles;BlankP","testing",0
-"2448","bpt423","testpasstiles;BlankP","testing",0
-"2449","bpt423","testpasstiles;BlankP","testing",0
-"2450","bpt423","testpasstiles;BlankP","testing",0
+"2445","bpt423","testpasstiles;BlankP","testing",3.13
+"2446","bpt423","testpasstiles;BlankP","testing",3.13
+"2447","bpt423","testpasstiles;BlankP","testing",3.13
+"2448","bpt423","testpasstiles;BlankP","testing",3.13
+"2449","bpt423","testpasstiles;BlankP","testing",3.13
+"2450","bpt423","testpasstiles;BlankP","testing",3.13
 "2451","bpt423","unknown;BlankPassTil","Successful Login",3.13
 "2452","bpt423","unknown;BlankPassTil","Successful Login",3.13
-"2453","bpt423","testpasstiles;BlankP","testing",0
-"2454","bpt423","testpasstiles;BlankP","testing",0
-"2455","bpt423","testpasstiles;BlankP","testing",0
-"2456","bpt423","testpasstiles;BlankP","testing",0
-"2457","bpt423","testpasstiles;BlankP","testing",0
-"2458","bpt423","testpasstiles;BlankP","testing",0
+"2453","bpt423","testpasstiles;BlankP","testing",3.13
+"2454","bpt423","testpasstiles;BlankP","testing",3.13
+"2455","bpt423","testpasstiles;BlankP","testing",3.13
+"2456","bpt423","testpasstiles;BlankP","testing",3.13
+"2457","bpt423","testpasstiles;BlankP","testing",3.13
+"2458","bpt423","testpasstiles;BlankP","testing",3.13
 "2459","bpt423","unknown;BlankPassTil","Successful Login",3.13
 "2460","bpt423","unknown;BlankPassTil","Successful Login",3.13
-"2461","bpt423","unknown;N/A","testing",0
-"2462","bpt423","unknown;N/A","testing",0
-"2463","bpt423","unknown;N/A","testing",0
-"2464","bpt423","unknown;N/A","testing",0
-"2465","bpt423","unknown;N/A","testing",0
-"2466","bpt423","unknown;N/A","testing",0
-"2467","bpt423","testpasstiles;BlankP","testing",0
-"2468","bpt423","testpasstiles;BlankP","testing",0
-"2469","bpt423","testpasstiles;BlankP","testing",0
-"2470","bpt423","testpasstiles;BlankP","testing",0
-"2471","bpt423","testpasstiles;BlankP","testing",0
-"2472","bpt423","testpasstiles;BlankP","testing",0
-"2473","bpt423","testpasstiles;BlankP","testing",0
-"2474","bpt423","testpasstiles;BlankP","testing",0
-"2475","bpt423","testpasstiles;BlankP","testing",0
-"2476","bpt423","testpasstiles;BlankP","testing",0
+"2461","bpt423","unknown;N/A","testing",3.13
+"2462","bpt423","unknown;N/A","testing",3.13
+"2463","bpt423","unknown;N/A","testing",3.13
+"2464","bpt423","unknown;N/A","testing",3.13
+"2465","bpt423","unknown;N/A","testing",3.13
+"2466","bpt423","unknown;N/A","testing",3.13
+"2467","bpt423","testpasstiles;BlankP","testing",6.01
+"2468","bpt423","testpasstiles;BlankP","testing",6.01
+"2469","bpt423","testpasstiles;BlankP","testing",6.01
+"2470","bpt423","testpasstiles;BlankP","testing",6.01
+"2471","bpt423","testpasstiles;BlankP","testing",6.01
+"2472","bpt423","testpasstiles;BlankP","testing",6.01
+"2473","bpt423","testpasstiles;BlankP","testing",6.01
+"2474","bpt423","testpasstiles;BlankP","testing",6.01
+"2475","bpt423","testpasstiles;BlankP","testing",6.01
+"2476","bpt423","testpasstiles;BlankP","testing",6.01
 "2477","bpt423","unknown;BlankPassTil","Failed Login",6.01
 "2478","bpt423","unknown;BlankPassTil","Failed Login",6.01
-"2479","bpt423","testpasstiles;BlankP","testing",0
-"2480","bpt423","testpasstiles;BlankP","testing",0
-"2481","bpt423","testpasstiles;BlankP","testing",0
-"2482","bpt423","testpasstiles;BlankP","testing",0
-"2483","bpt423","testpasstiles;BlankP","testing",0
-"2484","bpt423","testpasstiles;BlankP","testing",0
+"2479","bpt423","testpasstiles;BlankP","testing",6.01
+"2480","bpt423","testpasstiles;BlankP","testing",6.01
+"2481","bpt423","testpasstiles;BlankP","testing",6.01
+"2482","bpt423","testpasstiles;BlankP","testing",6.01
+"2483","bpt423","testpasstiles;BlankP","testing",6.01
+"2484","bpt423","testpasstiles;BlankP","testing",6.01
 "2485","bpt423","unknown;BlankPassTil","Successful Login",6.01
 "2486","bpt423","unknown;BlankPassTil","Successful Login",6.01
-"2487","bpt423","testpasstiles;BlankP","testing",0
-"2488","bpt423","testpasstiles;BlankP","testing",0
-"2489","bpt423","testpasstiles;BlankP","testing",0
-"2490","bpt423","testpasstiles;BlankP","testing",0
-"2491","bpt423","testpasstiles;BlankP","testing",0
-"2492","bpt423","testpasstiles;BlankP","testing",0
+"2487","bpt423","testpasstiles;BlankP","testing",6.01
+"2488","bpt423","testpasstiles;BlankP","testing",6.01
+"2489","bpt423","testpasstiles;BlankP","testing",6.01
+"2490","bpt423","testpasstiles;BlankP","testing",6.01
+"2491","bpt423","testpasstiles;BlankP","testing",6.01
+"2492","bpt423","testpasstiles;BlankP","testing",6.01
 "2493","bpt423","unknown;BlankPassTil","Successful Login",6.01
 "2494","bpt423","unknown;BlankPassTil","Successful Login",6.01
-"2495","bpt423","testpasstiles;BlankP","testing",0
-"2496","bpt423","testpasstiles;BlankP","testing",0
-"2497","bpt423","testpasstiles;BlankP","testing",0
-"2498","bpt423","testpasstiles;BlankP","testing",0
-"2499","bpt423","testpasstiles;BlankP","testing",0
-"2500","bpt423","testpasstiles;BlankP","testing",0
+"2495","bpt423","testpasstiles;BlankP","testing",6.01
+"2496","bpt423","testpasstiles;BlankP","testing",6.01
+"2497","bpt423","testpasstiles;BlankP","testing",6.01
+"2498","bpt423","testpasstiles;BlankP","testing",6.01
+"2499","bpt423","testpasstiles;BlankP","testing",6.01
+"2500","bpt423","testpasstiles;BlankP","testing",6.01
 "2501","bpt423","unknown;BlankPassTil","Successful Login",6.01
 "2502","bpt423","unknown;BlankPassTil","Successful Login",6.01
-"2503","bpt423","unknown;N/A","testing",0
-"2504","bpt423","unknown;N/A","testing",0
-"2505","bpt423","unknown;N/A","testing",0
-"2506","bpt423","unknown;N/A","testing",0
-"2507","bpt423","testpasstiles;BlankP","testing",0
-"2508","bpt423","testpasstiles;BlankP","testing",0
-"2509","bpt423","testpasstiles;BlankP","testing",0
-"2510","bpt423","testpasstiles;BlankP","testing",0
-"2511","bpt423","testpasstiles;BlankP","testing",0
-"2512","bpt423","testpasstiles;BlankP","testing",0
+"2503","bpt423","unknown;N/A","testing",6.01
+"2504","bpt423","unknown;N/A","testing",6.01
+"2505","bpt423","unknown;N/A","testing",7.01
+"2506","bpt423","unknown;N/A","testing",7.01
+"2507","bpt423","testpasstiles;BlankP","testing",7.01
+"2508","bpt423","testpasstiles;BlankP","testing",7.01
+"2509","bpt423","testpasstiles;BlankP","testing",7.01
+"2510","bpt423","testpasstiles;BlankP","testing",7.01
+"2511","bpt423","testpasstiles;BlankP","testing",7.01
+"2512","bpt423","testpasstiles;BlankP","testing",7.01
 "2513","bpt423","unknown;BlankPassTil","Failed Login",7.01
 "2514","bpt423","unknown;BlankPassTil","Failed Login",7.01
-"2515","bpt423","testpasstiles;BlankP","testing",0
-"2516","bpt423","testpasstiles;BlankP","testing",0
-"2517","bpt423","testpasstiles;BlankP","testing",0
-"2518","bpt423","testpasstiles;BlankP","testing",0
+"2515","bpt423","testpasstiles;BlankP","testing",7.01
+"2516","bpt423","testpasstiles;BlankP","testing",7.01
+"2517","bpt423","testpasstiles;BlankP","testing",7.01
+"2518","bpt423","testpasstiles;BlankP","testing",7.01
 "2519","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2520","bpt423","testpasstiles;BlankP","testing",0
-"2521","bpt423","testpasstiles;BlankP","testing",0
+"2520","bpt423","testpasstiles;BlankP","testing",7.01
+"2521","bpt423","testpasstiles;BlankP","testing",7.01
 "2522","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2523","bpt423","testpasstiles;BlankP","testing",0
-"2524","bpt423","testpasstiles;BlankP","testing",0
-"2525","bpt423","testpasstiles;BlankP","testing",0
-"2526","bpt423","testpasstiles;BlankP","testing",0
-"2527","bpt423","testpasstiles;BlankP","testing",0
+"2523","bpt423","testpasstiles;BlankP","testing",7.01
+"2524","bpt423","testpasstiles;BlankP","testing",7.01
+"2525","bpt423","testpasstiles;BlankP","testing",7.01
+"2526","bpt423","testpasstiles;BlankP","testing",7.01
+"2527","bpt423","testpasstiles;BlankP","testing",7.01
 "2528","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2529","bpt423","testpasstiles;BlankP","testing",0
+"2529","bpt423","testpasstiles;BlankP","testing",7.01
 "2530","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2531","bpt423","testpasstiles;BlankP","testing",0
-"2532","bpt423","testpasstiles;BlankP","testing",0
-"2533","bpt423","testpasstiles;BlankP","testing",0
-"2534","bpt423","testpasstiles;BlankP","testing",0
-"2535","bpt423","testpasstiles;BlankP","testing",0
+"2531","bpt423","testpasstiles;BlankP","testing",7.01
+"2532","bpt423","testpasstiles;BlankP","testing",7.01
+"2533","bpt423","testpasstiles;BlankP","testing",7.01
+"2534","bpt423","testpasstiles;BlankP","testing",7.01
+"2535","bpt423","testpasstiles;BlankP","testing",7.01
 "2536","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2537","bpt423","testpasstiles;BlankP","testing",0
+"2537","bpt423","testpasstiles;BlankP","testing",7.01
 "2538","bpt423","unknown;BlankPassTil","Successful Login",7.01
-"2539","bpt423","unknown;N/A","testing",0
-"2540","bpt423","unknown;N/A","testing",0
-"2541","bpt423","unknown;N/A","testing",0
-"2542","bpt423","unknown;N/A","testing",0
-"2543","bpt423","unknown;N/A","testing",0
-"2544","bpt423","unknown;N/A","testing",0
-"2545","bpt423","unknown;N/A","testing",0
-"2546","bpt423","unknown;N/A","testing",0
-"2547","bpt423","unknown;N/A","testing",0
-"2548","bpt423","unknown;N/A","testing",0
-"2549","bpt424","unknown;N/A","testing",0
-"2550","bpt424","unknown;N/A","testing",0
+"2539","bpt423","unknown;N/A","testing",7.02
+"2540","bpt423","unknown;N/A","testing",7.02
+"2541","bpt423","unknown;N/A","testing",7.02
+"2542","bpt423","unknown;N/A","testing",7.02
+"2543","bpt423","unknown;N/A","testing",7.02
+"2544","bpt423","unknown;N/A","testing",7.02
+"2545","bpt423","unknown;N/A","testing",11.54
+"2546","bpt423","unknown;N/A","testing",11.54
+"2547","bpt423","unknown;N/A","testing",11.54
+"2548","bpt423","unknown;N/A","testing",11.54
+"2549","bpt424","unknown;N/A","testing",0.02
+"2550","bpt424","unknown;N/A","testing",0.02
 "2551","bpt424","testpasstiles;BlankP","Created Password",0
 "2552","bpt424","testpasstiles;BlankP","Created Password",0
 "2553","bpt424","testpasstiles;BlankP","testing",0
@@ -2849,72 +2849,72 @@
 "2848","bpt424","unknown;BlankPassTil","Successful Login",0
 "2849","bpt424","unknown;N/A","testing",0
 "2850","bpt424","unknown;N/A","testing",0
-"2851","bpt424","testpasstiles;BlankP","testing",0
-"2852","bpt424","testpasstiles;BlankP","testing",0
-"2853","bpt424","testpasstiles;BlankP","testing",0
-"2854","bpt424","testpasstiles;BlankP","testing",0
-"2855","bpt424","testpasstiles;BlankP","testing",0
-"2856","bpt424","testpasstiles;BlankP","testing",0
+"2851","bpt424","testpasstiles;BlankP","testing",3.15
+"2852","bpt424","testpasstiles;BlankP","testing",3.15
+"2853","bpt424","testpasstiles;BlankP","testing",3.15
+"2854","bpt424","testpasstiles;BlankP","testing",3.15
+"2855","bpt424","testpasstiles;BlankP","testing",3.15
+"2856","bpt424","testpasstiles;BlankP","testing",3.15
 "2857","bpt424","unknown;BlankPassTil","Successful Login",3.15
 "2858","bpt424","unknown;BlankPassTil","Successful Login",3.15
-"2859","bpt424","testpasstiles;BlankP","testing",0
-"2860","bpt424","testpasstiles;BlankP","testing",0
-"2861","bpt424","testpasstiles;BlankP","testing",0
-"2862","bpt424","testpasstiles;BlankP","testing",0
+"2859","bpt424","testpasstiles;BlankP","testing",3.15
+"2860","bpt424","testpasstiles;BlankP","testing",3.15
+"2861","bpt424","testpasstiles;BlankP","testing",3.15
+"2862","bpt424","testpasstiles;BlankP","testing",3.15
 "2863","bpt424","unknown;BlankPassTil","Successful Login",3.15
-"2864","bpt424","testpasstiles;BlankP","testing",0
-"2865","bpt424","testpasstiles;BlankP","testing",0
+"2864","bpt424","testpasstiles;BlankP","testing",3.15
+"2865","bpt424","testpasstiles;BlankP","testing",3.15
 "2866","bpt424","unknown;BlankPassTil","Successful Login",3.15
-"2867","bpt424","testpasstiles;BlankP","testing",0
-"2868","bpt424","testpasstiles;BlankP","testing",0
-"2869","bpt424","testpasstiles;BlankP","testing",0
-"2870","bpt424","testpasstiles;BlankP","testing",0
+"2867","bpt424","testpasstiles;BlankP","testing",3.15
+"2868","bpt424","testpasstiles;BlankP","testing",3.15
+"2869","bpt424","testpasstiles;BlankP","testing",3.16
+"2870","bpt424","testpasstiles;BlankP","testing",3.16
 "2871","bpt424","unknown;BlankPassTil","Successful Login",3.16
-"2872","bpt424","testpasstiles;BlankP","testing",0
-"2873","bpt424","testpasstiles;BlankP","testing",0
+"2872","bpt424","testpasstiles;BlankP","testing",3.16
+"2873","bpt424","testpasstiles;BlankP","testing",3.16
 "2874","bpt424","unknown;BlankPassTil","Successful Login",3.16
-"2875","bpt424","unknown;N/A","testing",0
-"2876","bpt424","unknown;N/A","testing",0
-"2877","bpt424","unknown;N/A","testing",0
-"2878","bpt424","unknown;N/A","testing",0
-"2879","bpt424","testpasstiles;BlankP","testing",0
-"2880","bpt424","testpasstiles;BlankP","testing",0
-"2881","bpt424","testpasstiles;BlankP","testing",0
-"2882","bpt424","testpasstiles;BlankP","testing",0
+"2875","bpt424","unknown;N/A","testing",3.16
+"2876","bpt424","unknown;N/A","testing",3.16
+"2877","bpt424","unknown;N/A","testing",3.16
+"2878","bpt424","unknown;N/A","testing",3.16
+"2879","bpt424","testpasstiles;BlankP","testing",7.1
+"2880","bpt424","testpasstiles;BlankP","testing",7.1
+"2881","bpt424","testpasstiles;BlankP","testing",7.11
+"2882","bpt424","testpasstiles;BlankP","testing",7.11
 "2883","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2884","bpt424","testpasstiles;BlankP","testing",0
-"2885","bpt424","testpasstiles;BlankP","testing",0
+"2884","bpt424","testpasstiles;BlankP","testing",7.11
+"2885","bpt424","testpasstiles;BlankP","testing",7.11
 "2886","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2887","bpt424","testpasstiles;BlankP","testing",0
-"2888","bpt424","testpasstiles;BlankP","testing",0
-"2889","bpt424","testpasstiles;BlankP","testing",0
-"2890","bpt424","testpasstiles;BlankP","testing",0
+"2887","bpt424","testpasstiles;BlankP","testing",7.11
+"2888","bpt424","testpasstiles;BlankP","testing",7.11
+"2889","bpt424","testpasstiles;BlankP","testing",7.11
+"2890","bpt424","testpasstiles;BlankP","testing",7.11
 "2891","bpt424","unknown;BlankPassTil","Failed Login",7.11
-"2892","bpt424","testpasstiles;BlankP","testing",0
-"2893","bpt424","testpasstiles;BlankP","testing",0
+"2892","bpt424","testpasstiles;BlankP","testing",7.11
+"2893","bpt424","testpasstiles;BlankP","testing",7.11
 "2894","bpt424","unknown;BlankPassTil","Failed Login",7.11
-"2895","bpt424","testpasstiles;BlankP","testing",0
-"2896","bpt424","testpasstiles;BlankP","testing",0
-"2897","bpt424","testpasstiles;BlankP","testing",0
-"2898","bpt424","testpasstiles;BlankP","testing",0
+"2895","bpt424","testpasstiles;BlankP","testing",7.11
+"2896","bpt424","testpasstiles;BlankP","testing",7.11
+"2897","bpt424","testpasstiles;BlankP","testing",7.11
+"2898","bpt424","testpasstiles;BlankP","testing",7.11
 "2899","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2900","bpt424","testpasstiles;BlankP","testing",0
-"2901","bpt424","testpasstiles;BlankP","testing",0
+"2900","bpt424","testpasstiles;BlankP","testing",7.11
+"2901","bpt424","testpasstiles;BlankP","testing",7.11
 "2902","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2903","bpt424","testpasstiles;BlankP","testing",0
-"2904","bpt424","testpasstiles;BlankP","testing",0
-"2905","bpt424","testpasstiles;BlankP","testing",0
-"2906","bpt424","testpasstiles;BlankP","testing",0
+"2903","bpt424","testpasstiles;BlankP","testing",7.11
+"2904","bpt424","testpasstiles;BlankP","testing",7.11
+"2905","bpt424","testpasstiles;BlankP","testing",7.11
+"2906","bpt424","testpasstiles;BlankP","testing",7.11
 "2907","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2908","bpt424","testpasstiles;BlankP","testing",0
-"2909","bpt424","testpasstiles;BlankP","testing",0
+"2908","bpt424","testpasstiles;BlankP","testing",7.11
+"2909","bpt424","testpasstiles;BlankP","testing",7.11
 "2910","bpt424","unknown;BlankPassTil","Successful Login",7.11
-"2911","bpt424","unknown;N/A","testing",0
-"2912","bpt424","unknown;N/A","testing",0
-"2913","bpt424","unknown;N/A","testing",0
-"2914","bpt424","unknown;N/A","testing",0
-"2915","bpt425","unknown;N/A","testing",0
-"2916","bpt425","unknown;N/A","testing",0
+"2911","bpt424","unknown;N/A","testing",7.11
+"2912","bpt424","unknown;N/A","testing",7.11
+"2913","bpt424","unknown;N/A","testing",7.11
+"2914","bpt424","unknown;N/A","testing",7.11
+"2915","bpt425","unknown;N/A","testing",0.04
+"2916","bpt425","unknown;N/A","testing",0.04
 "2917","bpt425","testpasstiles;BlankP","Created Password",0
 "2918","bpt425","testpasstiles;BlankP","testing",0
 "2919","bpt425","testpasstiles;BlankP","testing",0
@@ -3009,83 +3009,83 @@
 "3008","bpt425","unknown;BlankPassTil","Successful Login",0
 "3009","bpt425","unknown;N/A","testing",0
 "3010","bpt425","unknown;N/A","testing",0
-"3011","bpt425","testpasstiles;BlankP","testing",0
-"3012","bpt425","testpasstiles;BlankP","testing",0
-"3013","bpt425","testpasstiles;BlankP","testing",0
-"3014","bpt425","testpasstiles;BlankP","testing",0
+"3011","bpt425","testpasstiles;BlankP","testing",1.04
+"3012","bpt425","testpasstiles;BlankP","testing",1.04
+"3013","bpt425","testpasstiles;BlankP","testing",1.04
+"3014","bpt425","testpasstiles;BlankP","testing",1.04
 "3015","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3016","bpt425","testpasstiles;BlankP","testing",0
-"3017","bpt425","testpasstiles;BlankP","testing",0
+"3016","bpt425","testpasstiles;BlankP","testing",1.04
+"3017","bpt425","testpasstiles;BlankP","testing",1.04
 "3018","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3019","bpt425","testpasstiles;BlankP","testing",0
-"3020","bpt425","testpasstiles;BlankP","testing",0
-"3021","bpt425","testpasstiles;BlankP","testing",0
-"3022","bpt425","testpasstiles;BlankP","testing",0
+"3019","bpt425","testpasstiles;BlankP","testing",1.04
+"3020","bpt425","testpasstiles;BlankP","testing",1.04
+"3021","bpt425","testpasstiles;BlankP","testing",1.04
+"3022","bpt425","testpasstiles;BlankP","testing",1.04
 "3023","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3024","bpt425","testpasstiles;BlankP","testing",0
-"3025","bpt425","testpasstiles;BlankP","testing",0
+"3024","bpt425","testpasstiles;BlankP","testing",1.04
+"3025","bpt425","testpasstiles;BlankP","testing",1.04
 "3026","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3027","bpt425","testpasstiles;BlankP","testing",0
-"3028","bpt425","testpasstiles;BlankP","testing",0
-"3029","bpt425","testpasstiles;BlankP","testing",0
-"3030","bpt425","testpasstiles;BlankP","testing",0
+"3027","bpt425","testpasstiles;BlankP","testing",1.04
+"3028","bpt425","testpasstiles;BlankP","testing",1.04
+"3029","bpt425","testpasstiles;BlankP","testing",1.04
+"3030","bpt425","testpasstiles;BlankP","testing",1.04
 "3031","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3032","bpt425","testpasstiles;BlankP","testing",0
-"3033","bpt425","testpasstiles;BlankP","testing",0
+"3032","bpt425","testpasstiles;BlankP","testing",1.04
+"3033","bpt425","testpasstiles;BlankP","testing",1.04
 "3034","bpt425","unknown;BlankPassTil","Successful Login",1.04
-"3035","bpt425","unknown;N/A","testing",0
-"3036","bpt425","unknown;N/A","testing",0
-"3037","bpt425","testpasstiles;BlankP","testing",0
-"3038","bpt425","testpasstiles;BlankP","testing",0
-"3039","bpt425","testpasstiles;BlankP","testing",0
-"3040","bpt425","testpasstiles;BlankP","testing",0
-"3041","bpt425","testpasstiles;BlankP","testing",0
-"3042","bpt425","testpasstiles;BlankP","testing",0
+"3035","bpt425","unknown;N/A","testing",1.05
+"3036","bpt425","unknown;N/A","testing",1.05
+"3037","bpt425","testpasstiles;BlankP","testing",4.02
+"3038","bpt425","testpasstiles;BlankP","testing",4.02
+"3039","bpt425","testpasstiles;BlankP","testing",4.02
+"3040","bpt425","testpasstiles;BlankP","testing",4.02
+"3041","bpt425","testpasstiles;BlankP","testing",4.02
+"3042","bpt425","testpasstiles;BlankP","testing",4.02
 "3043","bpt425","unknown;BlankPassTil","Successful Login",4.02
 "3044","bpt425","unknown;BlankPassTil","Successful Login",4.02
-"3045","bpt425","testpasstiles;BlankP","testing",0
-"3046","bpt425","testpasstiles;BlankP","testing",0
-"3047","bpt425","testpasstiles;BlankP","testing",0
-"3048","bpt425","testpasstiles;BlankP","testing",0
+"3045","bpt425","testpasstiles;BlankP","testing",4.02
+"3046","bpt425","testpasstiles;BlankP","testing",4.02
+"3047","bpt425","testpasstiles;BlankP","testing",4.02
+"3048","bpt425","testpasstiles;BlankP","testing",4.02
 "3049","bpt425","unknown;BlankPassTil","Successful Login",4.02
-"3050","bpt425","testpasstiles;BlankP","testing",0
-"3051","bpt425","testpasstiles;BlankP","testing",0
+"3050","bpt425","testpasstiles;BlankP","testing",4.02
+"3051","bpt425","testpasstiles;BlankP","testing",4.02
 "3052","bpt425","unknown;BlankPassTil","Successful Login",4.02
-"3053","bpt425","testpasstiles;BlankP","testing",0
-"3054","bpt425","testpasstiles;BlankP","testing",0
-"3055","bpt425","testpasstiles;BlankP","testing",0
-"3056","bpt425","testpasstiles;BlankP","testing",0
-"3057","bpt425","testpasstiles;BlankP","testing",0
-"3058","bpt425","testpasstiles;BlankP","testing",0
+"3053","bpt425","testpasstiles;BlankP","testing",4.02
+"3054","bpt425","testpasstiles;BlankP","testing",4.02
+"3055","bpt425","testpasstiles;BlankP","testing",4.02
+"3056","bpt425","testpasstiles;BlankP","testing",4.02
+"3057","bpt425","testpasstiles;BlankP","testing",4.02
+"3058","bpt425","testpasstiles;BlankP","testing",4.02
 "3059","bpt425","unknown;BlankPassTil","Successful Login",4.02
 "3060","bpt425","unknown;BlankPassTil","Successful Login",4.02
-"3061","bpt425","unknown;N/A","testing",0
-"3062","bpt425","unknown;N/A","testing",0
-"3063","bpt425","testpasstiles;BlankP","testing",0
-"3064","bpt425","testpasstiles;BlankP","testing",0
-"3065","bpt425","testpasstiles;BlankP","testing",0
-"3066","bpt425","testpasstiles;BlankP","testing",0
-"3067","bpt425","testpasstiles;BlankP","testing",0
+"3061","bpt425","unknown;N/A","testing",4.02
+"3062","bpt425","unknown;N/A","testing",4.02
+"3063","bpt425","testpasstiles;BlankP","testing",7.97
+"3064","bpt425","testpasstiles;BlankP","testing",7.97
+"3065","bpt425","testpasstiles;BlankP","testing",7.97
+"3066","bpt425","testpasstiles;BlankP","testing",7.97
+"3067","bpt425","testpasstiles;BlankP","testing",7.97
 "3068","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3069","bpt425","testpasstiles;BlankP","testing",0
+"3069","bpt425","testpasstiles;BlankP","testing",7.97
 "3070","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3071","bpt425","testpasstiles;BlankP","testing",0
-"3072","bpt425","testpasstiles;BlankP","testing",0
-"3073","bpt425","testpasstiles;BlankP","testing",0
-"3074","bpt425","testpasstiles;BlankP","testing",0
+"3071","bpt425","testpasstiles;BlankP","testing",7.97
+"3072","bpt425","testpasstiles;BlankP","testing",7.97
+"3073","bpt425","testpasstiles;BlankP","testing",7.97
+"3074","bpt425","testpasstiles;BlankP","testing",7.97
 "3075","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3076","bpt425","testpasstiles;BlankP","testing",0
-"3077","bpt425","testpasstiles;BlankP","testing",0
+"3076","bpt425","testpasstiles;BlankP","testing",7.97
+"3077","bpt425","testpasstiles;BlankP","testing",7.97
 "3078","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3079","bpt425","testpasstiles;BlankP","testing",0
-"3080","bpt425","testpasstiles;BlankP","testing",0
-"3081","bpt425","testpasstiles;BlankP","testing",0
-"3082","bpt425","testpasstiles;BlankP","testing",0
+"3079","bpt425","testpasstiles;BlankP","testing",7.97
+"3080","bpt425","testpasstiles;BlankP","testing",7.97
+"3081","bpt425","testpasstiles;BlankP","testing",7.97
+"3082","bpt425","testpasstiles;BlankP","testing",7.97
 "3083","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3084","bpt425","testpasstiles;BlankP","testing",0
-"3085","bpt425","testpasstiles;BlankP","testing",0
+"3084","bpt425","testpasstiles;BlankP","testing",7.97
+"3085","bpt425","testpasstiles;BlankP","testing",7.97
 "3086","bpt425","unknown;BlankPassTil","Successful Login",7.97
-"3087","bpt425","unknown;N/A","testing",0
-"3088","bpt425","unknown;N/A","testing",0
-"3089","bpt425","unknown;N/A","testing",0
-"3090","bpt425","unknown;N/A","testing",0
+"3087","bpt425","unknown;N/A","testing",7.98
+"3088","bpt425","unknown;N/A","testing",7.98
+"3089","bpt425","unknown;N/A","testing",7.98
+"3090","bpt425","unknown;N/A","testing",7.98
