@@ -3,55 +3,73 @@ blank_pts <- read.csv(file="Blankpt28_log.csv", head=TRUE,sep=",")
 text28 <- read.csv(file="Text28_log.csv", head=TRUE,sep=",")
 img_pts <- read.csv(file="Imagept28_log.csv", head=TRUE,sep=",")
 
-
-#####################    TEXT28 Scheme          #########################################
-users_text <- unique(text28$user)
-df_text <- data.frame(text28$user, text28$scheme, text28$mode, text28$event, text28$time)
-
-info <- data.frame(user = character(0), scheme = character(0), numLogin = numeric(), numSucess = numeric(), numFail = numeric())
-for(user in users_text){
-  logins = length(subset(df_text$text28.mode, text28$user == user & text28$mode == "login"))
-  success = length(subset(df_text$text28.event, text28$user == user &text28$mode == "login" & text28$event == "success"))
-  fail =  length(subset(df_text$text28.event, text28$user == user &text28$mode == "login" & text28$event == "failure"))
-  scheme = "text28"
-   temp <- (data.frame(user, scheme, logins, success, fail))
-  info <- rbind(info, temp)
+#####################   call Sort       ####################################
+getData = function(){
+  sort("Text28_log.csv", "TextScheme.csv")
+  sort("Blankpt28_log.csv", "BlankScheme.csv")
+  sort("Imagept28_log.csv", "ImageScheme.csv")
 }
-print(info)
-write.csv(info, file = "TextScheme.csv")
 
 
-
-#####################    blank_pt Scheme          #########################################
-df_blank <- data.frame(blank_pts$user, blank_pts$scheme, blank_pts$mode, blank_pts$event, blank_pts$time)
-users_blank <- unique(blank_pts$user)
-info <- data.frame(user = character(0), scheme = character(0), numLogin = numeric(), numSucess = numeric(), numFail = numeric())
-for(user in users_blank){
-  logins = length(subset(df_blank$blank_pts.mode, blank_pts$user == user &blank_pts$mode == "login"))
-  success = length(subset(df_blank$blank_pts.event, blank_pts$user == user &blank_pts$mode == "enter" & blank_pts$event == "goodLogin"))
-  fail =  length(subset(df_blank$blank_pts.event, blank_pts$user == user &blank_pts$mode == "enter" & blank_pts$event == "badLogin"))
-  scheme = "blank28"
-  temp <- (data.frame(user, scheme, logins, success, fail))
-  info <- rbind(info,temp)
+#####################    Sort Function       ####################################
+sort = function(inputFile, outputFile){
+  data <- text28 <- read.csv(file=inputFile, head=TRUE,sep=",")
+  df <- data.frame( user = data$user, scheme = data$scheme, mode = data$mode,  event = data$event,  time = data$time)
+  info <- data.frame(user = character(0), scheme = character(0), numLogin = numeric(), numSuccess = numeric(), numFail = numeric(), timeTaken = numeric(), passwordNum = numeric())
+  
+  
+  for (u in unique(df$user)){ # for user
+    user = u  # set user
+    password = 0 # set initial num of passwords to 0 
+    
+    set <- subset(df, df$user == u )
+    for(row in 1:nrow(set)){ # for each entry
+      #create new password
+      if(set[row,]$mode == "create" & set[row,]$event == "start")
+      {
+        #print(df_text[row,])
+        #print("Password Created")
+        initTime = set[row,]$time # get initial time
+        finalTime = 0
+        s = set[row,]$scheme # set scheme
+        password = password + 1
+        numS = 0 # set success to 0
+        numF = 0 # set fails to 0
+        numL = 0 # set logins to 0
+        temp = data.frame(user = u, scheme = s, numLogin = numL, numSuccess = numS, numFail = numF, timeTaken = 0, passwordNum = password)
+        info <- rbind(info, temp)
+      }
+      # successful login
+      else if(set[row,]$mode == "login" & set[row,]$event == "success")
+      {
+        #print("Login Success")
+        numS = numS + 1
+        info$numSuccess[info$user == u & info$passwordNum == password] <- numS
+        
+      }
+      # failed login
+      else if (set[row,]$mode == "login" & set[row,]$event == "failure" )
+      {
+        #print("Login Failure")
+        numF = numF + 1
+        info$numFail[info$user == u & info$passwordNum == password] <- numF
+      }
+      
+      numL = numS + numF
+      info$numLogin[info$user == u & info$passwordNum == password] <- numL
+      
+      finalTime =  set[row,]$time
+      # get time
+      totalTime <- difftime(strptime(finalTime, format="%Y-%m-%d %H:%M:%S", tz=""), 
+                            strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="secs")
+      #sets time in seconds
+      info$timeTaken[info$user == u & info$passwordNum == password] <- round(as.numeric(totalTime, units = "secs"), digits = 2)
+      
+      
+    }
+  }
+  
+  
+  print("File Read")
+  write.csv(info, file = outputFile)
 }
-print(info)
-write.csv(info, file = "blankScheme.csv")
- 
-#########################    img_28 Scheme           #########################################
-
-users_img <- unique(img_pts$user)
-df_img <- data.frame(img_pts$user, img_pts$scheme, img_pts$mode, img_pts$event, img_pts$time)
-
-info <- data.frame(user = character(0), scheme = character(0), numLogin = numeric(), numSucess = numeric(), numFail = numeric())
-for(user in users_img){
-  logins = length(subset(df_img$img_pts.mode, img_pts$user == user & img_pts$mode == "login"))
-  success = length(subset(df_img$img_pts.event, img_pts$user == user &img_pts$mode == "login" & img_pts$event == "success"))
-  fail =  length(subset(df_img$img_pts.event, img_pts$user == user &img_pts$mode == "login" & img_pts$event == "failure"))
-  #scheme = subset(df$img_pts.scheme, img_pts$user == user) 
-  new <- data.frame(user, scheme, logins, success, fail)
-  info <- rbind(info, new)
-}
-print(info)
-write.csv(info, file = "ImageScheme.csv")
-
-
