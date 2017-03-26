@@ -13,7 +13,7 @@ getData = function(){
 
 #####################    Sort Function       ####################################
 sort = function(inputFile, outputFile){
-  data <- text28 <- read.csv(file=inputFile, head=TRUE,sep=",")
+  data  <- read.csv(file=inputFile, head=TRUE,sep=",")
   df <- data.frame( user = data$user, scheme = data$scheme, mode = data$mode,  event = data$event,  time = data$time)
   info <- data.frame(user = character(0), scheme = character(0), event = character(0),  timeTaken_day = numeric())
   initTime = 0
