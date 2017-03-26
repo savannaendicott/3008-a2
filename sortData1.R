@@ -15,7 +15,7 @@ getData = function(){
 sort = function(inputFile, outputFile){
   data <- text28 <- read.csv(file=inputFile, head=TRUE,sep=",")
   df <- data.frame( user = data$user, scheme = data$scheme, mode = data$mode,  event = data$event,  time = data$time)
-  info <- data.frame(user = character(0), scheme = character(0), event = character(0),  timeTaken_sec = numeric())
+  info <- data.frame(user = character(0), scheme = character(0), event = character(0),  timeTaken_day = numeric())
   initTime = 0
   finalTime = 0
   e = "NA"
@@ -24,7 +24,7 @@ sort = function(inputFile, outputFile){
   for (u in unique(df$user)){ # for user
     user = u  # set user
     set <- subset(df, df$user == u )
- 
+    finalTime = 0 
     for(row in 1:nrow(set)){ # for each entry
       s = set[row,]$scheme # set scheme
       #create new password
@@ -32,31 +32,39 @@ sort = function(inputFile, outputFile){
       {
         e = "Created Password"
         initTime = set[row,]$time # get initial time
+        finalTime = 0
         
       }
       # successful login
       else if(set[row,]$mode == "login" & set[row,]$event == "success")
       {
         e = "Successful Login"
+        finalTime =  set[row,]$time
         
       }
       # failed login
       else if (set[row,]$mode == "login" & set[row,]$event == "failure" )
       {
         e = "Failed Login"
+        finalTime =  set[row,]$time
       }else
       {
         e   = "testing"
+        finalTime =  0
       }
       
-      
-      finalTime =  set[row,]$time
+     
+    
       # get time
       totalTime <- difftime(strptime(finalTime, format="%Y-%m-%d %H:%M:%S", tz=""), 
-                            strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="secs")
-      t =  round(as.numeric(totalTime, units = "secs"), digits = 2)
+                            strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="days")
+      t =  round(as.numeric(totalTime, units = "days"), digits = 2)
+   
+      if(is.na(t)){
+        t = 0
+      }
       
-      temp = data.frame(user = u, scheme = s, event = e,  timeTaken_sec = t)
+      temp = data.frame(user = u, scheme = s, event = e,  timeTaken_days = t)
       info <- rbind(info, temp)
       
     }

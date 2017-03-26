@@ -21,6 +21,11 @@ sort = function(inputFile, outputFile){
   for (u in unique(df$user)){ # for user
     user = u  # set user
     password = 0 # set initial num of passwords to 0 
+    numS = 0 # set success to 0
+    numF = 0 # set fails to 0
+    numL = 0 # set logins to 0
+    initTime = 0
+    finalTime = 0
     
     set <- subset(df, df$user == u )
     for(row in 1:nrow(set)){ # for each entry
@@ -58,7 +63,10 @@ sort = function(inputFile, outputFile){
       numL = numS + numF
       info$numLogin[info$user == u & info$passwordNum == password] <- numL
       
-      finalTime =  set[row,]$time
+      time = set[row,]$time
+      if(time != "NA"){
+       finalTime =  set[row,]$time
+      }
       # get time
       totalTime <- difftime(strptime(finalTime, format="%Y-%m-%d %H:%M:%S", tz=""), 
                             strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="secs")
