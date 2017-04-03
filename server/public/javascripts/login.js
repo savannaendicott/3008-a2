@@ -1,18 +1,19 @@
 
-var GRID_SIZE = 64;
-//arr2= [["🏁","🆗","💬","🔔","⏸","🔄","🎦","✅"],["[💯","⛔","📌","📎","🔒","🏏","🎿","🏹"],["🏀","🎉","🗝","🎈","🛁","🚽","🛌","📞"],["🎁","🎀","🔫","💣","🔨","🔪","🚀","🎙"],["⛵","🚂","🚓","🚲","🚑","🎻","🎲","🗽"],["🚁","⛵","🚂","🚓","🚲","🚑","🎻","🎲"],["🙏","🙌","🤘","🖕","✋","👌","👍","👎"],["✊","👊","👋","👏","👐","💅","👂","👃"]];
 var emojis = ["🏁","🆗","💬","🔔","⏸","🔄","🎦","✅","💯","⛔","📌","📎","🔒","🏏","🎿","🏹","🏀","🎉","🗝","🎈","🛁","🚽","🛌","📞","🎁","🎀","🔫","🔨","🔪","🚀","🎙","🗽","🚁","⛵","🚂","🚓","🚲","🚑","🎻","🎲","🎳","🎹","🎧","🎷","🎸","🎨","🎭","🏅","🏆","⚽","🏐","🎾","🏈","🎱","🏒","⛸","🎮","😃","😛","😜","😍","😘","🙃","😉","😇","😎","🤓","🤑","😐","😤","😢","😭","😦","🤐","😷","😩","😬","😰","😱","😳","😵","😡","😠","😈","👹","👺","💀","👻","👽","👾","💩","🤖","🎃","😺","😻","😿","🙀","🙈","🙉","🙊","💪","👉","👇","💑","👤","👥",
 "🙏","🙌","🤘","🖕","✋","👌","👍","👎","✊","👊","👋","👏","👐","💅","👂","👃","👣","👀","👅","👄","💋","💄","💍","👁","💘","💔","💕","💣","💥","💦","👦","👶","👧","👵","👴","👮","💂",
 "🕵","👩","🎓","👸","👰","💃","👙","👗","👔","👠","👞","🎩","🎓","👜","👓","👑","🐶","🐱","🐹","🐼","🐰","🐨","🐷","🐯","🦁","🐮","🐙","🐸","🐔","🐴","🦄","🐝","🐛","🐌","🐚","🐞","🕷","🐢","🦀","🐠","🐬","🐳","🐾","🐿","🐲","🎄","🌴","🍁","🌵","🍀","🍄","🌹","🌻","🌎","🌝","⭐","🔥","🌈","⛄","🌪","🌊","🍎","🍇","🍉","🍌","🍓","🍒","🍑","🍆","🌽","🌶","🧀","🍗","🍤","🍕","🌭","🍔","🍟","🌮","🌯","🍣","🍰","🎂","🍭","🍦","🍪","🍼","🍿","🍩","🍺","🍷"];
-var websites = ["E-mail","Facebook","Youtube"];
+var websites = ["Jee-Mail","Fakebook","Safety Beeposit"];
 var username;
 var website;
 var password;
 var answer = "";
 var counter=0;
+var tries = 1;
+var correct = [0,0,0];
 
 $("#website").text(websites[0]);
 $("#reset-button").click(function(){reset()});
+$("#ok-button").click(function(){submitAnswer()});
 
 function printTable(arr){
 	var body, tab, tr, td, tn, row, col;
@@ -23,7 +24,7 @@ function printTable(arr){
 		tr = document.createElement('tr');
 		for (col = 0; col < arr[row].length; col++){
 			  let td = document.createElement('td');
-			  moj = emojis[arr[row][col]];
+			  let moj = emojis[arr[row][col]];
 			  let tn = document.createTextNode(moj);
 			  td.addEventListener("click",function(e){tableText(td,moj, e)});
 			  td.setAttribute("x",row);
@@ -39,9 +40,13 @@ function printTable(arr){
 
 
 $(document).ready(function(){
+	$('#registration-div').hide();
+	$('#final-div').hide();
+	$('#main-div').hide();
+	$('ok-button').hide();
 	//console.log(emojis.length);
 	
-	
+	website = 0;
 	loginpage();
 
 
@@ -57,23 +62,11 @@ $(document).ready(function(){
 			$('input[type="text"]').css("box-shadow","0 0 3px red");
 			alert("Please enter a username");
 		}else {
-			$.get("/login",{user: uname},
+			$.get("/login",{user: uname, website: websites[website]},
 			function(data) {
-			if(data=='invalid') {
-				$('input[type="text"]').css({"border":"2px solid red","box-shadow":"0 0 3px red"});
 				alert(data);
-			}else if(data=='success'){
-				$("form")[0].reset();
-				$('input[type="text"]').css({"border":"2px solid #00F5FF","box-shadow":"0 0 5px #00F5FF"});
-
-				username = uname;
-
-				mainpage();
-				alert(data);
-			} else{
-				alert(data);
-			}
-		});
+			
+			});
 		}
 	});
 	$("#register").click(function(){
@@ -85,36 +78,14 @@ $(document).ready(function(){
 			$('input[type="text"]').css("box-shadow","0 0 3px red");
 			alert("Please enter a username");
 		}else {
-			$.get("/register",{user: username }).done(function(data) {
-			if(data=='invalid') {
-				$('input[type="text"]').css({"border":"2px solid red","box-shadow":"0 0 3px red"});
-				alert(data);
-			}else if(data=='success'){
-				$("form")[0].reset();
-				$('input[type="text"]').css({"border":"2px solid #00F5FF","box-shadow":"0 0 5px #00F5FF"});
-				//alert(data);
-				
-				mainpage();
-
-				//alert(data);
-
-
-			} else{
-				//alert(data);
-				//var stuff = JSON.stringify(data);
-				
-
+			$.get("/register",{user: username , website: websites[website]}).done(function(data) {
+				answer ="";
+				tries = 1;
+				website =0;
+				counter = 0;
 				password = (data.password);//[0].num);
 				fillpword();
-
-
-				/*{"password":[
-				{"loc":{"x":1,"y":6},"num":22},
-				{"loc":{"x":0,"y":2},"num":46},
-				{"loc":{"x":7,"y":6},"num":233},
-				{"loc":{"x":1,"y":0},"num":153}]}*/
-			}
-		});
+			});
 		}
 	});
 
@@ -129,35 +100,39 @@ $(document).ready(function(){
 
 });
 
-function tester(){
-	var n = "hi";
-}
 function loginpage(){
 	$('#registration-div').hide();
 	$('#main-div').hide();
 	$('#login-div').show();
+	//$('#final-div').hide();
 
 }
 function registrationpage(){
 	$('#login-div').hide();
 	$('#main-div').hide();
 	$('#registration-div').show();
+	$('#final-div').hide();
 }
 function mainpage(){
 	$('#registration-div').hide();
 	$('login-div').hide();
-	
-	//printTable(arr);
-	//åvar uname = $("#register-uname").val();
+	$('#final-div').hide();
 	$('#main-div').show();
 	$('ok-button').hide();
+	$("#results").text("");	
 	getFirstGrid();
-
 	
-
-
-	// CHANGE WEBSITE NAME
-
+}
+function finalpage(finalresult){
+	$('#registration-div').hide();
+	$('login-div').hide();
+	$('#main-div').hide();
+	$('ok-button').hide();
+	$('#final-div').show();
+	if(finalresult=="n_ok"){
+		$("#final-str").text("😭 You did not get it right, and you are out of tries 😭")
+	}
+	
 }
 
 function getGrid(tablecell){
@@ -166,47 +141,25 @@ function getGrid(tablecell){
 	var y = tablecell.getAttribute("y");
 	console.log(x);
 	console.log(y);
-	$.get("/grid",{user: username, grid: counter, x:x, y:y}).done(function(data) {
-		// data looks like : [][]
-		// x, y, click, uname
-
+	$.get("/grid",{user: username, grid: counter, x:x, y:y , website:websites[website]}).done(function(data) {
 		printTable(data.grid);
-	//		console.log(data.grid);
-
-
-
 	});
 }
 
 function getFirstGrid(){
 	console.log(username);
-	$.get("/grid",{user: username}).done(function(data) {
-		// data looks like : [][]
-
-
+	$.get("/grid",{user: username, website:websites[website]}).done(function(data) {
 		printTable(data.grid);
 		console.log(data.grid);
-
-
-
 	});
 }
+
 function fillpword(){
 	var text ="";
 	for(i=0;i < 4;i++){
 		text += emojis[password[i].num];
 	}
 	$("#password-instruction").text(text);
-}
-
-var table = document.getElementById("results");
-if (table != null) {
-    for (var i = 0; i < table.rows.length; i++) {
-        for (var j = 0; j < table.rows[i].cells.length; j++)
-        table.rows[i].cells[j].onclick = function () {
-            tableText(this);
-        };
-    }
 }
 
 function tableText(tablecell, tabletext, event) {
@@ -222,34 +175,61 @@ function tableText(tablecell, tabletext, event) {
    	}
    if(counter == 4){
    	 console.log(answer);
-     answerComplete();
      $("#ok-button").show();
 
    }
-
-   //console.log(tablecell);
 }
-function answerComplete(){
+
+function submitAnswer(){
 	//console.log("done");
-	/*$.get("/submit",{user: username, answer:answer}).done(function(data) {
-		console.log(data);
-	});*/
+	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
+		if(data.status == "ok"){
+			correct[website] = 1;
+		}
+	});
+
 	answer ="";
 	$("#progress").text("");
 	counter =0;
 	$("#results").text("");	
+	$("#website").text(websites[website]);	
 
+	website= website+1;
+	if(website = 3){
+		// they got it!
+		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+			finalpage("ok");
+		}
+		// they didn't get it, but they have more tries!
+		else if(tries < 3){
+			var trystring = "try";
+			if(tries>1) trystring = "tries";
+			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
+		 	tries ++;
+		 	website = 0;
+		 	$("#results").text("");	
+		 	getFirstGrid();
+		}
+		// they didn't get it :(
+		else{
+			// ALL DONE!
+			finalpage("n_ok");
+		}
 
-}
-function reset(){
-	answer ="";
-	$("#progress").text("");
-	counter =0;
-	$("#results").text("");
+	}
+	$("#results").text("");	
 	getFirstGrid();
 
 }
 
+function reset(){
+	answer ="";
+	$("#progress").text("");
+	counter =0;
 
+	$("#results").text("");
+	getFirstGrid();
+
+}
 
 
