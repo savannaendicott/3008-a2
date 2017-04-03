@@ -7,6 +7,7 @@ var router  = express.Router();
 /* GET grid */
 router.get('/', function(req, res, next) {
   var username = req.query.user;
+  var website = req.query.website;
   var wants = {};
   if (req.query.x) {
     wants.x = req.query.x;
@@ -29,7 +30,7 @@ router.get('/', function(req, res, next) {
     wants.x+''+
     wants.y+''+
     wants.grid+''+
-    username+
+    username+website+
     req.app.get('seed salt')).digest('hex');
 
   var rand = gen(hash).random;
