@@ -21,7 +21,7 @@ app.set('view engine', 'hbs');
 app.set('seed salt', '27BC761B78E3401780F20D3C0B4067E5');
 
 var glypharray = [];
-app.set('glyph count', 235);
+app.set('glyph count', 234);
 
 for (var i = 0; i < app.get('glyph count'); i++) {
   glypharray[i] = i;
