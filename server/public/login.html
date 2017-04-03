@@ -8,7 +8,7 @@
 
 	<title>Password System</title>
 
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="stylesheets/savstyles.css">
 
 	<h class="my-title">🔒Password Management System🔒</h>
 
@@ -35,24 +35,26 @@
 </div>
 
 <div id ="main-div">
-	<h id="welcome"> Welcome back Savanna!</h>
-	<br>
-	<h id="website"> E-Mail</h><br>
-	<h id="password-instruction">password</h>
+	<div class="basic-wrapper"><h id="welcome"> Welcome back Savanna!</h></div>
+	<div class="basic-wrapper"><label>Account:</label><h id="website"> E-Mail</h><br></div>
+	<div class="basic-wrapper"><label>Password:</label>
+	<h class="password-display" id="password-instruction">password</h></div><div>
+	<h id="progress"> </h>
+	<button id="ok-button">Done</button>
+	<button id="reset-button">Reset</button>
 
 	<div table-div>
 	<table id="results" align="center"></table></div>
-	<script src="deps/emojis.js"></script>
+	<script src="/javascripts/emojis.js"></script>
 
-	<button id="submit-password">Done</button>
-	<button id="reset">Reset</button>
+	
 	
 
 	<p hidden>Password Entered So Far: </p>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.js"></script> 
-	<script type="text/javascript" src="deps/login.js"></script>
+	<script type="text/javascript" src="/javascripts/login.js"></script>
 
 </body>
 
