@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Password System</title>
+
+	<link rel="stylesheet" href="stylesheets/savstyles.css">
+
+	<h class="my-title">🔒Password Management System🔒</h>
+
+</head>
+
+<body>
+
+<div id="registration-div"> 
+	<form class="form" method="post" action="#login">
+		<label >New Username :</label>
+		<input type="text" name="uname" id="register-uname">
+		<input type="button" name="register" id="register" value="Register">
+	</form>
+</div>
+
+	
+<div id="login-div">
+	<form class="form" method="post" action="#login">
+		<label >Username :</label>
+		<input type="text" name="uname2" id="login-uname">
+		<input type="button" name="login" id="login" value="Login">
+	</form>
+	<a id="no-account"> Don't have an account? Register here</a>
+</div>
+
+<div id ="main-div">
+	<div class="basic-wrapper"><h id="welcome"> Welcome back Savanna!</h></div>
+	<div class="basic-wrapper"><label>Account:</label><h id="website"> E-Mail</h><br></div>
+	<div class="basic-wrapper"><label>Password:</label>
+	<h class="password-display" id="password-instruction">password</h></div><div>
+	<h id="progress"> </h>
+	<button hidden id="ok-button">Done</button>
+	<button id="reset-button">Reset</button>
+
+	<div table-div>
+	<table id="results" align="center"></table></div>
+	<script src="/javascripts/emojis.js"></script>
+
+</div>
+
+<div id ="final-div" class="final-result">
+	<h id="final-str">"👏 Well done! You got it! 👏"</h>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.js"></script> 
+	<script type="text/javascript" src="/javascripts/login.js"></script>
+
+</body>
+
+</html>

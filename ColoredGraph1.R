@@ -9,12 +9,13 @@ getData = function(){
  #sort("Imagept28_log.csv", "ImageScheme.csv")
   
   lst <-list()
-  analyze("TextScheme.csv", "Text28")
-  analyze("BlankScheme.csv", "Blank28")
-  analyze("ImageScheme.csv","Image28")
+  a = analyze("TextScheme.csv", "Text28")
+  b = analyze("BlankScheme.csv", "Blank28")
+  c = analyze("ImageScheme.csv","Image28")
+  
   
 
-
+  getGraphs(a,b,c)
 }
 
 
@@ -79,8 +80,8 @@ sort = function(inputFile, outputFile){
     
       temp = data.frame(user = u, scheme = s, site = site, event = e,  timeTaken_sec = t)
       info <- rbind(info, temp)
-      
-    }
+      }
+    
     
   }
   print("File Read")
@@ -129,6 +130,7 @@ analyze = function(inputFile, schemeType){
   success <- data.frame(user = character(0), time = numeric())
   for(u in users){
     set <- subset(df, df$user == u & df$event == "Successful Login")
+   
     t = mean(set$time)/86400
    
     temp <- data.frame(user = u, time = t)
@@ -146,12 +148,11 @@ analyze = function(inputFile, schemeType){
   failed <- data.frame(user = character(0), time = numeric())
   for(u in users){
     set <- subset(df, df$user == u & df$event == "Failed Login")
-    
     if(length(set$time) == 0)
       t = 0
     else
       t = mean(set$time, na.rm = TRUE)/86400
-    
+  
     temp <- data.frame(user = u, time = t)
     failed <- rbind(failed, temp)
   }
@@ -175,46 +176,75 @@ analyze = function(inputFile, schemeType){
   print("Time Logins (in days)")
   print(times)
   
- 
-
-  ##########################      Graphs 
-  title <- paste("Frequency of Logins ", schemeType)
-  
-  hist(total[,2], main = title, xlab = "number of Login Attempts", xlim = c(0,50))
-  
-  title <- paste("Frequency of Success", schemeType)
-  hist(total[,3], main = title, xlab = "number of successful Logins", xlim = c(0,50))
-  
-  title <- paste("Frequency of Fails", schemeType)
-  hist(total[,4], main = title, xlab = "number of Failed Logins",  xlim = c(0,50))
-  
-
-  title = paste("Sucessful Login Time", schemeType)
-  hist(success[,2], main = title, xlab = "days", xlim = c(0, 8))
-  boxplot(success$time, main = title, xlab =  "Successful Login", ylab = "days" )
-  
-  title = paste("Failed Login time ",  schemeType)
-  hist(failed[,2], main = title, xlab = "days", xlim = c(0, 8))
-  boxplot(failed$time, main = title, xlab =  "failed Login", ylab = "days")
   
   
-  
-  
- 
- 
-  sS<- factor(subset(df$site, df$event == "Successful Login" ))
-  fS <- factor(subset(df$site, df$event == "Failed Login"))
-  levels(sS)<- c("wvacation", "voteforyou", "studentlife")
-  levels(fS)<- c("wvacation", "voteforyou", "studentlife")  
-  
-  print("Summary of Sites used")
-  print(summary(sS))
-  print(summary(fS))
-  cat("\n\n\n\n")
-  
-
-  
+  output <- data.frame(total = total, success = success, failed = failed)
+  return(output)
 }
 
+
+getGraphs = function(a, b,c ){
+  
+  # Create a BoxPlot for all schemes 
+  boxplot(a$failed.time, 
+          a$success.time,
+          b$failed.time, 
+          b$success.time,
+          c$failed.time,
+          c$success.time, 
+          col=c('red', 'green'),
+          names= c('text28','text28','blank28','blank28', 'image28','image28'), 
+          main = "Time Taken", ylab = "days",
+          xlab = "Scheme", ylim= c(-1,8))
+  par(xpd=TRUE)
+  legend(5,10,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  
+  # Histograms regarding Number of Logins
+  hist(a$total.failures,  col= c("red"),main = "Text28 number of Logins", xlim =c(0,20), ylim= c(0,8), xlab = "# of Login Attempts")
+  hist(a$total.success , add = TRUE, col=c("green"))
+  par(xpd=TRUE)
+  legend(16,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  hist(b$total.success,  col= c("green"),main = "Blank28 number of Logins", xlim =c(0,35), ylim= c(0,8), xlab = "# of Login Attempts")
+  hist(b$total.failures , add = TRUE, col=c("red"))
+  par(xpd=TRUE)
+  legend(20,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  
+  hist(c$total.success,  col= c("green"),main = "Image28 number of Logins", xlim =c(0,20), ylim= c(0,12), xlab = "# of Login Attempts")
+  hist(c$total.failures , add = TRUE, col=c("red"))
+  par(xpd=TRUE)
+  legend(17,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  
+  # Histograms regarding time taken 
+  hist(a$failed.time,  col= c("red") ,main = "Text28 Time for Logins", xlim =c(0,8), ylim= c(0,8), xlab = "Days ")
+  hist(a$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
+  par(xpd=TRUE)
+  legend(8,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  hist(b$failed.time,  col=c("red") ,main = "Blank28 time for Logins", xlim =c(0,8), ylim= c(0,8), xlab = "Days")
+  hist(b$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
+  par(xpd=TRUE)
+  legend(8,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  
+  hist(c$failed.time,  col= c("red"),main = "Image28 time for Logins", xlim =c(0,8), ylim= c(0,12), xlab = "Days")
+  hist(c$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
+  par(xpd=TRUE)
+  legend(8,8,legend=c("success", "fail"),
+         col=c("green", "red"), lty=1:2, cex=0.8)
+  
+  
+  
+  
+}
 
 
