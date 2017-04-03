@@ -5,7 +5,8 @@ var emojis = ["🏁","🆗","💬","🔔","⏸","🔄","🎦","✅","💯","⛔"
 var websites = ["Jee-Mail","Fakebook","Safety Beeposit"];
 var username;
 var website;
-var password;
+var mode;
+var password="";
 var answer = "";
 var counter=0;
 var tries = 1;
@@ -47,7 +48,7 @@ $(document).ready(function(){
 	//console.log(emojis.length);
 	
 	website = 0;
-	loginpage();
+	registrationpage();
 
 
     $("#results tr td").click(function(event) {
@@ -113,6 +114,7 @@ function registrationpage(){
 	$('#main-div').hide();
 	$('#registration-div').show();
 	$('#final-div').hide();
+	mode = "test";
 }
 function mainpage(){
 	$('#registration-div').hide();
@@ -152,13 +154,15 @@ function getFirstGrid(){
 	$.get("/grid",{user: username, website:websites[website]}).done(function(data) {
 		printTable(data.grid);
 		console.log(data.grid);
+		//password = (data.password);//[0].num);
+		//fillpword();
+	});
+	if(website !=0){
+		$.get("/register",{user: username , website: websites[website]}).done(function(data) {
 		password = (data.password);//[0].num);
 		fillpword();
-	});
-	$.get("/register",{user: username , website: websites[website]}).done(function(data) {
-		password = (data.password);//[0].num);
-		fillpword();
-	});
+		});
+	}
 }
 
 function fillpword(){
@@ -174,7 +178,7 @@ function tableText(tablecell, tabletext, event) {
    if(counter <4){
    		$("#progress").text($("#progress").text() +"•");
    		console.log(tabletext);
-   		answer+=tabletext;
+   		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
    		counter ++;
 
    		$("#results").text("");
@@ -186,12 +190,68 @@ function tableText(tablecell, tabletext, event) {
 
    }
 }
-
 function submitAnswer(){
 	//console.log("done");
 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
 		if(data.status == "ok"){
+			if(mode == "test"){
+				$("#password-instruction").hide();
+				mode = "go";
+				answer ="";
+				$("#progress").text("");
+				counter =0;
+				$("#results").text("");	
+
+				$("#results").text("");	
+				getFirstGrid();
+
+			}
+			else{
+				alert("👏 Well done! You got it! 👏");
+				finalpage("ok");
+			}
+		}
+		else {
+			alert("Please try again.");
+		}
+	});
+	
+	//website= website+1;
+	/*if(website == 3){
+		// they got it!
+		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+			finalpage("ok");
+		}
+		// they didn't get it, but they have more tries!
+		else if(tries < 3){
+			var trystring = "try";
+			if(tries>1) trystring = "tries";
+			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
+		 	tries ++;
+		 	website = 0;
+		 	$("#results").text("");	
+		 	getFirstGrid();
+		}
+		// they didn't get it :(
+		else{
+			// ALL DONE!
+			finalpage("n_ok");
+		}
+
+	}
+	else{
+		$("#results").text("");	
+		getFirstGrid();
+	}*/
+
+}
+function submitAnswer1(){
+	//console.log("done");
+	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
+		if(data.status == "ok"){
 			correct[website] = 1;
+		}
+		else {
 		}
 	});
 
@@ -202,7 +262,7 @@ function submitAnswer(){
 	$("#website").text(websites[website]);	
 
 	website= website+1;
-	if(website = 3){
+	if(website == 3){
 		// they got it!
 		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
 			finalpage("ok");
