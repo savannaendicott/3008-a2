@@ -15,14 +15,14 @@ router.post('/', function(req, res, next) {
   var username = req.body.username;
   var password = req.body.password;
   var website = req.body.website;
-  req.db.each("SELECT * FROM users WHERE username=? AND website=?;", [username, website], function(err, row) {
+  req.db.all("SELECT * FROM users WHERE username=? AND website=?;", [username, website], function(err, rows) {
     var log = log4js.getLogger('login');
-    var hash = crypto.createHash('sha256').update(website+password+row.salt).digest('hex');
-    if (hash == row.hash) {
+    var hash = crypto.createHash('sha256').update(website+password+rows[0].salt).digest('hex');
+    if (hash == rows[0].hash) {
       res.json({'status': 'ok'});
       log.info("successful login", username);
     } else {
-      res.json(400, {'status': 'err', 'err': 'wrong password'});
+      res.json({'status': 'wrong password'});
       log.info("unsuccessful login", username);
       
     }
