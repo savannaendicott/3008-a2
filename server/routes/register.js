@@ -12,25 +12,28 @@ router.get('/', function(req, res, next) {
       res.json(400, {status:'error', err:'must register with username'});
       return;
     }
-    var hash = crypto.createHash('sha256').update(
-        username+
-        req.app.get('seed salt')).digest('hex');
-    
-    var rand = gen(hash).random;
-    var copy = shuffle(req.app.get('glyph array'), {'rng': rand, 'copy': true});
+
     var pwgenrand = gen.create();
 
     var pass = [];
     var pwstring = '';
+    
     for (var c = 0; c < 4; c++) {
       pass[c] = {loc:{ x:pwgenrand.range(8), y:pwgenrand.range(8)}};
-      var seed = crypto.createHash('sha256').update(
-      pass[c].loc.x+''+
-      pass[c].loc.y+''+
-      c+''+
-      username+
-      req.app.get('seed salt')).digest('hex');
-
+      var seed;
+      if (c == 0) {
+        var seed = crypto.createHash('sha256').update(
+        username+
+        req.app.get('seed salt')).digest('hex');
+      } else {
+        seed = crypto.createHash('sha256').update(
+        pass[c-1].loc.x+''+
+        pass[c-1].loc.y+''+
+        c+''+
+        username+
+        req.app.get('seed salt')).digest('hex');
+      }
+      
       var rand = gen(seed).random;
       var copy = shuffle(req.app.get('glyph array'), {'rng': rand, 'copy': true});
       var grid = [];
@@ -45,6 +48,7 @@ router.get('/', function(req, res, next) {
       }
       pass[c].num = grid[pass[c].loc.x][pass[c].loc.y];
       pwstring += pass[c].num + ':' + pass[c].loc.x + ',' + pass[c].loc.y + ';';
+      console.log(grid)
     }
 
     var usersalt = pwgenrand.string(24);

@@ -7,7 +7,24 @@ var router  = express.Router();
 /* GET grid */
 router.get('/', function(req, res, next) {
   var username = req.query.user;
-  var wants = {'x': req.query.x, 'y': req.query.y, 'grid': req.query.grid};
+  var wants = {};
+  if (req.query.x) {
+    wants.x = req.query.x;
+  } else {
+    wants.x = '';
+  }
+  if (req.query.y) {
+    wants.y = req.query.y;
+  } else {
+    wants.y = '';
+  }
+  if (req.query.grid == '0') {
+    wants.grid = '';    
+  } else if (req.query.grid) {
+    wants.grid = req.query.grid;
+  } else {
+    wants.grid = '';
+  }
   var hash = crypto.createHash('sha256').update(
     wants.x+''+
     wants.y+''+
