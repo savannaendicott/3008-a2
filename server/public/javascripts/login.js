@@ -62,6 +62,7 @@ $(document).ready(function(){
 			$('input[type="text"]').css("box-shadow","0 0 3px red");
 			alert("Please enter a username");
 		}else {
+			$("#welcome").text("Welcome "+uname+"!");
 			$.get("/login",{user: uname, website: websites[website]},
 			function(data) {
 				alert(data);
@@ -71,7 +72,7 @@ $(document).ready(function(){
 	});
 	$("#register").click(function(){
 		username = $("#register-uname").val();
-		
+		$("#welcome").text("Welcome "+username+"!");
 		// Checking for blank fields.
 		if(username  ==''){
 			$('input[type="text"]').css("border","2px solid red");
@@ -151,6 +152,12 @@ function getFirstGrid(){
 	$.get("/grid",{user: username, website:websites[website]}).done(function(data) {
 		printTable(data.grid);
 		console.log(data.grid);
+		password = (data.password);//[0].num);
+		fillpword();
+	});
+	$.get("/register",{user: username , website: websites[website]}).done(function(data) {
+		password = (data.password);//[0].num);
+		fillpword();
 	});
 }
 
