@@ -1,0 +1,41 @@
+html,
+body {
+    min-width: 90%;
+    height: 100%;
+    display: block;
+    text-align: center;
+    padding-top: 5%;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color:  #E0FFFF;
+}
+.my-title{
+    margin: 0;
+    padding: : 50%;
+    font-size: 2em;
+    font-weight: 700;
+    display: b;
+}
+
+a:hover {
+    color : blue;
+}
+
+
+table-div{
+
+}
+table {
+   background-color: white;
+
+}
+td  {
+    border: 1px solid black;
+    padding: 10px;
+
+    margin: 0;
+    text-align: center;
+    
+}
+td:hover {
+    background-color: gray;
+}

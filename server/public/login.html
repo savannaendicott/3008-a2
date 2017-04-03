@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Password System</title>
+
+	<link rel="stylesheet" href="styles.css">
+
+	<h class="my-title">🔒Password Management System🔒</h>
+
+</head>
+
+<body>
+
+<div id="registration-div"> 
+	<form class="form" method="post" action="#login">
+		<label>New Username :</label>
+		<input type="text" name="uname" id="register-uname">
+		<input type="button" name="register" id="register" value="Register">
+	</form>
+</div>
+
+	
+<div id="login-div">
+	<form class="form" method="post" action="#login">
+		<label>Username :</label>
+		<input type="text" name="uname2" id="login-uname">
+		<input type="button" name="login" id="login" value="Login">
+	</form>
+	<a id="no-account"> Don't have an account? Register here</a>
+</div>
+
+<div id ="main-div">
+	<h id="welcome"> Welcome back Savanna!</h>
+	<br>
+	<h id="website"> E-Mail</h><br>
+	<h id="password-instruction">password</h>
+
+	<div table-div>
+	<table id="results" align="center"></table></div>
+	<script src="deps/emojis.js"></script>
+
+	<button id="submit-password">Done</button>
+	<button id="reset">Reset</button>
+	
+
+	<p hidden>Password Entered So Far: </p>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.js"></script> 
+	<script type="text/javascript" src="deps/login.js"></script>
+
+</body>
+
+</html>
