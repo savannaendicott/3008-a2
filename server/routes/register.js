@@ -8,8 +8,14 @@ var sqlite3 = require('sqlite3').verbose();
 /* GET grid */
 router.get('/', function(req, res, next) {
     var username = req.query.user;
+    var website = req.query.website;
+
     if (username == undefined) {
       res.json(400, {status:'error', err:'must register with username'});
+      return;
+    }
+    if (website == undefined) {
+      res.json(400, {status:'error', err:'must register with website'});
       return;
     }
 
@@ -23,14 +29,14 @@ router.get('/', function(req, res, next) {
       var seed;
       if (c == 0) {
         var seed = crypto.createHash('sha256').update(
-        username+
+        username+website+
         req.app.get('seed salt')).digest('hex');
       } else {
         seed = crypto.createHash('sha256').update(
         pass[c-1].loc.x+''+
         pass[c-1].loc.y+''+
         c+''+
-        username+
+        username+website+
         req.app.get('seed salt')).digest('hex');
       }
       
@@ -55,9 +61,14 @@ router.get('/', function(req, res, next) {
     // console.log(req.db);
     console.log(usersalt);
     console.log(pwstring);
-    console.log(crypto.createHash('sha256').update(pwstring+usersalt).digest('hex'));
+    console.log(website);
+    var pwhash = crypto.createHash('sha256').update(website+pwstring+usersalt).digest('hex');
+    console.log(pwhash);
 
     // TODO: store password hash and salt with username
+    req.db.run("INSERT OR REPLACE INTO users (username, website, plaintext_password, hash, salt) VALUES (?,?,?,?,?);",
+      [username, website, pwstring, pwhash, usersalt]
+    );
 
     res.json({password: pass});
 });
