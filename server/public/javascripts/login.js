@@ -208,11 +208,13 @@ function submitAnswer(){
 			}
 			else{
 				alert("👏 Well done! You got it! 👏");
-				finalpage("ok");
+				registrationpage();
+
 			}
 		}
 		else {
-			alert("Please try again.");
+			alert("😭Please try again.😭");
+			registrationpage();
 		}
 	});
 	
