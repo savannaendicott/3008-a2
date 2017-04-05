@@ -8,15 +8,14 @@ getData = function(){
   Blank  <- read.csv(file="Logfiles/Blankpt28_log.csv", head=TRUE,sep=",")
   Image  <- read.csv(file="Logfiles/Imagept28_log.csv", head=TRUE,sep=",")
   
- sort(Text, "TextScheme.csv")
- sort(Blank, "BlankScheme.csv")
- sort(Image, "ImageScheme.csv")
+# sort(Text, "Logfiles/TextScheme.csv")
+ #sort(Blank, "Logfiles/BlankScheme.csv")
+ #sort(Image, "Logfiles/ImageScheme.csv")
   
   lst <-list()
-  a = analyze("TextScheme.csv", "Logfiles/Text28")
-  b = analyze("BlankScheme.csv", "Logfiles/Blank28")
-  c = analyze("ImageScheme.csv","Logfiles/Image28")
-  
+  a = analyze("Logfiles/TextScheme.csv", "Logfiles/Text28")
+  b = analyze("Logfiles/BlankScheme.csv", "Logfiles/Blank28")
+  c = analyze("Logfiles/ImageScheme.csv","Logfiles/Image28")
   
 
   getGraphs(a,b,c)
@@ -174,6 +173,9 @@ analyze = function(inputFile, schemeType){
                       failed   = c( mean = meanF, sd = sdF, median = medianF))
   print ("Number Logins")
   print(stats)
+  
+  sigText = t.test(total$success,total$failures)
+  print(sigText)
   
   times <- data.frame(successful = c(mean = meanSuccTime, sd = sdSuccTime,median = medianSuccTime),
                       failure =    c( mean = meanFailTime, sd = sdFailTime, median = medianFailTime))

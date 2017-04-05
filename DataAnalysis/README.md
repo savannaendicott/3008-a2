@@ -8,4 +8,8 @@ Execution Instructions
 
  To Do:
  - review histograms and boxplots to make sure they provide the required information
+ - The analysis for Part 2
+ 
+ 
+ 
  
