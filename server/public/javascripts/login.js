@@ -13,8 +13,10 @@ var tries = 1;
 var correct = [0,0,0];
 
 $("#website").text(websites[0]);
-$("#reset-button").click(function(){reset()});
-$("#ok-button").click(function(){submitAnswer()});
+$("#reset-button").click(function(){reset();$("#ok-button").hide();});
+$("#ok-button").click(function(){submitAnswer();
+	$("#ok-button").hide();
+});
 
 function printTable(arr){
 	var body, tab, tr, td, tn, row, col;
