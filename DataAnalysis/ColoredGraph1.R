@@ -1,12 +1,16 @@
-setwd("C:/Users/me/Desktop/3008-a2")
+setwd("C:/Users/me/Desktop/3008-a2/DataAnalysis")
 
 #####################   Get Data       ####################################
 # calls sort for each scheme
 # calls analyze for each scheme 
 getData = function(){
- #sort("Text28_log.csv", "TextScheme.csv")
- #sort("Blankpt28_log.csv", "BlankScheme.csv")
- #sort("Imagept28_log.csv", "ImageScheme.csv")
+  Text  <- read.csv(file="Logfiles/Text28_log.csv", head=TRUE,sep=",")
+  Blank  <- read.csv(file="Logfiles/Blankpt28_log.csv", head=TRUE,sep=",")
+  Image  <- read.csv(file="Logfiles/Imagept28_log.csv", head=TRUE,sep=",")
+  
+ sort(Text, "TextScheme.csv")
+ sort(Blank, "BlankScheme.csv")
+ sort(Image, "ImageScheme.csv")
   
   lst <-list()
   a = analyze("TextScheme.csv", "Text28")
@@ -25,8 +29,8 @@ getData = function(){
 # event can be, password created, succesful Login, failed Login and testing
 # time taken records the difference in time between successful or failed login 
 #      and password created.  time is set to 0 at password created.
-sort = function(inputFile, outputFile){
-  data  <- read.csv(file=inputFile, head=TRUE,sep=",")
+sort = function(data, outputFile){
+ 
   df <- data.frame( user = data$user, scheme = data$scheme, site = data$site, mode = data$mode,  event = data$event,  time = data$time)
   info <- data.frame(user = character(0), scheme = character(0),site = character(0), event = character(0),  timeTaken_sec = numeric())
   initTime = 0
