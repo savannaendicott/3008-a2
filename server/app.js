@@ -39,7 +39,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 var db = new sqlite3.Database('db.sqlite');
 
-db.run("CREATE TABLE IF NOT EXISTS users (username TEXT, website TEXT, plaintext_password TEXT, hash TEXT, salt TEXT);")
+db.run("CREATE TABLE IF NOT EXISTS users (username TEXT, website TEXT, plaintext_password TEXT, hash TEXT, salt TEXT, PRIMARY KEY(username, website));")
 
 var useDb = function(req, res, next) {
   req.db = db;
