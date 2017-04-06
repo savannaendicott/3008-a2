@@ -1,24 +1,22 @@
-setwd("C:/Users/me/Desktop/3008-a2/DataAnalysis")
+
+
 
 #####################   Get Data       ####################################
 # calls sort for each scheme
 # calls analyze for each scheme 
 getData = function(){
-  Text  <- read.csv(file="Logfiles/Text28_log.csv", head=TRUE,sep=",")
-  Blank  <- read.csv(file="Logfiles/Blankpt28_log.csv", head=TRUE,sep=",")
-  Image  <- read.csv(file="Logfiles/Imagept28_log.csv", head=TRUE,sep=",")
+  Text  <- read.table(file="server/logs/logins.log", head=TRUE,sep=",")
   
-# sort(Text, "Logfiles/TextScheme.csv")
- #sort(Blank, "Logfiles/BlankScheme.csv")
- #sort(Image, "Logfiles/ImageScheme.csv")
+  print(Text[1,1])
+  sort(Text, "DataAnalysis/Logfiles/EmojiScheme.csv")
+ 
   
   lst <-list()
-  a = analyze("Logfiles/TextScheme.csv", "Text28")
-  b = analyze("Logfiles/BlankScheme.csv", "Blank28")
-  c = analyze("Logfiles/ImageScheme.csv","Image28")
+  a = analyze("DataAnalysis/Logfiles/EmojiScheme.csv", "Emoji")
   
-
-  getGraphs(a,b,c)
+  
+  
+  getGraphs(a)
 }
 
 
@@ -29,8 +27,13 @@ getData = function(){
 # time taken records the difference in time between successful or failed login 
 #      and password created.  time is set to 0 at password created.
 sort = function(data, outputFile){
- 
-  df <- data.frame( user = data$user, scheme = data$scheme, site = data$site, mode = data$mode,  event = data$event,  time = data$time)
+
+  time = data[,1] 
+  event = data[,2]
+  user = data[,3]
+  
+  
+  df <- data.frame( user = user, event =  event,  time = time)
   info <- data.frame(user = character(0), scheme = character(0),site = character(0), event = character(0),  timeTaken_sec = numeric())
   initTime = 0
   finalTime = 0
@@ -70,20 +73,20 @@ sort = function(data, outputFile){
         finalTime =  set[row,]$time
       }
       
-     
-    
+      
+      
       # get time
       totalTime <- difftime(strptime(finalTime, format="%Y-%m-%d %H:%M:%S", tz=""), 
                             strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="secs")
       t =  round(as.numeric(totalTime, units = "secs"), digits = 2)
-   
+      
       if(is.na(t)){
         t = 0.0
       }
-    
+      
       temp = data.frame(user = u, scheme = s, site = site, event = e,  timeTaken_sec = t)
       info <- rbind(info, temp)
-      }
+    }
     
     
   }
@@ -113,7 +116,7 @@ analyze = function(inputFile, schemeType){
     temp <- data.frame(user = u,  logins = totalL, success = totalS, failures = totalF, time = totalT)
     total <- rbind(total, temp)
     
-
+    
   }
   
   meanLogin = mean(total[,2]) 
@@ -133,9 +136,9 @@ analyze = function(inputFile, schemeType){
   success <- data.frame(user = character(0), time = numeric())
   for(u in users){
     set <- subset(df, df$user == u & df$event == "Successful Login")
-   
+    
     t = mean(set$time)/86400
-   
+    
     temp <- data.frame(user = u, time = t)
     success <- rbind(success, temp)
   }
@@ -143,7 +146,7 @@ analyze = function(inputFile, schemeType){
   meanSuccTime = mean(success[,2])
   sdSuccTime = sd(success[,2])
   medianSuccTime = median(success[,2])
-
+  
   
   
   # get failed Logins Time
@@ -155,7 +158,7 @@ analyze = function(inputFile, schemeType){
       t = 0
     else
       t = mean(set$time, na.rm = TRUE)/86400
-  
+    
     temp <- data.frame(user = u, time = t)
     failed <- rbind(failed, temp)
   }
@@ -163,7 +166,7 @@ analyze = function(inputFile, schemeType){
   meanFailTime = mean(failed[,2])
   sdFailTime = sd(failed[,2])
   medianFailTime = median(failed[,2])
- 
+  
   
   
   print(paste("====== Descriptive Statistics", schemeType))
@@ -189,17 +192,13 @@ analyze = function(inputFile, schemeType){
 }
 
 
-getGraphs = function(a, b,c ){
+getGraphs = function(a ){
   
   # Create a BoxPlot for all schemes 
   boxplot(a$failed.time, 
           a$success.time,
-          b$failed.time, 
-          b$success.time,
-          c$failed.time,
-          c$success.time, 
           col=c('red', 'green'),
-          names= c('text28','text28','blank28','blank28', 'image28','image28'), 
+          names= c('failed', 'sucess'), 
           main = "Time Taken", ylab = "days",
           xlab = "Scheme", ylim= c(-1,8))
   par(xpd=TRUE)
@@ -214,20 +213,7 @@ getGraphs = function(a, b,c ){
   legend(16,8,legend=c("success", "fail"),
          col=c("green", "red"), lty=1:2, cex=0.8)
   
-  hist(b$total.success,  col= c("green"),main = "Blank28 number of Logins", xlim =c(0,35), ylim= c(0,8), xlab = "# of Login Attempts")
-  hist(b$total.failures , add = TRUE, col=c("red"))
-  par(xpd=TRUE)
-  legend(20,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
-  
-  
-  hist(c$total.success,  col= c("green"),main = "Image28 number of Logins", xlim =c(0,20), ylim= c(0,12), xlab = "# of Login Attempts")
-  hist(c$total.failures , add = TRUE, col=c("red"))
-  par(xpd=TRUE)
-  legend(17,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
-  
-  
+ 
   # Histograms regarding time taken 
   hist(a$failed.time,  col= c("red") ,main = "Text28 Time for Logins", xlim =c(0,8), ylim= c(0,8), xlab = "Days ")
   hist(a$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
@@ -235,19 +221,7 @@ getGraphs = function(a, b,c ){
   legend(8,8,legend=c("success", "fail"),
          col=c("green", "red"), lty=1:2, cex=0.8)
   
-  hist(b$failed.time,  col=c("red") ,main = "Blank28 time for Logins", xlim =c(0,8), ylim= c(0,8), xlab = "Days")
-  hist(b$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
-  par(xpd=TRUE)
-  legend(8,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
-  
-  
-  hist(c$failed.time,  col= c("red"),main = "Image28 time for Logins", xlim =c(0,8), ylim= c(0,12), xlab = "Days")
-  hist(c$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
-  par(xpd=TRUE)
-  legend(8,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
-  
+
   
   
   
