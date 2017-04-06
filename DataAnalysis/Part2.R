@@ -5,9 +5,8 @@
 # calls sort for each scheme
 # calls analyze for each scheme 
 getData = function(){
-  Text  <- read.table(file="server/logs/logins.log", head=TRUE,sep=",")
+  Text  <- read.table(file="server/logs/loginsNew.log", head=TRUE,sep=" ")
   
-  print(Text[1,1])
   sort(Text, "DataAnalysis/Logfiles/EmojiScheme.csv")
  
   
@@ -28,13 +27,17 @@ getData = function(){
 #      and password created.  time is set to 0 at password created.
 sort = function(data, outputFile){
 
-  time = data[,1] 
-  event = data[,2]
-  user = data[,3]
+  t  =  gsub("\\[","",data[,1]) 
+  t2 =  gsub("\\]","",data[,2]) 
+  time = paste(t,t2)
+  event = data[,6]
+  site = data[,7]
+  user = data[,8]
+
+  print(event)
   
-  
-  df <- data.frame( user = user, event =  event,  time = time)
-  info <- data.frame(user = character(0), scheme = character(0),site = character(0), event = character(0),  timeTaken_sec = numeric())
+  df <- data.frame( user = user, event =  event, site = site,  time = time)
+  info <- data.frame(user = character(0), site = character(0), event = character(0),  timeTaken_sec = numeric())
   initTime = 0
   finalTime = 0
   e = "NA"
@@ -45,10 +48,9 @@ sort = function(data, outputFile){
     set <- subset(df, df$user == u )
     finalTime = 0.0
     for(row in 1:nrow(set)){ # for each entry
-      s = set[row,]$scheme # set scheme
       site = set[row,]$site
       #create new password
-      if(set[row,]$mode == "create" & set[row,]$event == "start")
+      if(set[row,]$event == "create")
       {
         e = "Created Password"
         initTime = set[row,]$time # get initial time
@@ -56,14 +58,14 @@ sort = function(data, outputFile){
         
       }
       # successful login
-      else if(set[row,]$mode == "login" & set[row,]$event == "success")
+      else if(set[row,]$event == "success")
       {
         e = "Successful Login"
         finalTime =  set[row,]$time
         
       }
       # failed login
-      else if (set[row,]$mode == "login" & set[row,]$event == "failure" )
+      else if (set[row,]$event == "unsuccessful" )
       {
         e = "Failed Login"
         finalTime =  set[row,]$time
@@ -72,7 +74,6 @@ sort = function(data, outputFile){
         e   = "testing"
         finalTime =  set[row,]$time
       }
-      
       
       
       # get time
