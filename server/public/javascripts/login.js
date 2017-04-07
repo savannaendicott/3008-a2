@@ -4,15 +4,16 @@ var emojis = ["🏁","🆗","💬","🔔","⏸","🔄","🎦","✅","💯","⛔"
 "🕵","👩","🎓","👸","👰","💃","👙","👗","👔","👠","👞","🎩","🎓","👜","👓","👑","🐶","🐱","🐹","🐼","🐰","🐨","🐷","🐯","🦁","🐮","🐙","🐸","🐔","🐴","🦄","🐝","🐛","🐌","🐚","🐞","🕷","🐢","🦀","🐠","🐬","🐳","🐾","🐿","🐲","🎄","🌴","🍁","🌵","🍀","🍄","🌹","🌻","🌎","🌝","⭐","🔥","🌈","⛄","🌪","🌊","🍎","🍇","🍉","🍌","🍓","🍒","🍑","🍆","🌽","🌶","🧀","🍗","🍤","🍕","🌭","🍔","🍟","🌮","🌯","🍣","🍰","🎂","🍭","🍦","🍪","🍼","🍿","🍩","🍺","🍷"];
 var websites = ["Jee-Mail","Fakebook","Safety Beeposit"];
 var username;
-var website;
+var website ;
 var mode;
-var password="";
+var password;
 var answer = "";
 var counter=0;
-var tries = 1;
+var tries =  [3,3,3];
 var correct = [0,0,0];
+var testing = [0,0,0];
 
-$("#website").text(websites[0]);
+//$("#website").text(websites[website]);
 $("#reset-button").click(function(){reset();$("#ok-button").hide();});
 $("#ok-button").click(function(){submitAnswer();
 	$("#ok-button").hide();
@@ -23,18 +24,18 @@ function printTable(arr){
 	
 	tab = document.getElementById("results");
 	//alert("length of rows is "+arr.length+" and for columns "+arr[0].length);
-;	for (row = 0; row < arr.length; row++){
+	;	for (row = 0; row < arr.length; row++){
 		tr = document.createElement('tr');
 		for (col = 0; col < arr[row].length; col++){
-			  let td = document.createElement('td');
-			  let moj = emojis[arr[row][col]];
-			  let tn = document.createTextNode(moj);
-			  td.addEventListener("click",function(e){tableText(td,moj, e)});
-			  td.setAttribute("x",row);
-			  td.setAttribute("y",col);
-			  td.setAttribute("num",arr[row][col]);
-			  td.appendChild(tn);
-			  tr.appendChild(td);
+			let td = document.createElement('td');
+			let moj = emojis[arr[row][col]];
+			let tn = document.createTextNode(moj);
+			td.addEventListener("click",function(e){tableText(td,moj, e)});
+			td.setAttribute("x",row);
+			td.setAttribute("y",col);
+			td.setAttribute("num",arr[row][col]);
+			td.appendChild(tn);
+			tr.appendChild(td);
 		}
 		tab.appendChild(tr);
 	}
@@ -53,8 +54,8 @@ $(document).ready(function(){
 	registrationpage();
 
 
-    $("#results tr td").click(function(event) {
-       console.log(event);
+	$("#results tr td").click(function(event) {
+		console.log(event);
 	});
 	
 	$("#login").click(function(){
@@ -67,14 +68,15 @@ $(document).ready(function(){
 		}else {
 			$("#welcome").text("Welcome "+uname+"!");
 			$.get("/login",{user: uname, website: websites[website]},
-			function(data) {
-				alert(data);
-			
-			});
+				function(data) {
+					alert(data);
+
+				});
 		}
 	});
 	$("#register").click(function(){
 		username = $("#register-uname").val();
+		password = [null,null,null];
 		$("#welcome").text("Welcome "+username+"!");
 		// Checking for blank fields.
 		if(username  ==''){
@@ -82,16 +84,17 @@ $(document).ready(function(){
 			$('input[type="text"]').css("box-shadow","0 0 3px red");
 			alert("Please enter a username");
 		}else {
-			$.get("/register",{user: username , website: websites[website]}).done(function(data) {
+			$.get("/register",{user: username , website: websites[0]}).done(function(data) {
+				$("#website").text(websites[0]);
+				password[0] = (data.password);//[0].num);
 				answer ="";
-				tries = 1;
-				website =0;
+				tries = 0;
+				website = 0;
 				counter = 0;
-				password = (data.password);//[0].num);
 				fillpword();
 			});
 		}
-	});
+		});
 
 	$("#no-account").click(function(){
 		registrationpage();
@@ -159,96 +162,125 @@ function getFirstGrid(){
 		//password = (data.password);//[0].num);
 		//fillpword();
 	});
-	if(website !=0){
+	if(password[website] == null){
 		$.get("/register",{user: username , website: websites[website]}).done(function(data) {
-		password = (data.password);//[0].num);
-		fillpword();
-		});
+		password[website] = (data.password);//[0].num);
+		tries =0;	
+		answer ="";
+		counter = 0;
+		fillpword();			
+	});
 	}
 }
 
 function fillpword(){
 	var text ="";
+	p = password[website];
 	for(i=0;i < 4;i++){
-		text += emojis[password[i].num];
+		text += emojis[p[i].num];
 	}
 	$("#password-instruction").text(text);
 }
 
 function tableText(tablecell, tabletext, event) {
-   console.log(answer.length);
-   if(counter <4){
-   		$("#progress").text($("#progress").text() +"•");
-   		console.log(tabletext);
-   		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
-   		counter ++;
+	console.log(answer.length);
+	if(counter <4){
+		$("#progress").text($("#progress").text() +"•");
+		console.log(tabletext);
+		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
+		counter ++;
 
-   		$("#results").text("");
-   		getGrid(tablecell)
-   	}
-   if(counter == 4){
-   	 console.log(answer);
-     $("#ok-button").show();
+		$("#results").text("");
+		getGrid(tablecell)
+	}
+	if(counter == 4){
+		console.log(answer);
+		$("#ok-button").show();
 
-   }
+	}
 }
 function submitAnswer(){
-	//console.log("done");
 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
-		if(data.status == "ok"){
-			if(mode == "test"){
+	if(data.status == "ok"){
+		if(mode == "test"){
 				$("#password-instruction").hide();
 				mode = "go";
 				answer ="";
 				$("#progress").text("");
 				counter =0;
 				$("#results").text("");	
-
+				getFirstGrid();
+		
+		 }else if (mode == "final"){
+				if(website == 3){
+					done();
+					break;
+				}
+				website ++;
+				testing[website] = 1;
+				$("#password-instruction").hide();
+				mode = "go";
+				answer ="";
+				$("#progress").text("");
 				$("#results").text("");	
 				getFirstGrid();
-
-			}
-			else{
-				alert("👏 Well done! You got it! 👏");
-				registrationpage();
-
-			}
-		}
-		else {
-			alert("😭Please try again.😭");
-			registrationpage();
-		}
-	});
-	
-	//website= website+1;
-	/*if(website == 3){
-		// they got it!
-		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-			finalpage("ok");
-		}
-		// they didn't get it, but they have more tries!
-		else if(tries < 3){
-			var trystring = "try";
-			if(tries>1) trystring = "tries";
-			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
-		 	tries ++;
-		 	website = 0;
-		 	$("#results").text("");	
-		 	getFirstGrid();
-		}
-		// they didn't get it :(
+		
+		 }
 		else{
-			// ALL DONE!
-			finalpage("n_ok");
-		}
+			alert("👏 Well done! You got it! 👏");
+				correct[website] = 1;
+				website = website + 1;
+				mode = "test";
+				$("#password-instruction").show();
+				if(website == 3){  // on third site
+					// they got it!
+					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+						check();
+						//registrationpage();
+					}
+					// they didn't get it :(
+					else{
+						// ALL DONE!
+						finalpage("n_ok");
+					}
 
-	}
-	else{
-		$("#results").text("");	
+				}else if(correct[website] == 0){
+					tries[website] = 0;
+					$("#website").text(websites[website]);
+					$("#results").text("");
+					$("#progress").text("");
+					getFirstGrid();
+				}else{
+					registrationpage();
+						
+
+				}
+			}
+
+		}
+	else if(mode == "final") {
+		alert("wrong");
+		website++;
+		$("#progress").text("");
+		$("#results").text("");
 		getFirstGrid();
-	}*/
+		}
+	else {
+		alert("😭Please try again.😭");
+		if(tries[website] ==0){
+			registrationpage();
+		}else{
+			tries[website] -= 1;
+			reset();
+			fillpword();
+
+		}
+	}
+});
 
 }
+
+
 function submitAnswer1(){
 	//console.log("done");
 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
@@ -261,11 +293,11 @@ function submitAnswer1(){
 
 	answer ="";
 	$("#progress").text("");
-	counter =0;
+	counter = 0;
 	$("#results").text("");	
 	$("#website").text(websites[website]);	
 
-	website= website+1;
+	website = website+1;
 	if(website == 3){
 		// they got it!
 		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
@@ -276,10 +308,10 @@ function submitAnswer1(){
 			var trystring = "try";
 			if(tries>1) trystring = "tries";
 			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
-		 	tries ++;
-		 	website = 0;
-		 	$("#results").text("");	
-		 	getFirstGrid();
+			tries ++;
+			website = 0;
+			$("#results").text("");	
+			getFirstGrid();
 		}
 		// they didn't get it :(
 		else{
@@ -293,6 +325,16 @@ function submitAnswer1(){
 
 }
 
+
+function check(){
+	website = 0;
+	mode = "final"
+	$("#password-instruction").hide();
+	getFirstGrid();
+}
+
+
+
 function reset(){
 	answer ="";
 	$("#progress").text("");
@@ -302,5 +344,7 @@ function reset(){
 	getFirstGrid();
 
 }
+
+
 
 
