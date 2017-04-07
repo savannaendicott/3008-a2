@@ -24,7 +24,7 @@ function printTable(arr){
 	
 	tab = document.getElementById("results");
 	
-  
+
 	for (row = 0; row < arr.length; row++){
 
 		tr = document.createElement('tr');
@@ -90,7 +90,7 @@ $(document).ready(function(){
 				$("#website").text(websites[0]);
 				password[0] = (data.password);//[0].num);
 				answer ="";
-				tries = 0;
+				tries[0] = 3;
 				website = 0;
 				counter = 0;
 				fillpword();
@@ -170,7 +170,7 @@ function getFirstGrid(){
 	if(password[website] == null){
 		$.get("/register",{user: username , website: websites[website]}).done(function(data) {
 		password[website] = (data.password);//[0].num);
-		tries =0;	
+		tries[website] = 3;	
 		answer ="";
 		counter = 0;
 		$("#progress").text("");
@@ -230,11 +230,11 @@ function submitAnswer(){
 		 			alert("You Successfully remembered all passwords");
 							registrationpage();
 		 		}
-		 		if(testing[website-1] == 0 ){
-		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
-					console.log("testing "+(website-1));
-					testing[website-1] = 1;
-					check(website-1);
+		 		if(testing[website] == 0 ){
+		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website]);
+					console.log("testing "+(website));
+					testing[website] = 1;
+					check(website);
 				}
 		 	}
 		 	else{
@@ -247,11 +247,12 @@ function submitAnswer(){
 
 						}
 
-						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
-						if(testing[website-1] == 0 ){
+						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website]);
+						if(testing[website] == 0 ){
 							console.log("testing "+0);
-							testing[website-1] = 1;
-							check(website-1);
+							testing[website] = 1;
+							check(website);
+
 						}
 						else{
 							alert("You Successfully remembered all passwords");
@@ -297,6 +298,7 @@ function submitAnswer(){
 	}
 });
 
+
 }
 
 
@@ -305,16 +307,17 @@ function check(site){
 	website = site;
 	//website++;
 	$("#website").text(websites[website]);
-	//tries[website] = 3;
-	mode = "login";
+	testing[website] = 0;
+	mode = "login"
+	count = 0;
 	$("#password-instruction").hide();
 	$("#progress").text("");
 	$("#results").text("");
-	getFirstGrid();
+	reset();
 }
 
 function shuffle(array) {
-  var currentIndex = array.length, temporaryValue, randomIndex;
+	var currentIndex = array.length, temporaryValue, randomIndex;
 
   // While there remain elements to shuffle...
   while (0 !== currentIndex) {
@@ -327,9 +330,9 @@ function shuffle(array) {
     temporaryValue = array[currentIndex];
     array[currentIndex] = array[randomIndex];
     array[randomIndex] = temporaryValue;
-  }
+}
 
-  return array;
+return array;
 }
 
 
