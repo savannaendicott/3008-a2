@@ -206,12 +206,12 @@ function tableText(tablecell, tabletext, event) {
 }
 function submitAnswer(){
 	console.log(answer);
-	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
+	$.post("/login",{username: username, password:answer, website:websites[website], mode:mode}).done(function(data) {
 		if(data.status == "ok"){
 			if(mode == "test"){
 				$("#password-instruction").hide();
-				mode = "go";
 				answer ="";
+				mode = "trial"
 				$("#progress").text("");
 				counter =0;
 				$("#results").text("");	
@@ -269,6 +269,7 @@ function submitAnswer(){
 		if(tries[website] == 0){
 			registrationpage();
 		}else{
+			alert(tries[website]);
 			tries[website] -= 1;
 			reset();
 			fillpword();
@@ -281,15 +282,26 @@ function submitAnswer(){
 
 
 function check(site){
+<<<<<<< HEAD
 	//alert("testing");
+=======
+>>>>>>> origin/master
 	website = site;
 	website++;
 	$("#website").text(websites[website]);
+<<<<<<< HEAD
 	//tries = [0,0,0];
 	mode = "login"
 	$("#password-instruction").hide();
 	$("results").text("");
 
+=======
+	tries[website] = 3;
+	mode = "login"
+	$("#password-instruction").hide();
+	$("#progress").text("");
+	$("#results").text("");
+>>>>>>> origin/master
 	getFirstGrid();
 }
 
