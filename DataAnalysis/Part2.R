@@ -214,7 +214,7 @@ getGraphs = function(a ){
           col=c('red', 'green'),
           names= c('failed', 'success'), 
           main = "Time Taken", ylab = "sec",
-          xlab = "Scheme", ylim= c(-1,300))
+          ylim= c(-1,300))
   par(xpd=TRUE)
   legend(5,10,legend=c("success", "fail"),
          col=c("green", "red"), lty=1:2, cex=0.8)
