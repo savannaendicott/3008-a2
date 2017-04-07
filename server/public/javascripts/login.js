@@ -230,11 +230,11 @@ function submitAnswer(){
 		 			alert("You Successfully remembered all passwords");
 							registrationpage();
 		 		}
-		 		if(testing[website-1] == 0 ){
-		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
-					console.log("testing "+(website-1));
-					testing[website-1] = 1;
-					check(website-1);
+		 		if(testing[website] == 0 ){
+		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website]);
+					console.log("testing "+(website));
+					testing[website] = 1;
+					check(website);
 				}
 		 	}
 		 	else{
@@ -247,24 +247,26 @@ function submitAnswer(){
 
 						}
 
-						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
-						if(testing[website-1] == 0 ){
+						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website]);
+						if(testing[website] == 0 ){
 							console.log("testing "+0);
-							testing[website-1] = 1;
-							check(website-1);
+							testing[website] = 1;
+							check(website);
+
 						}
 						else{
 							alert("You Successfully remembered all passwords");
 							registrationpage();
 						}
-					}// they didn't get it :(
+					}
+					// they didn't get it :(
 					else{
+						// ALL DONE!
 						alert("I'm sorry. You didn't guess the passwords correctly.")
 						finalpage("n_ok");
 					}
-						
 
-				} else if(correct[website] == 0){
+				}else if(correct[website] == 0){
 					tries[website] = 0;
 					$("#website").text(websites[website]);
 					$("#results").text("");
@@ -272,25 +274,30 @@ function submitAnswer(){
 					getFirstGrid();
 				}else{
 					registrationpage();
+					
+
 				}
+
+			}}
 
 		}
-		else {
-			alert("😭Please try again.😭");
-			if(mode == "Login"){
-				websites = shuffle(websites);
-				getFirstGrid();
-			}
-			if(tries[website] == 0){
-				registrationpage();
-			}else{
-				tries[website] -= 1;
-				reset();
-				fillpword();
+	else {
+		alert("😭Please try again.😭");
+		if(mode == "Login"){
+			websites = shuffle(websites);
+			getFirstGrid();
+		}
+		if(tries[website] == 0){
+			registrationpage();
+		}else{
+			tries[website] -= 1;
+			reset();
+			fillpword();
 
-				}
-			}
-		});
+		}
+	}
+});
+
 
 }
 
@@ -302,11 +309,11 @@ function check(site){
 	$("#website").text(websites[website]);
 	testing[website] = 0;
 	mode = "login"
-
+	count = 0;
 	$("#password-instruction").hide();
 	$("#progress").text("");
 	$("#results").text("");
-	getFirstGrid();
+	reset();
 }
 
 function shuffle(array) {
