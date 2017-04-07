@@ -22,7 +22,7 @@ DataAnalysis/
     --> Part1.R
     --> Part2.R
     --> README.md (the instructions for running Parts 1 and 2.R)
---> server/
+server/
     --> app.js    (the main controller)
     --> bin/www   (start script)
     --> logs/
