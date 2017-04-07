@@ -15,7 +15,7 @@ getData = function(){
   
   
   
- # getGraphs(a)
+  getGraphs(a)
 }
 
 
@@ -35,9 +35,6 @@ sort = function(data, outputFile){
   mode = data[,8]
   user = data[,9]
   
-
-  print(mode)
-  
   df <- data.frame( user = user, event =  event, site = site, mode = mode,  time = time)
   info <- data.frame(user = character(0), site = character(0), event = character(0),  timeTaken_sec = numeric())
   initTime = 0
@@ -48,7 +45,6 @@ sort = function(data, outputFile){
   for (u in unique(df$user)){ # for user
     user = u  # set user
     set <- subset(df, df$user == u )
-    finalTime = 0.0
     for(row in 1:nrow(set)){ # for each entry
       site = set[row,]$site
       #create new password
@@ -60,7 +56,7 @@ sort = function(data, outputFile){
         
       }
       # successful login
-      else if(set[row,]$event == "success" && set[row,]$mode == "login")
+      else if(set[row,]$event == "successful" && set[row,]$mode == "login")
       {
         e = "Successful Login"
         finalTime =  set[row,]$time
@@ -83,11 +79,12 @@ sort = function(data, outputFile){
                             strptime(initTime, format="%Y-%m-%d %H:%M:%S", tz=""), units="secs")
       t =  round(as.numeric(totalTime, units = "secs"), digits = 2)
       
+    
       if(is.na(t)){
         t = 0.0
       }
-      
-      temp = data.frame(user = u, scheme = s, site = site, event = e,  timeTaken_sec = t)
+  
+      temp = data.frame(user = u, site = site, event = e,  timeTaken_sec = t)
       info <- rbind(info, temp)
     }
     
@@ -104,45 +101,56 @@ sort = function(data, outputFile){
 #         for a successful/failed login. 
 analyze = function(inputFile, schemeType){
   data  <- read.csv(file=inputFile, head=TRUE,sep=",")
-  df <- data.frame( user = data$user, scheme = data$scheme, site = data$site,  event = data$event,  time = data$timeTaken_sec)
+  df <- data.frame( user = data$user, site = data$site,  event = data$event,  time = data$timeTaken_sec)
   users <- unique(df$user)
   
   # get Login Totals 
   total <- data.frame(user = character(0),logins = numeric(), success = numeric(), failures = numeric(), time = numeric())
   for(u in users){
     set <- subset(df, df$user == u)
-    
+  #  print(set);
+  
     totalS = sum(set$event == "Successful Login")
     totalF = sum(set$event == "Failed Login")
-    totalL = totalS + totalF
+    totalL = sum(totalS, totalF)
     totalT = sum(set$time)
+
+    if(totalL == 0){
+      totalF = totalF +1
+      totalL = totalL +1
+    }    
+    
     temp <- data.frame(user = u,  logins = totalL, success = totalS, failures = totalF, time = totalT)
     total <- rbind(total, temp)
     
     
+    
   }
   
-  meanLogin = mean(total[,2]) 
-  sdLogin  = sd(total[,2])
-  medianLogin  = median(total[,2])
+  meanLogin = mean(total$logins) 
+  sdLogin  = sd(total$logins)
+  medianLogin  = median(total$logins)
+
   
-  meanS = mean(total[,3])
-  sdS = sd(total[,3])
-  medianS = median(total[,3])
+  meanS = mean(total$success)
+  sdS = sd(total$success)
+  medianS = median(total$success)
   
-  meanF = mean(total[,4])
-  sdF = sd(total[,4])
-  medianF = median(total[,4])
+  meanF = mean(total$failures)
+  sdF = sd(total$failures)
+  medianF = median(total$failures)
   
   
   # get Successful Logins time
   success <- data.frame(user = character(0), time = numeric())
   for(u in users){
     set <- subset(df, df$user == u & df$event == "Successful Login")
+    t = mean(set$time)
     
-    t = mean(set$time)/86400
-    
-    temp <- data.frame(user = u, time = t)
+    if(is.na(t)){
+      t = 0.0
+    }
+      temp <- data.frame(user = u, time = t)
     success <- rbind(success, temp)
   }
   
@@ -160,15 +168,18 @@ analyze = function(inputFile, schemeType){
     if(length(set$time) == 0)
       t = 0
     else
-      t = mean(set$time, na.rm = TRUE)/86400
-    
+      t = mean(set$time)
+    if(is.na(t)){
+      t = 0.0
+    }
     temp <- data.frame(user = u, time = t)
     failed <- rbind(failed, temp)
   }
   
-  meanFailTime = mean(failed[,2])
-  sdFailTime = sd(failed[,2])
-  medianFailTime = median(failed[,2])
+  
+  meanFailTime = mean(failed$time)
+  sdFailTime = sd(failed$time)
+  medianFailTime = median(failed$time)
   
   
   
@@ -185,7 +196,7 @@ analyze = function(inputFile, schemeType){
   
   times <- data.frame(successful = c(mean = meanSuccTime, sd = sdSuccTime,median = medianSuccTime),
                       failure =    c( mean = meanFailTime, sd = sdFailTime, median = medianFailTime))
-  print("Time Logins (in days)")
+  print("Time Logins (in secs)")
   print(times)
   
   
@@ -201,28 +212,23 @@ getGraphs = function(a ){
   boxplot(a$failed.time, 
           a$success.time,
           col=c('red', 'green'),
-          names= c('failed', 'sucess'), 
-          main = "Time Taken", ylab = "days",
-          xlab = "Scheme", ylim= c(-1,8))
+          names= c('failed', 'success'), 
+          main = "Time Taken", ylab = "sec",
+          xlab = "Scheme", ylim= c(-1,300))
   par(xpd=TRUE)
   legend(5,10,legend=c("success", "fail"),
          col=c("green", "red"), lty=1:2, cex=0.8)
   
   
   # Histograms regarding Number of Logins
-  hist(a$total.failures,  col= c("red"),main = "Text28 number of Logins", xlim =c(0,20), ylim= c(0,8), xlab = "# of Login Attempts")
+  hist(a$total.failures,  col= c("red"),main = "Emoji number of Logins", xlim =c(0,20), ylim= c(0,20), xlab = "# of Login Attempts")
   hist(a$total.success , add = TRUE, col=c("green"))
-  par(xpd=TRUE)
-  legend(16,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
   
  
   # Histograms regarding time taken 
-  hist(a$failed.time,  col= c("red") ,main = "Text28 Time for Logins", xlim =c(0,8), ylim= c(0,8), xlab = "Days ")
+  hist(a$failed.time, col=c("red"), main = "time Taken", xlim = c(0,350), xlab = "time in seconds");
   hist(a$success.time , add = TRUE, col=rgb(0,1,0,0.75) )
-  par(xpd=TRUE)
-  legend(8,8,legend=c("success", "fail"),
-         col=c("green", "red"), lty=1:2, cex=0.8)
+
   
 
   
