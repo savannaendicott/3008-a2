@@ -203,6 +203,7 @@ function tableText(tablecell, tabletext, event) {
 	}
 }
 function submitAnswer(){
+	console.log(answer);
 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
 		if(data.status == "ok"){
 			if(mode == "test"){
