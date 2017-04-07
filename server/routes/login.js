@@ -6,7 +6,7 @@ var log4js = require('log4js');
 log4js.configure({
   appenders: [
     { type: 'console' },
-    { type: 'file', filename: 'logs/logins.log', category: 'login'}
+    { type: 'file', filename: 'logs/loginsNew.log', category: 'password'}
   ]
 });
 
@@ -16,14 +16,14 @@ router.post('/', function(req, res, next) {
   var password = req.body.password;
   var website = req.body.website;
   req.db.all("SELECT * FROM users WHERE username=? AND website=?;", [username, website], function(err, rows) {
-    var log = log4js.getLogger('login');
+    var log = log4js.getLogger('password');
     var hash = crypto.createHash('sha256').update(website+password+rows[0].salt).digest('hex');
     if (hash == rows[0].hash) {
       res.json({'status': 'ok'});
-      log.info("successful login", username);
+      log.info("successful", website, username);
     } else {
       res.json({'status': 'wrong password'});
-      log.info("unsuccessful login", username);
+      log.info("unsuccessful", website, username);
       
     }
   });

@@ -4,7 +4,13 @@ var shuffle = require('shuffle-array');
 var gen = require('random-seed');
 var router  = express.Router();
 var sqlite3 = require('sqlite3').verbose();
-
+var log4js = require('log4js');
+log4js.configure({
+  appenders: [
+    { type: 'console' },
+    { type: 'file', filename: 'logs/loginsNew.log', category: 'password'}
+  ]
+});
 /* GET grid */
 router.get('/', function(req, res, next) {
     var username = req.query.user;
@@ -66,11 +72,12 @@ router.get('/', function(req, res, next) {
     console.log(pwhash);
 
     // TODO: store password hash and salt with username
-    req.db.run("INSERT OR REPLACE INTO users (username, website, plaintext_password, hash, salt) VALUES (?,?,?,?,?);",
-      [username, website, pwstring, pwhash, usersalt]
-    );
-
-    res.json({password: pass});
+      req.db.run("INSERT OR REPLACE INTO users (username, website, plaintext_password, hash, salt) VALUES (?,?,?,?,?);",
+      [username, website, pwstring, pwhash, usersalt], function(err){
+        var log = log4js.getLogger('password');
+       res.json({password: pass});
+        log.info("create", website, username);
+      
+    });
 });
-
 module.exports = router;
