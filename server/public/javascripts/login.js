@@ -218,30 +218,45 @@ function submitAnswer(){
 				console.log("got status OK!");
 				getFirstGrid();
 				
-			}
-			else{
-				alert("👏 Well done! You got it! 👏");
-				correct[website] = 1;
-				website = website + 1;
-				mode = "test";
-				$("#password-instruction").show();
+			 }
+		 else{
+		 	alert("👏 Well done! You got it! 👏");
+		 	correct[website] = 1;
+		 	website = website + 1;
+		 	mode = "test";
+		 	
+		 	if(mode=="login"){
+		 		if(website == 3){
+		 			alert("You Successfully remembered all passwords");
+							registrationpage();
+		 		}
+		 		if(testing[website-1] == 0 ){
+		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
+					console.log("testing "+(website-1));
+					testing[website-1] = 1;
+					check(website-1);
+				}
+		 	}
+		 	else{
+		 		$("#password-instruction").show();
+				if(website == 3){  // on third site
+					//if all correct then we can test 
+					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+						if(mode != "login"){
+							websites = shuffle(websites);
 
-				//if all correct then we can test 
-				if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-					if(mode != "login"){
-						websites = shuffle(websites);
-						testing = [0,0,0];
+						}
 
-					}
-					alert("ABOUT TO TEST! WE ARE AT..." , testing );
-					if(testing[website] == 0 ){
-						console.log("testing "+0);
-						testing[website] = 1;
-						check(website);
-					}
-					else if (testing = [1,1,1]){
-						alert("You Successfully remembered all passwords");
-						registrationpage();
+						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
+						if(testing[website-1] == 0 ){
+							console.log("testing "+0);
+							testing[website-1] = 1;
+							check(website-1);
+						}
+						else{
+							alert("You Successfully remembered all passwords");
+							registrationpage();
+						}
 					}// they didn't get it :(
 					else{
 						alert("I'm sorry. You didn't guess the passwords correctly.")
@@ -258,7 +273,7 @@ function submitAnswer(){
 				}else{
 					registrationpage();
 				}
-			}
+
 		}
 		else {
 			alert("😭Please try again.😭");
@@ -283,10 +298,11 @@ function submitAnswer(){
 function check(site){
 
 	website = site;
-	website++;
+	//website++;
 	$("#website").text(websites[website]);
 	testing[website] = 0;
 	mode = "login"
+
 	$("#password-instruction").hide();
 	$("#progress").text("");
 	$("#results").text("");
