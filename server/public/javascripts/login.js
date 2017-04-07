@@ -224,7 +224,21 @@ function submitAnswer(){
 		 	correct[website] = 1;
 		 	website = website + 1;
 		 	mode = "test";
-		 	$("#password-instruction").show();
+		 	
+		 	if(mode=="login"){
+		 		if(website == 3){
+		 			alert("You Successfully remembered all passwords");
+							registrationpage();
+		 		}
+		 		if(testing[website-1] == 0 ){
+		 			alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
+					console.log("testing "+(website-1));
+					testing[website-1] = 1;
+					check(website-1);
+				}
+		 	}
+		 	else{
+		 		$("#password-instruction").show();
 				if(website == 3){  // on third site
 					//if all correct then we can test 
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
@@ -233,11 +247,11 @@ function submitAnswer(){
 
 						}
 
-						alert("ABOUT TO TEST! WE ARE AT..."  );
-						if(testing[website] == 0 ){
+						alert("ABOUT TO TEST! WE ARE AT..."  + testing[website-1]);
+						if(testing[website-1] == 0 ){
 							console.log("testing "+0);
-							test[website] = 1;
-							check(website);
+							testing[website-1] = 1;
+							check(website-1);
 						}
 						else{
 							alert("You Successfully remembered all passwords");
@@ -262,7 +276,8 @@ function submitAnswer(){
 					
 
 				}
-			}
+
+			}}
 
 		}
 	else {
@@ -288,10 +303,10 @@ function submitAnswer(){
 function check(site){
 
 	website = site;
-	website++;
+	//website++;
 	$("#website").text(websites[website]);
 	//tries[website] = 3;
-	mode = "login"
+	mode = "login";
 	$("#password-instruction").hide();
 	$("#progress").text("");
 	$("#results").text("");
