@@ -24,7 +24,7 @@ function printTable(arr){
 	
 	tab = document.getElementById("results");
 	
-  
+
 	for (row = 0; row < arr.length; row++){
 
 		tr = document.createElement('tr');
@@ -90,7 +90,7 @@ $(document).ready(function(){
 				$("#website").text(websites[0]);
 				password[0] = (data.password);//[0].num);
 				answer ="";
-				tries = 0;
+				tries[0] = 3;
 				website = 0;
 				counter = 0;
 				fillpword();
@@ -170,7 +170,7 @@ function getFirstGrid(){
 	if(password[website] == null){
 		$.get("/register",{user: username , website: websites[website]}).done(function(data) {
 		password[website] = (data.password);//[0].num);
-		tries =0;	
+		tries[website] = 3;	
 		answer ="";
 		counter = 0;
 		$("#progress").text("");
@@ -218,40 +218,38 @@ function submitAnswer(){
 				console.log("got status OK!");
 				getFirstGrid();
 				
-			 }
-		 else{
-		 	alert("👏 Well done! You got it! 👏");
-		 	correct[website] = 1;
-		 	website = website + 1;
-		 	mode = "test";
-		 	$("#password-instruction").show();
-				if(website == 3){  // on third site
-					//if all correct then we can test 
-					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-						if(mode != "login"){
-							websites = shuffle(websites);
+			}
+			else{
+				alert("👏 Well done! You got it! 👏");
+				correct[website] = 1;
+				website = website + 1;
+				mode = "test";
+				$("#password-instruction").show();
 
-						}
+				//if all correct then we can test 
+				if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+					if(mode != "login"){
+						websites = shuffle(websites);
+						testing = [0,0,0];
 
-						alert("ABOUT TO TEST! WE ARE AT..."  );
-						if(testing[website] == 0 ){
-							console.log("testing "+0);
-							test[website] = 1;
-							check(website);
-						}
-						else{
-							alert("You Successfully remembered all passwords");
-							registrationpage();
-						}
 					}
-					// they didn't get it :(
+					alert("ABOUT TO TEST! WE ARE AT..." , testing );
+					if(testing[website] == 0 ){
+						console.log("testing "+0);
+						testing[website] = 1;
+						check(website);
+					}
+					else if (testing = [1,1,1]){
+						alert("You Successfully remembered all passwords");
+						registrationpage();
+					}// they didn't get it :(
 					else{
-						// ALL DONE!
 						alert("I'm sorry. You didn't guess the passwords correctly.")
 						finalpage("n_ok");
 					}
+						
 
-				}else if(correct[website] == 0){
+				} else if(correct[website] == 0){
 					tries[website] = 0;
 					$("#website").text(websites[website]);
 					$("#results").text("");
@@ -259,28 +257,25 @@ function submitAnswer(){
 					getFirstGrid();
 				}else{
 					registrationpage();
-					
+				}
+			}
+		}
+		else {
+			alert("😭Please try again.😭");
+			if(mode == "Login"){
+				websites = shuffle(websites);
+				getFirstGrid();
+			}
+			if(tries[website] == 0){
+				registrationpage();
+			}else{
+				tries[website] -= 1;
+				reset();
+				fillpword();
 
 				}
 			}
-
-		}
-	else {
-		alert("😭Please try again.😭");
-		if(mode == "Login"){
-			websites = shuffle(websites);
-			getFirstGrid();
-		}
-		if(tries[website] == 0){
-			registrationpage();
-		}else{
-			tries[website] -= 1;
-			reset();
-			fillpword();
-
-		}
-	}
-});
+		});
 
 }
 
@@ -290,7 +285,7 @@ function check(site){
 	website = site;
 	website++;
 	$("#website").text(websites[website]);
-	//tries[website] = 3;
+	testing[website] = 0;
 	mode = "login"
 	$("#password-instruction").hide();
 	$("#progress").text("");
@@ -299,7 +294,7 @@ function check(site){
 }
 
 function shuffle(array) {
-  var currentIndex = array.length, temporaryValue, randomIndex;
+	var currentIndex = array.length, temporaryValue, randomIndex;
 
   // While there remain elements to shuffle...
   while (0 !== currentIndex) {
@@ -312,9 +307,9 @@ function shuffle(array) {
     temporaryValue = array[currentIndex];
     array[currentIndex] = array[randomIndex];
     array[randomIndex] = temporaryValue;
-  }
+}
 
-  return array;
+return array;
 }
 
 
