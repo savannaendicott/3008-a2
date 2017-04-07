@@ -76,7 +76,7 @@ router.get('/', function(req, res, next) {
       [username, website, pwstring, pwhash, usersalt], function(err){
         var log = log4js.getLogger('password');
        res.json({password: pass});
-        log.info("create", website, username);
+        log.info("create",website, username);
       
     });
 });
