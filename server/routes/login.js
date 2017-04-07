@@ -21,6 +21,7 @@ router.post('/', function(req, res, next) {
     var hash = crypto.createHash('sha256').update(website+password+rows[0].salt).digest('hex');
     if (hash == rows[0].hash) {
       res.json({'status': 'ok'});
+      log.info("successful", website, username);
       log.info("successful", website, mode, username);
     } else {
       res.json({'status': 'wrong password'});
