@@ -211,21 +211,20 @@ function submitAnswer(){
 				$("#results").text("");	
 				getFirstGrid();
 		
-		 }else if (mode == "final"){
-				if(website == 3){
-					done();
-					break;
-				}
-				website ++;
-				testing[website] = 1;
-				$("#password-instruction").hide();
-				mode = "go";
-				answer ="";
-				$("#progress").text("");
-				$("#results").text("");	
-				getFirstGrid();
+		 }//else if (mode == "final"){
+				// if(website == 3){
+				// 	done();
+				// 	break;
+				// }
+				// website ++;
+				// testing[website] = 1;
+				// $("#password-instruction").hide();
+				// answer ="";
+				// $("#progress").text("");
+				// $("#results").text("");	
+				// getFirstGrid();
 		
-		 }
+		 //}
 		else{
 			alert("👏 Well done! You got it! 👏");
 				correct[website] = 1;
@@ -235,8 +234,8 @@ function submitAnswer(){
 				if(website == 3){  // on third site
 					// they got it!
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-						check();
-						//registrationpage();
+						//check();
+						registrationpage();
 					}
 					// they didn't get it :(
 					else{
@@ -258,13 +257,13 @@ function submitAnswer(){
 			}
 
 		}
-	else if(mode == "final") {
-		alert("wrong");
-		website++;
-		$("#progress").text("");
-		$("#results").text("");
-		getFirstGrid();
-		}
+	// else if(mode == "final") {
+	// 	alert("wrong");
+	// 	website++;
+	// 	$("#progress").text("");
+	// 	$("#results").text("");
+	// 	getFirstGrid();
+	// 	}
 	else {
 		alert("😭Please try again.😭");
 		if(tries[website] ==0){
@@ -326,12 +325,12 @@ function submitAnswer1(){
 }
 
 
-function check(){
-	website = 0;
-	mode = "final"
-	$("#password-instruction").hide();
-	getFirstGrid();
-}
+// function check(){
+// 	website = 0;
+// 	mode = "final"
+// 	$("#password-instruction").hide();
+// 	getFirstGrid();
+// }
 
 
 
