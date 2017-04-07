@@ -94,7 +94,7 @@ $(document).ready(function(){
 				fillpword();
 			});
 		}
-		});
+	});
 
 	$("#no-account").click(function(){
 		registrationpage();
@@ -191,6 +191,7 @@ function tableText(tablecell, tabletext, event) {
 		console.log(tabletext);
 		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
 		counter ++;
+		$("#results").test("");
 		getGrid(tablecell)
 	}
 	if(counter == 4){
@@ -201,8 +202,8 @@ function tableText(tablecell, tabletext, event) {
 }
 function submitAnswer(){
 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
-	if(data.status == "ok"){
-		if(mode == "test"){
+		if(data.status == "ok"){
+			if(mode == "test"){
 				$("#password-instruction").hide();
 				mode = "go";
 				answer ="";
@@ -210,7 +211,7 @@ function submitAnswer(){
 				counter =0;
 				$("#results").text("");	
 				getFirstGrid();
-		
+				
 		 }//else if (mode == "final"){
 				// if(website == 3){
 				// 	done();
@@ -223,14 +224,14 @@ function submitAnswer(){
 				// $("#progress").text("");
 				// $("#results").text("");	
 				// getFirstGrid();
-		
+				
 		 //}
-		else{
-			alert("👏 Well done! You got it! 👏");
-				correct[website] = 1;
-				website = website + 1;
-				mode = "test";
-				$("#password-instruction").show();
+		 else{
+		 	alert("👏 Well done! You got it! 👏");
+		 	correct[website] = 1;
+		 	website = website + 1;
+		 	mode = "test";
+		 	$("#password-instruction").show();
 				if(website == 3){  // on third site
 					// they got it!
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
@@ -251,7 +252,7 @@ function submitAnswer(){
 					getFirstGrid();
 				}else{
 					registrationpage();
-						
+					
 
 				}
 			}
