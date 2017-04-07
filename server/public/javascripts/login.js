@@ -5,7 +5,7 @@ var emojis = ["🏁","🆗","💬","🔔","⏸","🔄","🎦","✅","💯","⛔"
 var websites = ["Jee-Mail","Fakebook","Safety Beeposit"];
 var username;
 var website ;
-var mode;
+var mode; // test, 
 var password;
 var answer = "";
 var counter=0;
@@ -121,6 +121,7 @@ function registrationpage(){
 	$('#main-div').hide();
 	$('#registration-div').show();
 	$('#final-div').hide();
+	websites = ["Jee-Mail","Fakebook","Safety Beeposit"];
 	mode = "test";
 }
 function mainpage(){
@@ -151,8 +152,8 @@ function getGrid(tablecell){
 	
 	var x = tablecell.getAttribute("x");
 	var y = tablecell.getAttribute("y");
-	console.log(x);
-	console.log(y);
+	//console.log(x);
+	//console.log(y);
 	$.get("/grid",{user: username, grid: counter, x:x, y:y , website:websites[website]}).done(function(data) {
 		printTable(data.grid);
 	});
@@ -192,6 +193,7 @@ function tableText(tablecell, tabletext, event) {
 	if(counter <4){
 		$("#progress").text($("#progress").text() +"•");
 		console.log(tabletext);
+		console.log(websites[website]);
 		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
 		counter ++;
 		$("#results").text("");
@@ -226,22 +228,25 @@ function submitAnswer(){
 				if(website == 3){  // on third site
 					//if all correct then we can test 
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-						if(testing[0] == 0 && tries[0] != 0)
-							check(1);
-						else if(testing[1] == 0&& tries[1] != 0)
-							check(2);
-						else if(testing[2] == 0&& tries[2] != 0)
-							check(3);
+						if(mode != "login"){
+							websites = shuffle(websites);
+						}
+						alert("ABOUT TO TEST! WE ARE AT...");
+						if(testing[website] == 0 && tries[website] != 0){
+							console.log("testing "+0);
+							tries[website]--;
+							test[website] = 1;
+							check(website);
+						}
 						else{
 							alert("You Successfully remembered all passwords");
 							registrationpage();
 						}
-						 
-
 					}
 					// they didn't get it :(
 					else{
 						// ALL DONE!
+						alert("I'm sorry. You didn't guess the passwords correctly.")
 						finalpage("n_ok");
 					}
 
@@ -275,61 +280,37 @@ function submitAnswer(){
 }
 
 
-// function submitAnswer1(){
-// 	//console.log("done");
-// 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
-// 		if(data.status == "ok"){
-// 			correct[website] = 1;
-// 		}
-// 		else {
-// 		}
-// 	});
-
-// 	answer ="";
-// 	$("#progress").text("");
-// 	counter = 0;
-// 	$("#results").text("");	
-// 	$("#website").text(websites[website]);	
-
-// 	website = website+1;
-// 	if(website == 3){
-// 		// they got it!
-// 		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-// 			finalpage("ok");
-// 		}
-// 		// they didn't get it, but they have more tries!
-// 		else if(tries < 3){
-// 			var trystring = "try";
-// 			if(tries>1) trystring = "tries";
-// 			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
-// 			tries ++;
-// 			website = 0;
-// 			$("#results").text("");	
-// 			getFirstGrid();
-// 		}
-// 		// they didn't get it :(
-// 		else{
-// 			// ALL DONE!
-// 			finalpage("n_ok");
-// 		}
-
-// 	}
-// 	$("#results").text("");	
-// 	getFirstGrid();
-
-// }
-
-
 function check(site){
-	alert("testing1");
+	//alert("testing");
 	website = site;
+	website++;
 	$("#website").text(websites[website]);
-	tries = [0,0,0];
-	mode = "final"
+	//tries = [0,0,0];
+	mode = "login"
 	$("#password-instruction").hide();
+	$("results").text("");
+
 	getFirstGrid();
 }
 
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  return array;
+}
 
 
 function reset(){
