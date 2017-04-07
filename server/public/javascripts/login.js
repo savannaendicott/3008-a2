@@ -188,19 +188,18 @@ function fillpword(){
 }
 
 function tableText(tablecell, tabletext, event) {
-	console.log(answer.length);
+	//console.log(answer.length);
 	if(counter <4){
 		$("#progress").text($("#progress").text() +"•");
 		console.log(tabletext);
 		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
 		counter ++;
-		$("#results").test("");
+		$("#results").text("");
 		getGrid(tablecell)
 	}
 	if(counter == 4){
 		console.log(answer);
 		$("#ok-button").show();
-
 	}
 }
 function submitAnswer(){
@@ -213,9 +212,10 @@ function submitAnswer(){
 				$("#progress").text("");
 				counter =0;
 				$("#results").text("");	
+				console.log("got status OK!");
 				getFirstGrid();
 				
-		 }//else if (mode == "final"){
+			 }//else if (mode == "final"){
 				// if(website == 3){
 				// 	done();
 				// 	break;
