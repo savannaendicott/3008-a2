@@ -324,7 +324,7 @@ function check(site){
 	alert("testing1");
 	website = site;
 	$("#website").text(websites[website]);
-	tries = [0,0,0];
+	tries[website] = 3;
 	mode = "final"
 	$("#password-instruction").hide();
 	getFirstGrid();
