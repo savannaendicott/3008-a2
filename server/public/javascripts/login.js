@@ -230,11 +230,12 @@ function submitAnswer(){
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
 						if(mode != "login"){
 							websites = shuffle(websites);
+
 						}
-						alert("ABOUT TO TEST! WE ARE AT...");
-						if(testing[website] == 0 && tries[website] != 0){
+
+						alert("ABOUT TO TEST! WE ARE AT..."  );
+						if(testing[website] == 0 ){
 							console.log("testing "+0);
-							tries[website]--;
 							test[website] = 1;
 							check(website);
 						}
@@ -266,10 +267,13 @@ function submitAnswer(){
 		}
 	else {
 		alert("😭Please try again.😭");
+		if(mode == "Login"){
+			websites = shuffle(websites);
+			getFirstGrid();
+		}
 		if(tries[website] == 0){
 			registrationpage();
 		}else{
-			alert(tries[website]);
 			tries[website] -= 1;
 			reset();
 			fillpword();
@@ -282,26 +286,15 @@ function submitAnswer(){
 
 
 function check(site){
-<<<<<<< HEAD
-	//alert("testing");
-=======
->>>>>>> origin/master
+
 	website = site;
 	website++;
 	$("#website").text(websites[website]);
-<<<<<<< HEAD
-	//tries = [0,0,0];
-	mode = "login"
-	$("#password-instruction").hide();
-	$("results").text("");
-
-=======
-	tries[website] = 3;
+	//tries[website] = 3;
 	mode = "login"
 	$("#password-instruction").hide();
 	$("#progress").text("");
 	$("#results").text("");
->>>>>>> origin/master
 	getFirstGrid();
 }
 
