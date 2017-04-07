@@ -226,16 +226,18 @@ function submitAnswer(){
 				if(website == 3){  // on third site
 					// they got it!
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-					// 	if(testing[0] == 0 && tries[0] != 0)
-					// 		check(1);
-					// 	else if(testing[1] == 0&& tries[1] != 0)
-					// 		check(2);
-					// 	else if(testing[2] == 0&& tries[2] != 0)
-					// 		check(3);
-					// 	else{
-					// 		finalpage("ok");
-					// 	 }
-						registrationpage();
+						if(testing[0] == 0 && tries[0] != 0)
+							check(1);
+						else if(testing[1] == 0&& tries[1] != 0)
+							check(2);
+						else if(testing[2] == 0&& tries[2] != 0)
+							check(3);
+						else{
+							alert("You Successfully remembered all passwords");
+							registrationpage();
+						}
+						 
+
 					}
 					// they didn't get it :(
 					else{
@@ -273,53 +275,55 @@ function submitAnswer(){
 }
 
 
-function submitAnswer1(){
-	//console.log("done");
-	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
-		if(data.status == "ok"){
-			correct[website] = 1;
-		}
-		else {
-		}
-	});
+// function submitAnswer1(){
+// 	//console.log("done");
+// 	$.post("/login",{username: username, password:answer, website:websites[website]}).done(function(data) {
+// 		if(data.status == "ok"){
+// 			correct[website] = 1;
+// 		}
+// 		else {
+// 		}
+// 	});
 
-	answer ="";
-	$("#progress").text("");
-	counter = 0;
-	$("#results").text("");	
-	$("#website").text(websites[website]);	
+// 	answer ="";
+// 	$("#progress").text("");
+// 	counter = 0;
+// 	$("#results").text("");	
+// 	$("#website").text(websites[website]);	
 
-	website = website+1;
-	if(website == 3){
-		// they got it!
-		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
-			finalpage("ok");
-		}
-		// they didn't get it, but they have more tries!
-		else if(tries < 3){
-			var trystring = "try";
-			if(tries>1) trystring = "tries";
-			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
-			tries ++;
-			website = 0;
-			$("#results").text("");	
-			getFirstGrid();
-		}
-		// they didn't get it :(
-		else{
-			// ALL DONE!
-			finalpage("n_ok");
-		}
+// 	website = website+1;
+// 	if(website == 3){
+// 		// they got it!
+// 		if(correct[0]==1 && correct[1]==1 && correct[2]==1){
+// 			finalpage("ok");
+// 		}
+// 		// they didn't get it, but they have more tries!
+// 		else if(tries < 3){
+// 			var trystring = "try";
+// 			if(tries>1) trystring = "tries";
+// 			alert("You got one of the website's passwords wrong! You have "+ (3-tries) +" more "+trystring);
+// 			tries ++;
+// 			website = 0;
+// 			$("#results").text("");	
+// 			getFirstGrid();
+// 		}
+// 		// they didn't get it :(
+// 		else{
+// 			// ALL DONE!
+// 			finalpage("n_ok");
+// 		}
 
-	}
-	$("#results").text("");	
-	getFirstGrid();
+// 	}
+// 	$("#results").text("");	
+// 	getFirstGrid();
 
-}
+// }
 
 
 function check(site){
+	alert("testing1");
 	website = site;
+	$("#website").text(websites[website]);
 	tries = [0,0,0];
 	mode = "final"
 	$("#password-instruction").hide();
