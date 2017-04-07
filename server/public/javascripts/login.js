@@ -127,6 +127,7 @@ function mainpage(){
 	$('#final-div').hide();
 	$('#main-div').show();
 	$('ok-button').hide();
+	$("#progress").text("");
 	$("#results").text("");	
 	getFirstGrid();
 	
@@ -168,6 +169,7 @@ function getFirstGrid(){
 		tries =0;	
 		answer ="";
 		counter = 0;
+		$("#progress").text("");
 		fillpword();			
 	});
 	}
@@ -189,8 +191,6 @@ function tableText(tablecell, tabletext, event) {
 		console.log(tabletext);
 		answer+=tablecell.getAttribute("num") + ":"+tablecell.getAttribute("x") + ","+tablecell.getAttribute("y")+";";
 		counter ++;
-
-		$("#results").text("");
 		getGrid(tablecell)
 	}
 	if(counter == 4){
@@ -266,7 +266,7 @@ function submitAnswer(){
 	// 	}
 	else {
 		alert("😭Please try again.😭");
-		if(tries[website] ==0){
+		if(tries[website] == 0){
 			registrationpage();
 		}else{
 			tries[website] -= 1;
