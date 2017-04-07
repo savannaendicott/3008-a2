@@ -125,6 +125,7 @@ function mainpage(){
 	$('#main-div').show();
 	$('ok-button').hide();
 	$("#results").text("");	
+	$("#progress").text("");
 	getFirstGrid();
 	
 }
