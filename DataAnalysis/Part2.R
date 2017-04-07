@@ -5,7 +5,7 @@
 # calls sort for each scheme
 # calls analyze for each scheme 
 getData = function(){
-  Text  <- read.table(file="server/logs/loginsNew.log", head=TRUE,sep=" ")
+  Text  <- read.table(file="server/logs/loginsNew.log", head=TRUE, sep=" ")
   
   sort(Text, "DataAnalysis/Logfiles/EmojiScheme.csv")
  
@@ -15,7 +15,7 @@ getData = function(){
   
   
   
-  getGraphs(a)
+ # getGraphs(a)
 }
 
 
@@ -32,11 +32,13 @@ sort = function(data, outputFile){
   time = paste(t,t2)
   event = data[,6]
   site = data[,7]
-  user = data[,8]
-
-  print(event)
+  mode = data[,8]
+  user = data[,9]
   
-  df <- data.frame( user = user, event =  event, site = site,  time = time)
+
+  print(mode)
+  
+  df <- data.frame( user = user, event =  event, site = site, mode = mode,  time = time)
   info <- data.frame(user = character(0), site = character(0), event = character(0),  timeTaken_sec = numeric())
   initTime = 0
   finalTime = 0
@@ -58,14 +60,14 @@ sort = function(data, outputFile){
         
       }
       # successful login
-      else if(set[row,]$event == "success")
+      else if(set[row,]$event == "success" && set[row,]$mode == "login")
       {
         e = "Successful Login"
         finalTime =  set[row,]$time
         
       }
       # failed login
-      else if (set[row,]$event == "unsuccessful" )
+      else if (set[row,]$event == "unsuccessful" && set[row,]$mode == "login")
       {
         e = "Failed Login"
         finalTime =  set[row,]$time
