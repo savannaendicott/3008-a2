@@ -224,7 +224,7 @@ function submitAnswer(){
 		 	mode = "test";
 		 	$("#password-instruction").show();
 				if(website == 3){  // on third site
-					// they got it!
+					//if all correct then we can test 
 					if(correct[0]==1 && correct[1]==1 && correct[2]==1){
 						if(testing[0] == 0 && tries[0] != 0)
 							check(1);
