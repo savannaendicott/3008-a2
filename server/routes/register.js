@@ -15,6 +15,7 @@ log4js.configure({
 router.get('/', function(req, res, next) {
     var username = req.query.user;
     var website = req.query.website;
+    var mode = "init";
 
     if (username == undefined) {
       res.json(400, {status:'error', err:'must register with username'});
@@ -76,7 +77,7 @@ router.get('/', function(req, res, next) {
       [username, website, pwstring, pwhash, usersalt], function(err){
         var log = log4js.getLogger('password');
        res.json({password: pass});
-        log.info("create",website, username);
+        log.info("create",website, mode, username);
       
     });
 });

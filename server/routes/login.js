@@ -15,15 +15,16 @@ router.post('/', function(req, res, next) {
   var username = req.body.username;
   var password = req.body.password;
   var website = req.body.website;
+  var mode = req.body.mode;
   req.db.all("SELECT * FROM users WHERE username=? AND website=?;", [username, website], function(err, rows) {
     var log = log4js.getLogger('password');
     var hash = crypto.createHash('sha256').update(website+password+rows[0].salt).digest('hex');
     if (hash == rows[0].hash) {
       res.json({'status': 'ok'});
-      log.info("successful", website, username);
+      log.info("successful", website, mode, username);
     } else {
       res.json({'status': 'wrong password'});
-      log.info("unsuccessful", website, username);
+      log.info("unsuccessful", website, mode, username);
       
     }
   });
