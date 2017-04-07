@@ -1,106 +1,324 @@
-"","user","scheme","site","event","timeTaken_sec"
-"1",123,"NA","Jee-Mail","Created Password",0
-"2",123,"NA","Jee-Mail","testing",13
-"3",123,"NA","Jee-Mail","testing",21
-"4",123,"NA","Fakebook","Created Password",0
-"5",123,"NA","Fakebook","testing",25
-"6",123,"NA","Fakebook","testing",32
-"7",123,"NA","Safety-Beeposit","Created Password",0
-"8",123,"NA","Safety-Beeposit","testing",18
-"9",123,"NA","Safety-Beeposit","testing",26
-"10",123,"NA","Fakebook","Failed Login",36
-"11",123,"NA","Fakebook","Failed Login",44
-"12",123,"NA","Jee-Mail","Created Password",0
-"13",123,"NA","Jee-Mail","Created Password",0
-"14",123,"NA","Jee-Mail","testing",13
-"15",123,"NA","Jee-Mail","testing",21
-"16",123,"NA","Fakebook","Created Password",0
-"17",123,"NA","Fakebook","testing",25
-"18",123,"NA","Fakebook","testing",32
-"19",123,"NA","Safety-Beeposit","Created Password",0
-"20",123,"NA","Safety-Beeposit","testing",18
-"21",123,"NA","Safety-Beeposit","testing",26
-"22",123,"NA","Fakebook","testing",36
-"23",123,"NA","Fakebook","testing",44
-"24",123,"NA","Fakebook","testing",36
-"25",123,"NA","Fakebook","testing",44
-"26",123,"NA","Fakebook","testing",36
-"27",123,"NA","Fakebook","testing",44
-"28",123,"NA","Jee-Mail","Created Password",0
-"29",123,"NA","Jee-Mail","Created Password",0
-"30",123,"NA","Jee-Mail","testing",13
-"31",123,"NA","Jee-Mail","testing",21
-"32",123,"NA","Fakebook","Created Password",0
-"33",123,"NA","Fakebook","testing",25
-"34",123,"NA","Fakebook","testing",32
-"35",123,"NA","Safety-Beeposit","Created Password",0
-"36",123,"NA","Safety-Beeposit","testing",18
-"37",123,"NA","Safety-Beeposit","testing",26
-"38",123,"NA","Fakebook","Failed Login",36
-"39",123,"NA","Fakebook","Failed Login",44
-"40",123,"NA","Jee-Mail","Created Password",0
-"41",123,"NA","Jee-Mail","Created Password",0
-"42",123,"NA","Jee-Mail","testing",13
-"43",123,"NA","Jee-Mail","testing",21
-"44",123,"NA","Fakebook","Created Password",0
-"45",123,"NA","Fakebook","testing",25
-"46",123,"NA","Fakebook","testing",32
-"47",123,"NA","Safety-Beeposit","Created Password",0
-"48",123,"NA","Safety-Beeposit","testing",18
-"49",123,"NA","Safety-Beeposit","testing",26
-"50",123,"NA","Fakebook","Failed Login",36
-"51",123,"NA","Fakebook","Failed Login",44
-"52",123,"NA","Jee-Mail","Created Password",0
-"53",123,"NA","Jee-Mail","Created Password",0
-"54",123,"NA","Jee-Mail","testing",13
-"55",123,"NA","Jee-Mail","testing",21
-"56",123,"NA","Fakebook","Created Password",0
-"57",123,"NA","Fakebook","testing",25
-"58",123,"NA","Fakebook","testing",32
-"59",123,"NA","Safety-Beeposit","Created Password",0
-"60",123,"NA","Safety-Beeposit","testing",18
-"61",123,"NA","Safety-Beeposit","testing",26
-"62",123,"NA","Fakebook","Failed Login",36
-"63",123,"NA","Fakebook","Failed Login",44
-"64",123,"NA","Fakebook","Failed Login",36
-"65",123,"NA","Fakebook","Failed Login",44
-"66",123,"NA","Fakebook","Failed Login",36
-"67",123,"NA","Fakebook","Failed Login",44
-"68",123,"NA","Fakebook","Failed Login",36
-"69",123,"NA","Fakebook","Failed Login",44
-"70",123,"NA","Fakebook","Failed Login",36
-"71",123,"NA","Fakebook","Failed Login",44
-"72",123,"NA","Fakebook","Failed Login",36
-"73",123,"NA","Fakebook","testing",44
-"74",123,"NA","Fakebook","testing",36
-"75",123,"NA","Fakebook","testing",44
-"76",123,"NA","Fakebook","testing",44
-"77",123,"NA","Fakebook","testing",36
-"78",123,"NA","Fakebook","testing",44
-"79",123,"NA","Fakebook","testing",44
-"80",123,"NA","Fakebook","testing",36
-"81",123,"NA","Fakebook","testing",44
-"82",123,"NA","Fakebook","testing",44
-"83",123,"NA","Fakebook","testing",36
-"84",123,"NA","Fakebook","testing",44
-"85",123,"NA","Fakebook","testing",44
-"86",123,"NA","Fakebook","testing",36
-"87",123,"NA","Fakebook","testing",44
-"88",123,"NA","Fakebook","testing",44
-"89",123,"NA","Fakebook","testing",36
-"90",123,"NA","Fakebook","testing",44
-"91",123,"NA","Fakebook","testing",44
-"92",123,"NA","Fakebook","testing",36
-"93",123,"NA","Fakebook","testing",44
-"94",123,"NA","Fakebook","testing",44
-"95",123,"NA","Fakebook","testing",36
-"96",123,"NA","Fakebook","testing",44
-"97",123,"NA","Fakebook","testing",44
-"98",123,"NA","Fakebook","testing",36
-"99",123,"NA","Fakebook","testing",44
-"100",123,"NA","Fakebook","testing",44
-"101",123,"NA","Fakebook","testing",36
-"102",123,"NA","Fakebook","testing",44
-"103",123,"NA","Fakebook","testing",44
-"104",123,"NA","Fakebook","testing",36
-"105",123,"NA","Fakebook","testing",44
+"","user","site","event","timeTaken_sec"
+"1","qe2","Jee-Mail","Created Password",0
+"2","a","Jee-Mail","Created Password",0
+"3","a","Jee-Mail","Created Password",0
+"4","a","Jee-Mail","Created Password",0
+"5","a","Jee-Mail","Created Password",0
+"6","a","Jee-Mail","Successful Login",215
+"7","a","Jee-Mail","testing",215
+"8","a","Jee-Mail","Successful Login",257
+"9","a","Jee-Mail","testing",257
+"10","a","Fakebook","Created Password",0
+"11","a","Fakebook","Successful Login",21
+"12","a","Fakebook","testing",21
+"13","a","Fakebook","Successful Login",33
+"14","a","Fakebook","testing",33
+"15","a","Safety-Beeposit","Created Password",0
+"16","a","Safety-Beeposit","testing",28
+"17","a","Safety-Beeposit","testing",28
+"18","a","Safety-Beeposit","testing",47
+"19","a","Safety-Beeposit","testing",47
+"20","a","Jee-Mail","testing",206
+"21","a","Jee-Mail","Successful Login",206
+"22","a","Fakebook","Failed Login",268
+"23","a","Fakebook","Successful Login",443
+"24","a","Fakebook","Successful Login",443
+"25","a","Jee-Mail","Successful Login",470
+"26","a","Jee-Mail","Successful Login",470
+"27","a","Safety-Beeposit","testing",506
+"28","a","Safety-Beeposit","Successful Login",506
+"29","as","Jee-Mail","Created Password",0
+"30","as","Jee-Mail","Created Password",0
+"31","as","Jee-Mail","Successful Login",70
+"32","as","Jee-Mail","testing",70
+"33","as","Jee-Mail","Successful Login",98
+"34","as","Jee-Mail","testing",98
+"35","as","Fakebook","Created Password",0
+"36","as","Fakebook","testing",49
+"37","as","Fakebook","testing",49
+"38","as","Fakebook","testing",68
+"39","as","Fakebook","testing",68
+"40","as","Safety-Beeposit","Created Password",0
+"41","as","Safety-Beeposit","testing",45
+"42","as","Safety-Beeposit","testing",45
+"43","as","Safety-Beeposit","testing",64
+"44","as","Safety-Beeposit","testing",64
+"45","as","Safety-Beeposit","testing",90
+"46","as","Safety-Beeposit","Successful Login",90
+"47","as","Jee-Mail","Failed Login",112
+"48","as","Jee-Mail","Failed Login",124
+"49","as","Jee-Mail","Failed Login",144
+"50","as","Jee-Mail","Failed Login",213
+"51","aas","Jee-Mail","Created Password",0
+"52","aas","Safety-Beeposit","Created Password",0
+"53","aasd","Jee-Mail","Created Password",0
+"54","aasd","Jee-Mail","Created Password",0
+"55","aasd","Jee-Mail","testing",13
+"56","aasd","Jee-Mail","testing",13
+"57","aasd","Jee-Mail","testing",20
+"58","aasd","Jee-Mail","testing",20
+"59","aasd","Fakebook","Created Password",0
+"60","aasd","Fakebook","testing",9
+"61","aasd","Fakebook","testing",9
+"62","aasd","Fakebook","testing",17
+"63","aasd","Fakebook","testing",17
+"64","aasd","Safety-Beeposit","Created Password",0
+"65","aasd","Safety-Beeposit","testing",23
+"66","aasd","Safety-Beeposit","testing",23
+"67","aasd","Safety-Beeposit","testing",31
+"68","aasd","Safety-Beeposit","testing",31
+"69","aasd","Fakebook","Failed Login",69
+"70","aasd","Fakebook","Failed Login",73
+"71","aasd","Fakebook","Failed Login",78
+"72","aasd","Fakebook","Failed Login",88
+"73","aasda","Jee-Mail","Created Password",0
+"74","aasda","Safety-Beeposit","Created Password",0
+"75","asd","Jee-Mail","Created Password",0
+"76","asd","Jee-Mail","Created Password",0
+"77","asd","Jee-Mail","testing",47
+"78","asd","Jee-Mail","testing",47
+"79","asd","Jee-Mail","testing",56
+"80","asd","Jee-Mail","testing",56
+"81","asd","Fakebook","Created Password",0
+"82","asd","Fakebook","testing",39
+"83","asd","Fakebook","testing",39
+"84","asd","Fakebook","testing",59
+"85","asd","Fakebook","testing",59
+"86","asd","Safety-Beeposit","Created Password",0
+"87","asd","Safety-Beeposit","testing",70
+"88","asd","Safety-Beeposit","testing",87
+"89","asd","Safety-Beeposit","testing",87
+"90","asd","Safety-Beeposit","testing",96
+"91","asd","Safety-Beeposit","testing",96
+"92","asd","Safety-Beeposit","testing",106
+"93","asd","Safety-Beeposit","Successful Login",106
+"94","aabb","Jee-Mail","Created Password",0
+"95","aabb","Jee-Mail","testing",38
+"96","aabb","Jee-Mail","testing",38
+"97","aabb","Jee-Mail","testing",49
+"98","aabb","Jee-Mail","testing",49
+"99","aewq","Jee-Mail","Created Password",0
+"100","aewq","Jee-Mail","Created Password",0
+"101","aewq","Jee-Mail","testing",23
+"102","aewq","Jee-Mail","testing",23
+"103","aewq","Jee-Mail","testing",31
+"104","aewq","Jee-Mail","testing",31
+"105","aewq","Fakebook","Created Password",0
+"106","aewq","Fakebook","testing",12
+"107","aewq","Fakebook","testing",12
+"108","aewq","Fakebook","testing",27
+"109","aewq","Fakebook","testing",27
+"110","aewq","Safety-Beeposit","Created Password",0
+"111","aewq","Safety-Beeposit","testing",25
+"112","aewq","Safety-Beeposit","testing",25
+"113","aewq","Safety-Beeposit","testing",37
+"114","aewq","Safety-Beeposit","testing",37
+"115","aewq","Jee-Mail","testing",75
+"116","aewq","Jee-Mail","Successful Login",75
+"117","aewq","Fakebook","Failed Login",122
+"118","aewq","Fakebook","Failed Login",134
+"119","aewq","Fakebook","Failed Login",137
+"120","aewq","Fakebook","Failed Login",150
+"121","mew","Jee-Mail","Created Password",0
+"122","mew","Safety-Beeposit","Created Password",0
+"123","mewe","Jee-Mail","Created Password",0
+"124","mewe","Jee-Mail","Created Password",0
+"125","mewe","Jee-Mail","testing",37
+"126","mewe","Jee-Mail","testing",37
+"127","mewe","Jee-Mail","testing",49
+"128","mewe","Jee-Mail","testing",49
+"129","mewe","Fakebook","Created Password",0
+"130","mewe","Fakebook","testing",31
+"131","mewe","Fakebook","testing",31
+"132","mewe","Fakebook","testing",39
+"133","mewe","Fakebook","testing",39
+"134","mewe","Safety-Beeposit","Created Password",0
+"135","mewe","Safety-Beeposit","testing",31
+"136","mewe","Safety-Beeposit","testing",31
+"137","mewe","Safety-Beeposit","testing",40
+"138","mewe","Safety-Beeposit","testing",40
+"139","mewe","Fakebook","testing",62
+"140","mewe","Fakebook","Successful Login",62
+"141","mewe","Fakebook","testing",108
+"142","mewe","Fakebook","Successful Login",108
+"143","mewe","Jee-Mail","testing",124
+"144","mewe","Jee-Mail","Successful Login",124
+"145","mewe","Fakebook","Successful Login",146
+"146","mewe","Fakebook","Successful Login",146
+"147","mewe","Fakebook","Successful Login",222
+"148","mewe","Fakebook","Successful Login",222
+"149","mewe","Safety-Beeposit","Successful Login",238
+"150","mewe","Safety-Beeposit","Successful Login",238
+"151","wer","Jee-Mail","Created Password",0
+"152","wer","Jee-Mail","Created Password",0
+"153","wer","Jee-Mail","testing",50
+"154","wer","Jee-Mail","testing",50
+"155","wer","Jee-Mail","testing",73
+"156","wer","Jee-Mail","testing",113
+"157","wer","Jee-Mail","testing",116
+"158","jagger","Jee-Mail","Created Password",0
+"159","jagger","Jee-Mail","testing",23
+"160","jagger","Jee-Mail","testing",23
+"161","jagger","Jee-Mail","testing",47
+"162","jagger","Jee-Mail","testing",47
+"163","jagger","Fakebook","Created Password",0
+"164","jagger","Fakebook","testing",21
+"165","jagger","Fakebook","testing",21
+"166","jagger","Fakebook","testing",35
+"167","jagger","Fakebook","testing",35
+"168","jagger","Safety-Beeposit","Created Password",0
+"169","jagger","Safety-Beeposit","testing",36
+"170","jagger","Safety-Beeposit","testing",36
+"171","jagger","Safety-Beeposit","testing",55
+"172","jagger","Safety-Beeposit","testing",55
+"173","jagger","Safety-Beeposit","testing",72
+"174","jagger","Safety-Beeposit","Successful Login",72
+"175","marlo","Jee-Mail","Created Password",0
+"176","marlo","Jee-Mail","Created Password",0
+"177","marlo","Jee-Mail","Created Password",0
+"178","marlo","Jee-Mail","testing",73
+"179","marlo","Jee-Mail","testing",73
+"180","marlo","Jee-Mail","testing",86
+"181","marlo","Jee-Mail","testing",86
+"182","marlo","Fakebook","Created Password",0
+"183","marlo","Fakebook","testing",18
+"184","marlo","Fakebook","testing",18
+"185","marlo","Fakebook","testing",33
+"186","marlo","Fakebook","testing",33
+"187","marlo","Safety-Beeposit","Created Password",0
+"188","marlo","Safety-Beeposit","testing",21
+"189","marlo","Safety-Beeposit","testing",21
+"190","marlo","Safety-Beeposit","testing",30
+"191","marlo","Safety-Beeposit","testing",30
+"192","sarah","Jee-Mail","Created Password",0
+"193","sarah","Jee-Mail","Created Password",0
+"194","sarah","Jee-Mail","testing",40
+"195","sarah","Jee-Mail","testing",40
+"196","sarah","Jee-Mail","testing",104
+"197","sarah","Jee-Mail","testing",142
+"198","sarah2","Jee-Mail","Created Password",0
+"199","sarah2","Jee-Mail","Created Password",0
+"200","sarah2","Jee-Mail","testing",45
+"201","sarah2","Jee-Mail","testing",45
+"202","sarah2","Jee-Mail","testing",69
+"203","sarah2","Jee-Mail","Created Password",0
+"204","sarah2","Jee-Mail","Created Password",0
+"205","sarah2","Jee-Mail","testing",22
+"206","sarah2","Jee-Mail","testing",22
+"207","sarah2","Jee-Mail","testing",30
+"208","sarah2","Jee-Mail","testing",30
+"209","sarah2","Fakebook","Created Password",0
+"210","sarah2","Fakebook","testing",16
+"211","sarah2","Fakebook","testing",16
+"212","sarah2","Fakebook","testing",26
+"213","sarah2","Fakebook","testing",26
+"214","sarah2","Safety-Beeposit","Created Password",0
+"215","sarah2","Safety-Beeposit","testing",26
+"216","sarah2","Safety-Beeposit","testing",26
+"217","sarah2","Safety-Beeposit","testing",43
+"218","sarah2","Safety-Beeposit","testing",53
+"219","sarah2","Safety-Beeposit","testing",53
+"220","yas","Jee-Mail","Created Password",0
+"221","yas","Jee-Mail","Created Password",0
+"222","yas","Jee-Mail","testing",54
+"223","yas","Jee-Mail","testing",54
+"224","yas","Jee-Mail","testing",80
+"225","yas","Jee-Mail","testing",80
+"226","yas","Fakebook","Created Password",0
+"227","yas","Fakebook","testing",43
+"228","yas","Fakebook","testing",43
+"229","yas","Fakebook","testing",58
+"230","yas","Fakebook","testing",58
+"231","yas","Safety-Beeposit","Created Password",0
+"232","yas","Safety-Beeposit","testing",35
+"233","yas","Safety-Beeposit","testing",35
+"234","yas","Safety-Beeposit","testing",59
+"235","yas","Safety-Beeposit","testing",59
+"236","hlegault","Jee-Mail","Created Password",0
+"237","hlegault","Jee-Mail","Created Password",0
+"238","hlegault","Jee-Mail","testing",68
+"239","hlegault","Jee-Mail","testing",68
+"240","hlegault","Jee-Mail","testing",83
+"241","hlegault","Jee-Mail","testing",83
+"242","hlegault","Fakebook","Created Password",0
+"243","hlegault","Fakebook","testing",15
+"244","hlegault","Fakebook","testing",15
+"245","hlegault","Fakebook","testing",23
+"246","hlegault","Fakebook","testing",23
+"247","hlegault","Safety-Beeposit","Created Password",0
+"248","hlegault","Safety-Beeposit","testing",12
+"249","hlegault","Safety-Beeposit","testing",12
+"250","hlegault","Safety-Beeposit","testing",33
+"251","hlegault","Safety-Beeposit","testing",33
+"252","hlegault","Safety-Beeposit","testing",73
+"253","hlegault","Safety-Beeposit","Successful Login",73
+"254","squirrel","Jee-Mail","Created Password",0
+"255","squirrel","Jee-Mail","Created Password",0
+"256","squirrel","Jee-Mail","Created Password",0
+"257","squirrel","Jee-Mail","testing",49
+"258","squirrel","Jee-Mail","testing",49
+"259","squirrel","Jee-Mail","testing",56
+"260","squirrel","Jee-Mail","testing",56
+"261","squirrel","Fakebook","Created Password",0
+"262","squirrel","Fakebook","testing",24
+"263","squirrel","Fakebook","testing",24
+"264","squirrel","Fakebook","testing",30
+"265","squirrel","Fakebook","testing",30
+"266","squirrel","Safety-Beeposit","Created Password",0
+"267","squirrel","Safety-Beeposit","testing",22
+"268","squirrel","Safety-Beeposit","testing",22
+"269","squirrel","Safety-Beeposit","testing",105
+"270","coco","Jee-Mail","Created Password",0
+"271","coco","Jee-Mail","Created Password",0
+"272","coco","Jee-Mail","testing",48
+"273","coco","Jee-Mail","testing",48
+"274","coco","Jee-Mail","testing",57
+"275","coco","Jee-Mail","testing",57
+"276","coco","Fakebook","Created Password",0
+"277","coco","Fakebook","testing",25
+"278","coco","Fakebook","testing",25
+"279","coco","Fakebook","testing",32
+"280","coco","Fakebook","testing",32
+"281","coco","Safety-Beeposit","Created Password",0
+"282","coco","Safety-Beeposit","testing",35
+"283","coco","Safety-Beeposit","testing",35
+"284","coco","Safety-Beeposit","testing",52
+"285","coco","Safety-Beeposit","testing",52
+"286","coco","Safety-Beeposit","testing",62
+"287","coco","Safety-Beeposit","Successful Login",62
+"288","joan","Jee-Mail","Created Password",0
+"289","joan","Jee-Mail","Created Password",0
+"290","joan","Jee-Mail","testing",48
+"291","joan","Jee-Mail","testing",59
+"292","joan","Jee-Mail","testing",59
+"293","joan","Jee-Mail","testing",79
+"294","joan","Jee-Mail","testing",79
+"295","joan","Fakebook","Created Password",0
+"296","joan","Fakebook","testing",31
+"297","joan","Fakebook","testing",31
+"298","joan","Fakebook","testing",59
+"299","joan","Fakebook","testing",59
+"300","joan","Safety-Beeposit","Created Password",0
+"301","joan","Safety-Beeposit","testing",54
+"302","joan","Safety-Beeposit","testing",54
+"303","joan","Safety-Beeposit","testing",61
+"304","joan","Safety-Beeposit","testing",61
+"305","joan","Safety-Beeposit","testing",78
+"306","joan","Safety-Beeposit","Successful Login",78
+"307","zeke","Jee-Mail","Created Password",0
+"308","zeke","Jee-Mail","Created Password",0
+"309","zeke","Jee-Mail","testing",34
+"310","zeke","Jee-Mail","testing",34
+"311","zeke","Jee-Mail","testing",46
+"312","zeke","Jee-Mail","testing",46
+"313","zeke","Fakebook","Created Password",0
+"314","zeke","Fakebook","testing",93
+"315","zeke","Fakebook","testing",93
+"316","zeke","Fakebook","testing",123
+"317","zeke","Fakebook","testing",123
+"318","zeke","Safety-Beeposit","Created Password",0
+"319","zeke","Safety-Beeposit","testing",57
+"320","zeke","Safety-Beeposit","testing",57
+"321","zeke","Safety-Beeposit","testing",78
+"322","zeke","Safety-Beeposit","testing",88
+"323","zeke","Safety-Beeposit","testing",88
